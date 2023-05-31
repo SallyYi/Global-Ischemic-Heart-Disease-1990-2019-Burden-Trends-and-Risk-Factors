@@ -1,0 +1,861 @@
+measure_id,measure_name,location_id,location_name,sex_id,sex_name,age_id,age_name,cause_id,cause_name,rei_id,rei_name,metric_id,metric_name,year,val,upper,lower
+1,Deaths,1,Global,1,Male,1,<5 years,493,Ischemic heart disease,85,Air pollution,1,Number,2019,0.0,0.0,0.0
+1,Deaths,1,Global,2,Female,1,<5 years,493,Ischemic heart disease,85,Air pollution,1,Number,2019,0.0,0.0,0.0
+1,Deaths,1,Global,1,Male,10,25-29 years,493,Ischemic heart disease,85,Air pollution,1,Number,2019,9460.195237842183,11647.839349919954,7576.725044520922
+1,Deaths,1,Global,2,Female,10,25-29 years,493,Ischemic heart disease,85,Air pollution,1,Number,2019,4366.931507967385,5403.825235850791,3467.3595033798238
+1,Deaths,1,Global,1,Male,11,30-34 years,493,Ischemic heart disease,85,Air pollution,1,Number,2019,19074.737237467303,23042.31870641093,15266.646289342267
+1,Deaths,1,Global,2,Female,11,30-34 years,493,Ischemic heart disease,85,Air pollution,1,Number,2019,7448.31386666871,9197.1600799572,5845.422456856637
+1,Deaths,1,Global,1,Male,12,35-39 years,493,Ischemic heart disease,85,Air pollution,1,Number,2019,28889.783779005425,35469.598928109604,22956.481849176664
+1,Deaths,1,Global,2,Female,12,35-39 years,493,Ischemic heart disease,85,Air pollution,1,Number,2019,10704.456564416834,13321.504610034754,8400.363118805437
+1,Deaths,1,Global,1,Male,13,40-44 years,493,Ischemic heart disease,85,Air pollution,1,Number,2019,43371.0866085144,53673.99987538655,34608.89599361355
+1,Deaths,1,Global,2,Female,13,40-44 years,493,Ischemic heart disease,85,Air pollution,1,Number,2019,17414.52675472249,21179.723991882347,13673.94717506067
+1,Deaths,1,Global,1,Male,14,45-49 years,493,Ischemic heart disease,85,Air pollution,1,Number,2019,65742.4203142957,80948.5326200047,51529.74328769897
+1,Deaths,1,Global,2,Female,14,45-49 years,493,Ischemic heart disease,85,Air pollution,1,Number,2019,25964.01222544666,31707.71548473936,20478.047065055176
+1,Deaths,1,Global,1,Male,15,50-54 years,493,Ischemic heart disease,85,Air pollution,1,Number,2019,91176.95871586907,112776.03548045734,71552.05527311887
+1,Deaths,1,Global,2,Female,15,50-54 years,493,Ischemic heart disease,85,Air pollution,1,Number,2019,39989.34828018191,49573.10960832417,30323.941362927373
+1,Deaths,1,Global,1,Male,16,55-59 years,493,Ischemic heart disease,85,Air pollution,1,Number,2019,112918.80919150934,139879.9352998578,88548.95121823151
+1,Deaths,1,Global,2,Female,16,55-59 years,493,Ischemic heart disease,85,Air pollution,1,Number,2019,51975.37057347665,65005.27632774744,40900.42414940449
+1,Deaths,1,Global,1,Male,17,60-64 years,493,Ischemic heart disease,85,Air pollution,1,Number,2019,126867.18933341617,157523.2134557905,98894.76939212935
+1,Deaths,1,Global,2,Female,17,60-64 years,493,Ischemic heart disease,85,Air pollution,1,Number,2019,70204.67287482803,86225.97328408793,54056.82758870483
+1,Deaths,1,Global,1,Male,18,65-69 years,493,Ischemic heart disease,85,Air pollution,1,Number,2019,135819.37819521036,167075.0420663267,105872.86264539587
+1,Deaths,1,Global,2,Female,18,65-69 years,493,Ischemic heart disease,85,Air pollution,1,Number,2019,88682.61050589287,108721.75780995382,70169.81189229847
+1,Deaths,1,Global,1,Male,19,70-74 years,493,Ischemic heart disease,85,Air pollution,1,Number,2019,132011.6881312237,166145.1337716028,99794.40867676435
+1,Deaths,1,Global,2,Female,19,70-74 years,493,Ischemic heart disease,85,Air pollution,1,Number,2019,98344.76062151692,122469.49531581344,72706.4191680055
+1,Deaths,1,Global,1,Male,20,75-79 years,493,Ischemic heart disease,85,Air pollution,1,Number,2019,116896.36686637673,145192.1188259069,90864.72859000828
+1,Deaths,1,Global,2,Female,20,75-79 years,493,Ischemic heart disease,85,Air pollution,1,Number,2019,103887.57300220132,130477.4447159949,80496.72972356847
+1,Deaths,1,Global,1,Male,30,80-84,493,Ischemic heart disease,85,Air pollution,1,Number,2019,106466.17669041525,134293.67578861926,80632.36371268902
+1,Deaths,1,Global,2,Female,30,80-84,493,Ischemic heart disease,85,Air pollution,1,Number,2019,112972.82127483687,143534.14134802338,83804.12733601012
+1,Deaths,1,Global,1,Male,31,85-89,493,Ischemic heart disease,85,Air pollution,1,Number,2019,65859.19353469915,82896.38563306331,49165.306517186014
+1,Deaths,1,Global,2,Female,31,85-89,493,Ischemic heart disease,85,Air pollution,1,Number,2019,79480.03050287986,104500.43315059434,57272.60538599835
+1,Deaths,1,Global,1,Male,32,90-94,493,Ischemic heart disease,85,Air pollution,1,Number,2019,21048.916672676893,27923.161625420875,14856.447941387813
+1,Deaths,1,Global,2,Female,32,90-94,493,Ischemic heart disease,85,Air pollution,1,Number,2019,39261.94362785009,52738.6620221964,27174.11790347789
+1,Deaths,1,Global,1,Male,235,95+ years,493,Ischemic heart disease,85,Air pollution,1,Number,2019,4494.290830111185,6229.308207167587,3004.7936550296113
+1,Deaths,1,Global,2,Female,235,95+ years,493,Ischemic heart disease,85,Air pollution,1,Number,2019,12422.936037828937,17275.9976592586,8082.937895795277
+1,Deaths,1,Global,1,Male,1,<5 years,493,Ischemic heart disease,89,Other environmental risks,1,Number,2019,0.0,0.0,0.0
+1,Deaths,1,Global,2,Female,1,<5 years,493,Ischemic heart disease,89,Other environmental risks,1,Number,2019,0.0,0.0,0.0
+1,Deaths,1,Global,1,Male,10,25-29 years,493,Ischemic heart disease,89,Other environmental risks,1,Number,2019,349.40364402127284,1079.1323399629484,21.596300744445234
+1,Deaths,1,Global,2,Female,10,25-29 years,493,Ischemic heart disease,89,Other environmental risks,1,Number,2019,132.32075070802216,445.13838052123685,4.945201157445016
+1,Deaths,1,Global,1,Male,11,30-34 years,493,Ischemic heart disease,89,Other environmental risks,1,Number,2019,1047.7564634706994,2576.539043007507,160.93093720234108
+1,Deaths,1,Global,2,Female,11,30-34 years,493,Ischemic heart disease,89,Other environmental risks,1,Number,2019,316.8485447164665,864.1613262670699,36.978953306673624
+1,Deaths,1,Global,1,Male,12,35-39 years,493,Ischemic heart disease,89,Other environmental risks,1,Number,2019,2162.1881179207166,4243.550749206714,638.4782152197461
+1,Deaths,1,Global,2,Female,12,35-39 years,493,Ischemic heart disease,89,Other environmental risks,1,Number,2019,600.2810499895838,1318.7137061012645,133.91098054928636
+1,Deaths,1,Global,1,Male,13,40-44 years,493,Ischemic heart disease,89,Other environmental risks,1,Number,2019,4157.138003597776,7404.483404779943,1634.4477989952256
+1,Deaths,1,Global,2,Female,13,40-44 years,493,Ischemic heart disease,89,Other environmental risks,1,Number,2019,1286.4769043298752,2493.6117247079483,416.13146112808994
+1,Deaths,1,Global,1,Male,14,45-49 years,493,Ischemic heart disease,89,Other environmental risks,1,Number,2019,8481.897751882056,13839.681355218012,4123.467592896529
+1,Deaths,1,Global,2,Female,14,45-49 years,493,Ischemic heart disease,89,Other environmental risks,1,Number,2019,2500.1834466607065,4429.363779869881,1032.0844040516683
+1,Deaths,1,Global,1,Male,15,50-54 years,493,Ischemic heart disease,89,Other environmental risks,1,Number,2019,14880.575693590852,22557.74232881445,8172.580034298142
+1,Deaths,1,Global,2,Female,15,50-54 years,493,Ischemic heart disease,89,Other environmental risks,1,Number,2019,4962.4412841779595,8101.006715951582,2428.3558015454096
+1,Deaths,1,Global,1,Male,16,55-59 years,493,Ischemic heart disease,89,Other environmental risks,1,Number,2019,21646.082908413286,31535.62476934778,12882.404328259188
+1,Deaths,1,Global,2,Female,16,55-59 years,493,Ischemic heart disease,89,Other environmental risks,1,Number,2019,7390.123434418983,11336.520300424709,3882.574765300458
+1,Deaths,1,Global,1,Male,17,60-64 years,493,Ischemic heart disease,89,Other environmental risks,1,Number,2019,27709.635954649668,39290.122328623875,17106.24015495036
+1,Deaths,1,Global,2,Female,17,60-64 years,493,Ischemic heart disease,89,Other environmental risks,1,Number,2019,11233.388727798187,17004.87965754775,6293.046595664463
+1,Deaths,1,Global,1,Male,18,65-69 years,493,Ischemic heart disease,89,Other environmental risks,1,Number,2019,33268.88785511253,47525.73945330364,20541.579863869505
+1,Deaths,1,Global,2,Female,18,65-69 years,493,Ischemic heart disease,89,Other environmental risks,1,Number,2019,15542.592651284935,23649.540419195197,8615.367641209907
+1,Deaths,1,Global,1,Male,19,70-74 years,493,Ischemic heart disease,89,Other environmental risks,1,Number,2019,36264.12618953731,51178.679592235036,22632.217384853724
+1,Deaths,1,Global,2,Female,19,70-74 years,493,Ischemic heart disease,89,Other environmental risks,1,Number,2019,18743.919458540156,28621.790213162632,10561.845673492737
+1,Deaths,1,Global,1,Male,20,75-79 years,493,Ischemic heart disease,89,Other environmental risks,1,Number,2019,36310.26590467056,52390.602424574856,23506.65279535211
+1,Deaths,1,Global,2,Female,20,75-79 years,493,Ischemic heart disease,89,Other environmental risks,1,Number,2019,21632.969274745305,33699.90134413382,12382.361331336384
+1,Deaths,1,Global,1,Male,30,80-84,493,Ischemic heart disease,89,Other environmental risks,1,Number,2019,35325.684648007526,57975.121352747934,17890.991379709518
+1,Deaths,1,Global,2,Female,30,80-84,493,Ischemic heart disease,89,Other environmental risks,1,Number,2019,24201.85251442479,42775.762005814635,11289.070700170834
+1,Deaths,1,Global,1,Male,31,85-89,493,Ischemic heart disease,89,Other environmental risks,1,Number,2019,27209.1403125,43621.651411114624,14002.35308722558
+1,Deaths,1,Global,2,Female,31,85-89,493,Ischemic heart disease,89,Other environmental risks,1,Number,2019,20515.463663149076,36917.90349191332,9292.60854069222
+1,Deaths,1,Global,1,Male,32,90-94,493,Ischemic heart disease,89,Other environmental risks,1,Number,2019,11748.10754782971,19664.147888012638,5986.591753922565
+1,Deaths,1,Global,2,Female,32,90-94,493,Ischemic heart disease,89,Other environmental risks,1,Number,2019,13279.861186702414,24378.462939686273,5797.259039417347
+1,Deaths,1,Global,1,Male,235,95+ years,493,Ischemic heart disease,89,Other environmental risks,1,Number,2019,3812.137601005907,6485.3017206624545,1878.0885902986192
+1,Deaths,1,Global,2,Female,235,95+ years,493,Ischemic heart disease,89,Other environmental risks,1,Number,2019,6328.688887960267,11721.206690094808,2504.4602981090748
+1,Deaths,1,Global,1,Male,1,<5 years,493,Ischemic heart disease,98,Tobacco,1,Number,2019,0.0,0.0,0.0
+1,Deaths,1,Global,2,Female,1,<5 years,493,Ischemic heart disease,98,Tobacco,1,Number,2019,0.0,0.0,0.0
+1,Deaths,1,Global,1,Male,10,25-29 years,493,Ischemic heart disease,98,Tobacco,1,Number,2019,2036.2658377169284,3263.848268704448,1091.8839915896278
+1,Deaths,1,Global,2,Female,10,25-29 years,493,Ischemic heart disease,98,Tobacco,1,Number,2019,1465.3594333478754,2265.166723791975,845.8985522735816
+1,Deaths,1,Global,1,Male,11,30-34 years,493,Ischemic heart disease,98,Tobacco,1,Number,2019,16288.552884728097,18684.786603348897,14085.258383919807
+1,Deaths,1,Global,2,Female,11,30-34 years,493,Ischemic heart disease,98,Tobacco,1,Number,2019,3678.8648951276477,4928.930139531744,2625.3951006744483
+1,Deaths,1,Global,1,Male,12,35-39 years,493,Ischemic heart disease,98,Tobacco,1,Number,2019,29680.715716734972,33694.997991818185,26320.324310655153
+1,Deaths,1,Global,2,Female,12,35-39 years,493,Ischemic heart disease,98,Tobacco,1,Number,2019,5987.506282732351,7780.301567193073,4531.727284448231
+1,Deaths,1,Global,1,Male,13,40-44 years,493,Ischemic heart disease,98,Tobacco,1,Number,2019,52010.98163513293,58312.61148523939,46421.053354210075
+1,Deaths,1,Global,2,Female,13,40-44 years,493,Ischemic heart disease,98,Tobacco,1,Number,2019,10330.034414089594,13334.2805415534,7599.288148421412
+1,Deaths,1,Global,1,Male,14,45-49 years,493,Ischemic heart disease,98,Tobacco,1,Number,2019,87542.78933009958,98624.46938359762,77595.45867231011
+1,Deaths,1,Global,2,Female,14,45-49 years,493,Ischemic heart disease,98,Tobacco,1,Number,2019,16995.33685501157,21544.76760170885,13463.976503244832
+1,Deaths,1,Global,1,Male,15,50-54 years,493,Ischemic heart disease,98,Tobacco,1,Number,2019,140329.5399286737,155781.32972402783,125682.00750168343
+1,Deaths,1,Global,2,Female,15,50-54 years,493,Ischemic heart disease,98,Tobacco,1,Number,2019,29022.753263959647,35386.706398903865,23412.676036400917
+1,Deaths,1,Global,1,Male,16,55-59 years,493,Ischemic heart disease,98,Tobacco,1,Number,2019,168060.6286517984,186189.01198480933,151734.24266780564
+1,Deaths,1,Global,2,Female,16,55-59 years,493,Ischemic heart disease,98,Tobacco,1,Number,2019,37911.314545277346,46093.42116447123,30911.167657516948
+1,Deaths,1,Global,1,Male,17,60-64 years,493,Ischemic heart disease,98,Tobacco,1,Number,2019,215939.57200886452,238393.71442009168,194776.06464476258
+1,Deaths,1,Global,2,Female,17,60-64 years,493,Ischemic heart disease,98,Tobacco,1,Number,2019,57995.05580936519,68627.85282542631,48264.884546866844
+1,Deaths,1,Global,1,Male,18,65-69 years,493,Ischemic heart disease,98,Tobacco,1,Number,2019,200244.40253771425,222657.1060383257,178204.08549103033
+1,Deaths,1,Global,2,Female,18,65-69 years,493,Ischemic heart disease,98,Tobacco,1,Number,2019,63841.00502174641,76052.7074214957,53019.25811347121
+1,Deaths,1,Global,1,Male,19,70-74 years,493,Ischemic heart disease,98,Tobacco,1,Number,2019,201670.42637566442,226834.73289266968,178813.5145511273
+1,Deaths,1,Global,2,Female,19,70-74 years,493,Ischemic heart disease,98,Tobacco,1,Number,2019,72381.30761566084,87227.99358600481,59929.50269942229
+1,Deaths,1,Global,1,Male,20,75-79 years,493,Ischemic heart disease,98,Tobacco,1,Number,2019,144971.8368306885,163875.17177015048,128241.47778864879
+1,Deaths,1,Global,2,Female,20,75-79 years,493,Ischemic heart disease,98,Tobacco,1,Number,2019,63938.755511039555,77483.59298226312,52903.923149114096
+1,Deaths,1,Global,1,Male,30,80-84,493,Ischemic heart disease,98,Tobacco,1,Number,2019,141255.93243523585,158651.01415922644,122732.52252070158
+1,Deaths,1,Global,2,Female,30,80-84,493,Ischemic heart disease,98,Tobacco,1,Number,2019,73937.85702231005,90337.20576031807,58250.07055466606
+1,Deaths,1,Global,1,Male,31,85-89,493,Ischemic heart disease,98,Tobacco,1,Number,2019,63942.079188433185,73746.01813775567,53754.82984631348
+1,Deaths,1,Global,2,Female,31,85-89,493,Ischemic heart disease,98,Tobacco,1,Number,2019,42348.25211264881,53435.555708038446,31772.633174426166
+1,Deaths,1,Global,1,Male,32,90-94,493,Ischemic heart disease,98,Tobacco,1,Number,2019,21434.747938174718,25433.891299949086,17471.33635184702
+1,Deaths,1,Global,2,Female,32,90-94,493,Ischemic heart disease,98,Tobacco,1,Number,2019,23893.31885165134,30413.873214768806,17605.556560600784
+1,Deaths,1,Global,1,Male,235,95+ years,493,Ischemic heart disease,98,Tobacco,1,Number,2019,2997.4305605563827,3865.5229205264245,2168.6980182172765
+1,Deaths,1,Global,2,Female,235,95+ years,493,Ischemic heart disease,98,Tobacco,1,Number,2019,6112.394563633327,8154.630158096445,4154.925112437932
+1,Deaths,1,Global,1,Male,1,<5 years,493,Ischemic heart disease,102,Alcohol use,1,Number,2019,0.0,0.0,0.0
+1,Deaths,1,Global,2,Female,1,<5 years,493,Ischemic heart disease,102,Alcohol use,1,Number,2019,0.0,0.0,0.0
+1,Deaths,1,Global,1,Male,8,15-19 years,493,Ischemic heart disease,102,Alcohol use,1,Number,2019,-62.49784341745304,-12.76024290739586,-112.52883524082056
+1,Deaths,1,Global,2,Female,8,15-19 years,493,Ischemic heart disease,102,Alcohol use,1,Number,2019,-19.37314114645968,-3.952028449627175,-34.33345125619146
+1,Deaths,1,Global,1,Male,9,20-24 years,493,Ischemic heart disease,102,Alcohol use,1,Number,2019,-176.45770593370932,66.93201590029051,-419.33017566761976
+1,Deaths,1,Global,2,Female,9,20-24 years,493,Ischemic heart disease,102,Alcohol use,1,Number,2019,-38.30155526342602,0.30220849006291584,-75.95451810767825
+1,Deaths,1,Global,1,Male,10,25-29 years,493,Ischemic heart disease,102,Alcohol use,1,Number,2019,-288.5448518868466,243.6656454008095,-825.978843692642
+1,Deaths,1,Global,2,Female,10,25-29 years,493,Ischemic heart disease,102,Alcohol use,1,Number,2019,-57.76543567386246,3.513054266061344,-115.87705620043559
+1,Deaths,1,Global,1,Male,11,30-34 years,493,Ischemic heart disease,102,Alcohol use,1,Number,2019,-578.243398751652,679.2376948174178,-1810.3319992251775
+1,Deaths,1,Global,2,Female,11,30-34 years,493,Ischemic heart disease,102,Alcohol use,1,Number,2019,-117.54188634096019,12.75714437111862,-238.21340476991264
+1,Deaths,1,Global,1,Male,12,35-39 years,493,Ischemic heart disease,102,Alcohol use,1,Number,2019,-852.7793848347063,1317.5918120313768,-3001.5575140987717
+1,Deaths,1,Global,2,Female,12,35-39 years,493,Ischemic heart disease,102,Alcohol use,1,Number,2019,-201.2936838513079,17.261190283935733,-412.9184485344033
+1,Deaths,1,Global,1,Male,13,40-44 years,493,Ischemic heart disease,102,Alcohol use,1,Number,2019,-1261.050759638733,2216.4056239641964,-4799.461535314665
+1,Deaths,1,Global,2,Female,13,40-44 years,493,Ischemic heart disease,102,Alcohol use,1,Number,2019,-343.8204321438226,77.40463992061142,-750.3951164265777
+1,Deaths,1,Global,1,Male,14,45-49 years,493,Ischemic heart disease,102,Alcohol use,1,Number,2019,-1907.4712721716978,3855.343795577542,-7849.059748722927
+1,Deaths,1,Global,2,Female,14,45-49 years,493,Ischemic heart disease,102,Alcohol use,1,Number,2019,-592.5052348948333,149.34800156596498,-1259.954467684051
+1,Deaths,1,Global,1,Male,15,50-54 years,493,Ischemic heart disease,102,Alcohol use,1,Number,2019,-2723.9701460430506,5962.490209631897,-11591.359158169082
+1,Deaths,1,Global,2,Female,15,50-54 years,493,Ischemic heart disease,102,Alcohol use,1,Number,2019,-1007.1964948218804,250.1346123034424,-2152.430917677311
+1,Deaths,1,Global,1,Male,16,55-59 years,493,Ischemic heart disease,102,Alcohol use,1,Number,2019,-3746.003452593968,8168.298844744658,-15668.809313105798
+1,Deaths,1,Global,2,Female,16,55-59 years,493,Ischemic heart disease,102,Alcohol use,1,Number,2019,-1528.9842032726453,468.47481705238374,-3360.20024753362
+1,Deaths,1,Global,1,Male,17,60-64 years,493,Ischemic heart disease,102,Alcohol use,1,Number,2019,-4923.073826131332,10383.381552910147,-19892.151979212544
+1,Deaths,1,Global,2,Female,17,60-64 years,493,Ischemic heart disease,102,Alcohol use,1,Number,2019,-2382.398580922669,774.8631116291131,-5286.230867512215
+1,Deaths,1,Global,1,Male,18,65-69 years,493,Ischemic heart disease,102,Alcohol use,1,Number,2019,-6186.190544981892,10455.860711966958,-22178.359069772283
+1,Deaths,1,Global,2,Female,18,65-69 years,493,Ischemic heart disease,102,Alcohol use,1,Number,2019,-3519.454701357083,591.3041103725685,-7296.458302890811
+1,Deaths,1,Global,1,Male,19,70-74 years,493,Ischemic heart disease,102,Alcohol use,1,Number,2019,-7148.014154323176,9413.674098439691,-24128.890896941823
+1,Deaths,1,Global,2,Female,19,70-74 years,493,Ischemic heart disease,102,Alcohol use,1,Number,2019,-4253.448254475695,865.22210378835,-8818.161000215423
+1,Deaths,1,Global,1,Male,20,75-79 years,493,Ischemic heart disease,102,Alcohol use,1,Number,2019,-9189.786437798628,6629.57699746647,-25129.713381699854
+1,Deaths,1,Global,2,Female,20,75-79 years,493,Ischemic heart disease,102,Alcohol use,1,Number,2019,-5958.603076661871,-106.28340402046898,-11437.005301955887
+1,Deaths,1,Global,1,Male,30,80-84,493,Ischemic heart disease,102,Alcohol use,1,Number,2019,-10491.930554908766,5271.900022779748,-26063.76727692757
+1,Deaths,1,Global,2,Female,30,80-84,493,Ischemic heart disease,102,Alcohol use,1,Number,2019,-7169.834140023002,667.5571080250953,-14274.324487960545
+1,Deaths,1,Global,1,Male,31,85-89,493,Ischemic heart disease,102,Alcohol use,1,Number,2019,-8279.261718842177,4414.447555787099,-21305.1303656891
+1,Deaths,1,Global,2,Female,31,85-89,493,Ischemic heart disease,102,Alcohol use,1,Number,2019,-7366.859434594558,1241.6279032018244,-15316.671732246794
+1,Deaths,1,Global,1,Male,32,90-94,493,Ischemic heart disease,102,Alcohol use,1,Number,2019,-4388.4859299249565,2005.5299640827636,-10674.86145979285
+1,Deaths,1,Global,2,Female,32,90-94,493,Ischemic heart disease,102,Alcohol use,1,Number,2019,-6075.36994049918,1359.7419900062284,-12806.292015257544
+1,Deaths,1,Global,1,Male,235,95+ years,493,Ischemic heart disease,102,Alcohol use,1,Number,2019,-1680.4544293316392,649.7366327528407,-4076.836873386443
+1,Deaths,1,Global,2,Female,235,95+ years,493,Ischemic heart disease,102,Alcohol use,1,Number,2019,-3448.5602119858017,1137.6564227410904,-7679.015481244534
+1,Deaths,1,Global,1,Male,1,<5 years,493,Ischemic heart disease,105,High fasting plasma glucose,1,Number,2019,0.0,0.0,0.0
+1,Deaths,1,Global,2,Female,1,<5 years,493,Ischemic heart disease,105,High fasting plasma glucose,1,Number,2019,0.0,0.0,0.0
+1,Deaths,1,Global,1,Male,10,25-29 years,493,Ischemic heart disease,105,High fasting plasma glucose,1,Number,2019,2485.464559586057,5586.617679633862,721.2385475179151
+1,Deaths,1,Global,2,Female,10,25-29 years,493,Ischemic heart disease,105,High fasting plasma glucose,1,Number,2019,1046.8571270834827,2317.276325245261,278.91662311843675
+1,Deaths,1,Global,1,Male,11,30-34 years,493,Ischemic heart disease,105,High fasting plasma glucose,1,Number,2019,5446.200270534196,10922.316331220523,2046.8671775975279
+1,Deaths,1,Global,2,Female,11,30-34 years,493,Ischemic heart disease,105,High fasting plasma glucose,1,Number,2019,1895.4861686563474,3730.2061673450735,690.9263883670077
+1,Deaths,1,Global,1,Male,12,35-39 years,493,Ischemic heart disease,105,High fasting plasma glucose,1,Number,2019,8545.427071636836,14720.514668685706,3818.2135077443204
+1,Deaths,1,Global,2,Female,12,35-39 years,493,Ischemic heart disease,105,High fasting plasma glucose,1,Number,2019,2809.7562626212202,4897.545086494861,1262.201990616464
+1,Deaths,1,Global,1,Male,13,40-44 years,493,Ischemic heart disease,105,High fasting plasma glucose,1,Number,2019,14097.253727986234,25034.793020834677,5442.10289800963
+1,Deaths,1,Global,2,Female,13,40-44 years,493,Ischemic heart disease,105,High fasting plasma glucose,1,Number,2019,4806.338915360107,8495.43076216864,1877.7961357436513
+1,Deaths,1,Global,1,Male,14,45-49 years,493,Ischemic heart disease,105,High fasting plasma glucose,1,Number,2019,29034.28642673206,48229.445638233985,13843.805975679388
+1,Deaths,1,Global,2,Female,14,45-49 years,493,Ischemic heart disease,105,High fasting plasma glucose,1,Number,2019,9653.209413220979,15643.128133719225,4585.227264377886
+1,Deaths,1,Global,1,Male,15,50-54 years,493,Ischemic heart disease,105,High fasting plasma glucose,1,Number,2019,54135.62344502583,83495.75522961083,29595.50148932991
+1,Deaths,1,Global,2,Female,15,50-54 years,493,Ischemic heart disease,105,High fasting plasma glucose,1,Number,2019,19821.445227928467,30027.986406721073,11030.99138280207
+1,Deaths,1,Global,1,Male,16,55-59 years,493,Ischemic heart disease,105,High fasting plasma glucose,1,Number,2019,93544.23649198559,141145.82317479714,54522.63802388839
+1,Deaths,1,Global,2,Female,16,55-59 years,493,Ischemic heart disease,105,High fasting plasma glucose,1,Number,2019,36625.977643193626,54996.154829720064,21071.89522731932
+1,Deaths,1,Global,1,Male,17,60-64 years,493,Ischemic heart disease,105,High fasting plasma glucose,1,Number,2019,132399.92072533403,203449.6657424469,71777.97317682696
+1,Deaths,1,Global,2,Female,17,60-64 years,493,Ischemic heart disease,105,High fasting plasma glucose,1,Number,2019,63802.787191753465,98491.04025513006,34200.39520137352
+1,Deaths,1,Global,1,Male,18,65-69 years,493,Ischemic heart disease,105,High fasting plasma glucose,1,Number,2019,159595.40838913617,281005.22634115187,68548.63403408462
+1,Deaths,1,Global,2,Female,18,65-69 years,493,Ischemic heart disease,105,High fasting plasma glucose,1,Number,2019,92615.802582047,160180.05837784105,39129.758478390715
+1,Deaths,1,Global,1,Male,19,70-74 years,493,Ischemic heart disease,105,High fasting plasma glucose,1,Number,2019,178829.56757162002,320997.8418779765,75310.00947593426
+1,Deaths,1,Global,2,Female,19,70-74 years,493,Ischemic heart disease,105,High fasting plasma glucose,1,Number,2019,119309.50747535742,207877.85366717735,51079.336240011835
+1,Deaths,1,Global,1,Male,20,75-79 years,493,Ischemic heart disease,105,High fasting plasma glucose,1,Number,2019,185988.994894333,313905.48345745105,96183.30535720376
+1,Deaths,1,Global,2,Female,20,75-79 years,493,Ischemic heart disease,105,High fasting plasma glucose,1,Number,2019,151652.6536837908,253925.85941499975,76570.04681008171
+1,Deaths,1,Global,1,Male,30,80-84,493,Ischemic heart disease,105,High fasting plasma glucose,1,Number,2019,197057.3994070683,387098.0765996346,72431.02044326245
+1,Deaths,1,Global,2,Female,30,80-84,493,Ischemic heart disease,105,High fasting plasma glucose,1,Number,2019,198361.68292360214,391715.1199599233,73819.00198516688
+1,Deaths,1,Global,1,Male,31,85-89,493,Ischemic heart disease,105,High fasting plasma glucose,1,Number,2019,147051.07377106152,292062.32652021677,55339.071056774315
+1,Deaths,1,Global,2,Female,31,85-89,493,Ischemic heart disease,105,High fasting plasma glucose,1,Number,2019,176156.46613852584,351084.5398731412,66812.15311453867
+1,Deaths,1,Global,1,Male,32,90-94,493,Ischemic heart disease,105,High fasting plasma glucose,1,Number,2019,70465.87382875272,140078.44564865628,26322.579155173782
+1,Deaths,1,Global,2,Female,32,90-94,493,Ischemic heart disease,105,High fasting plasma glucose,1,Number,2019,117462.15239348993,234515.0553493194,45241.02558345362
+1,Deaths,1,Global,1,Male,235,95+ years,493,Ischemic heart disease,105,High fasting plasma glucose,1,Number,2019,24166.75281834732,48982.82227883366,8896.59969719854
+1,Deaths,1,Global,2,Female,235,95+ years,493,Ischemic heart disease,105,High fasting plasma glucose,1,Number,2019,54558.07754843654,109283.38598439966,20953.11100312548
+1,Deaths,1,Global,1,Male,1,<5 years,493,Ischemic heart disease,107,High systolic blood pressure,1,Number,2019,0.0,0.0,0.0
+1,Deaths,1,Global,2,Female,1,<5 years,493,Ischemic heart disease,107,High systolic blood pressure,1,Number,2019,0.0,0.0,0.0
+1,Deaths,1,Global,1,Male,10,25-29 years,493,Ischemic heart disease,107,High systolic blood pressure,1,Number,2019,11557.257821579287,15928.272257072069,6921.66794301175
+1,Deaths,1,Global,2,Female,10,25-29 years,493,Ischemic heart disease,107,High systolic blood pressure,1,Number,2019,3498.672437698303,5337.037970528157,1902.0718927144803
+1,Deaths,1,Global,1,Male,11,30-34 years,493,Ischemic heart disease,107,High systolic blood pressure,1,Number,2019,24423.339672668368,32176.860571669637,16572.162200516846
+1,Deaths,1,Global,2,Female,11,30-34 years,493,Ischemic heart disease,107,High systolic blood pressure,1,Number,2019,6791.351737342063,9697.326899186794,4254.562450243487
+1,Deaths,1,Global,1,Male,12,35-39 years,493,Ischemic heart disease,107,High systolic blood pressure,1,Number,2019,38350.04521880848,49023.17659000047,28526.636241820648
+1,Deaths,1,Global,2,Female,12,35-39 years,493,Ischemic heart disease,107,High systolic blood pressure,1,Number,2019,11169.398873187856,14742.6886801288,8059.497661843064
+1,Deaths,1,Global,1,Male,13,40-44 years,493,Ischemic heart disease,107,High systolic blood pressure,1,Number,2019,61010.933183655114,76940.05257370522,45558.32922967097
+1,Deaths,1,Global,2,Female,13,40-44 years,493,Ischemic heart disease,107,High systolic blood pressure,1,Number,2019,20405.77505290511,26483.419192129306,14563.471181281038
+1,Deaths,1,Global,1,Male,14,45-49 years,493,Ischemic heart disease,107,High systolic blood pressure,1,Number,2019,105588.9207552811,129459.00157019118,83416.107667676
+1,Deaths,1,Global,2,Female,14,45-49 years,493,Ischemic heart disease,107,High systolic blood pressure,1,Number,2019,37346.761400428484,46320.22695019772,28366.728249835305
+1,Deaths,1,Global,1,Male,15,50-54 years,493,Ischemic heart disease,107,High systolic blood pressure,1,Number,2019,163051.4525540871,193735.6126810898,133724.71924322433
+1,Deaths,1,Global,2,Female,15,50-54 years,493,Ischemic heart disease,107,High systolic blood pressure,1,Number,2019,66106.08277220014,79501.68281720162,53107.8387402074
+1,Deaths,1,Global,1,Male,16,55-59 years,493,Ischemic heart disease,107,High systolic blood pressure,1,Number,2019,230031.67944703766,267842.7549806405,194418.48827187682
+1,Deaths,1,Global,2,Female,16,55-59 years,493,Ischemic heart disease,107,High systolic blood pressure,1,Number,2019,99668.50077117667,117853.83579677733,83132.70858056113
+1,Deaths,1,Global,1,Male,17,60-64 years,493,Ischemic heart disease,107,High systolic blood pressure,1,Number,2019,292958.81483503664,337438.6367070035,248827.2063697762
+1,Deaths,1,Global,2,Female,17,60-64 years,493,Ischemic heart disease,107,High systolic blood pressure,1,Number,2019,153061.0564238964,179023.10910046386,128369.2231721906
+1,Deaths,1,Global,1,Male,18,65-69 years,493,Ischemic heart disease,107,High systolic blood pressure,1,Number,2019,329167.449854947,392869.58083674253,258333.87060200804
+1,Deaths,1,Global,2,Female,18,65-69 years,493,Ischemic heart disease,107,High systolic blood pressure,1,Number,2019,209703.4069899659,248789.29788683855,164014.90353241083
+1,Deaths,1,Global,1,Male,19,70-74 years,493,Ischemic heart disease,107,High systolic blood pressure,1,Number,2019,333322.55360926944,401165.72470434505,254903.0712882444
+1,Deaths,1,Global,2,Female,19,70-74 years,493,Ischemic heart disease,107,High systolic blood pressure,1,Number,2019,251079.35527392855,305094.74913403904,188526.56271395946
+1,Deaths,1,Global,1,Male,20,75-79 years,493,Ischemic heart disease,107,High systolic blood pressure,1,Number,2019,330564.25966818765,402519.5216644913,263108.3197411724
+1,Deaths,1,Global,2,Female,20,75-79 years,493,Ischemic heart disease,107,High systolic blood pressure,1,Number,2019,308221.14066976286,374160.76477171975,244635.5881468104
+1,Deaths,1,Global,1,Male,30,80-84,493,Ischemic heart disease,107,High systolic blood pressure,1,Number,2019,322302.88626806415,436810.0040344241,200616.95227878465
+1,Deaths,1,Global,2,Female,30,80-84,493,Ischemic heart disease,107,High systolic blood pressure,1,Number,2019,376313.92157858284,520559.9239609151,233430.15732466843
+1,Deaths,1,Global,1,Male,31,85-89,493,Ischemic heart disease,107,High systolic blood pressure,1,Number,2019,245881.8581191364,334196.94453684764,149221.19295713966
+1,Deaths,1,Global,2,Female,31,85-89,493,Ischemic heart disease,107,High systolic blood pressure,1,Number,2019,336819.1365311921,453196.2927152035,210652.25917398656
+1,Deaths,1,Global,1,Male,32,90-94,493,Ischemic heart disease,107,High systolic blood pressure,1,Number,2019,112163.37319759131,157115.32001426234,68724.2860931366
+1,Deaths,1,Global,2,Female,32,90-94,493,Ischemic heart disease,107,High systolic blood pressure,1,Number,2019,231765.41908535114,318885.27298730356,143887.28906748546
+1,Deaths,1,Global,1,Male,235,95+ years,493,Ischemic heart disease,107,High systolic blood pressure,1,Number,2019,37577.48344623299,52577.30013602727,21827.577032659254
+1,Deaths,1,Global,2,Female,235,95+ years,493,Ischemic heart disease,107,High systolic blood pressure,1,Number,2019,111713.88800615107,156435.67674267944,65225.54451407082
+1,Deaths,1,Global,1,Male,1,<5 years,493,Ischemic heart disease,108,High body-mass index,1,Number,2019,0.0,0.0,0.0
+1,Deaths,1,Global,2,Female,1,<5 years,493,Ischemic heart disease,108,High body-mass index,1,Number,2019,0.0,0.0,0.0
+1,Deaths,1,Global,1,Male,9,20-24 years,493,Ischemic heart disease,108,High body-mass index,1,Number,2019,3692.289003394342,7268.5446279369635,710.9995054137847
+1,Deaths,1,Global,2,Female,9,20-24 years,493,Ischemic heart disease,108,High body-mass index,1,Number,2019,2068.453292983598,4056.231878592655,410.49039437115704
+1,Deaths,1,Global,1,Male,10,25-29 years,493,Ischemic heart disease,108,High body-mass index,1,Number,2019,8134.675783726591,14682.743984747847,1831.7347458120976
+1,Deaths,1,Global,2,Female,10,25-29 years,493,Ischemic heart disease,108,High body-mass index,1,Number,2019,3688.4232762785464,6584.706282469473,827.7634863662081
+1,Deaths,1,Global,1,Male,11,30-34 years,493,Ischemic heart disease,108,High body-mass index,1,Number,2019,16788.19286959663,30016.33488498777,5202.304999604334
+1,Deaths,1,Global,2,Female,11,30-34 years,493,Ischemic heart disease,108,High body-mass index,1,Number,2019,6898.749295690926,11754.493992315167,2185.683186980772
+1,Deaths,1,Global,1,Male,12,35-39 years,493,Ischemic heart disease,108,High body-mass index,1,Number,2019,24240.313728344405,35751.789448622316,14572.312364028621
+1,Deaths,1,Global,2,Female,12,35-39 years,493,Ischemic heart disease,108,High body-mass index,1,Number,2019,9559.555790685798,13598.596592345119,6117.9181962156
+1,Deaths,1,Global,1,Male,13,40-44 years,493,Ischemic heart disease,108,High body-mass index,1,Number,2019,35173.97496868567,52792.20742465811,20294.428649165307
+1,Deaths,1,Global,2,Female,13,40-44 years,493,Ischemic heart disease,108,High body-mass index,1,Number,2019,14802.125574234053,21728.208339495373,8720.3540629258
+1,Deaths,1,Global,1,Male,14,45-49 years,493,Ischemic heart disease,108,High body-mass index,1,Number,2019,57288.05832288785,82264.59918484376,34330.918867465436
+1,Deaths,1,Global,2,Female,14,45-49 years,493,Ischemic heart disease,108,High body-mass index,1,Number,2019,24355.471423517614,34053.52044059199,15308.742834652918
+1,Deaths,1,Global,1,Male,15,50-54 years,493,Ischemic heart disease,108,High body-mass index,1,Number,2019,84120.18216286166,121090.65595925819,50475.351899105044
+1,Deaths,1,Global,2,Female,15,50-54 years,493,Ischemic heart disease,108,High body-mass index,1,Number,2019,38590.24832976551,54174.86814632562,24611.08056986934
+1,Deaths,1,Global,1,Male,16,55-59 years,493,Ischemic heart disease,108,High body-mass index,1,Number,2019,107468.78069820565,154848.88757088355,65304.54714051418
+1,Deaths,1,Global,2,Female,16,55-59 years,493,Ischemic heart disease,108,High body-mass index,1,Number,2019,53174.76991751298,74446.79400306169,34650.7813797853
+1,Deaths,1,Global,1,Male,17,60-64 years,493,Ischemic heart disease,108,High body-mass index,1,Number,2019,122942.81474479615,181602.1020865184,72494.21157090065
+1,Deaths,1,Global,2,Female,17,60-64 years,493,Ischemic heart disease,108,High body-mass index,1,Number,2019,73553.83920093959,105691.57859295174,46859.618165007036
+1,Deaths,1,Global,1,Male,18,65-69 years,493,Ischemic heart disease,108,High body-mass index,1,Number,2019,122478.99761156815,186115.2772099903,68790.17639518519
+1,Deaths,1,Global,2,Female,18,65-69 years,493,Ischemic heart disease,108,High body-mass index,1,Number,2019,90386.93871278338,131955.63406895634,55265.772106377306
+1,Deaths,1,Global,1,Male,19,70-74 years,493,Ischemic heart disease,108,High body-mass index,1,Number,2019,107275.23751889689,168119.43298915582,58993.648876189734
+1,Deaths,1,Global,2,Female,19,70-74 years,493,Ischemic heart disease,108,High body-mass index,1,Number,2019,95568.57963434818,142106.43678804423,56707.88289378782
+1,Deaths,1,Global,1,Male,20,75-79 years,493,Ischemic heart disease,108,High body-mass index,1,Number,2019,89153.41118637378,148448.02629606944,43634.740254446275
+1,Deaths,1,Global,2,Female,20,75-79 years,493,Ischemic heart disease,108,High body-mass index,1,Number,2019,100774.57641443788,157927.96702163186,55712.470101337756
+1,Deaths,1,Global,1,Male,30,80-84,493,Ischemic heart disease,108,High body-mass index,1,Number,2019,55007.270252152804,109798.34274643344,21219.5300500104
+1,Deaths,1,Global,2,Female,30,80-84,493,Ischemic heart disease,108,High body-mass index,1,Number,2019,80029.26355220591,145453.2216981684,35019.60615359587
+1,Deaths,1,Global,1,Male,31,85-89,493,Ischemic heart disease,108,High body-mass index,1,Number,2019,43796.299762522,87111.92837807028,17294.009767782292
+1,Deaths,1,Global,2,Female,31,85-89,493,Ischemic heart disease,108,High body-mass index,1,Number,2019,74877.3297435436,138135.9775654677,32650.275932481494
+1,Deaths,1,Global,1,Male,32,90-94,493,Ischemic heart disease,108,High body-mass index,1,Number,2019,23446.55808019886,46051.14004221565,9362.503119731597
+1,Deaths,1,Global,2,Female,32,90-94,493,Ischemic heart disease,108,High body-mass index,1,Number,2019,55566.748060692546,101278.55715391738,23327.511887846813
+1,Deaths,1,Global,1,Male,235,95+ years,493,Ischemic heart disease,108,High body-mass index,1,Number,2019,8944.181718116442,17177.188413741842,3459.9926996978347
+1,Deaths,1,Global,2,Female,235,95+ years,493,Ischemic heart disease,108,High body-mass index,1,Number,2019,28492.23644731861,51635.58995282368,12004.647941016616
+1,Deaths,1,Global,1,Male,1,<5 years,493,Ischemic heart disease,110,Dietary risks,1,Number,2019,0.0,0.0,0.0
+1,Deaths,1,Global,2,Female,1,<5 years,493,Ischemic heart disease,110,Dietary risks,1,Number,2019,0.0,0.0,0.0
+1,Deaths,1,Global,1,Male,10,25-29 years,493,Ischemic heart disease,110,Dietary risks,1,Number,2019,15800.723741963771,18517.574533325802,13421.114016475032
+1,Deaths,1,Global,2,Female,10,25-29 years,493,Ischemic heart disease,110,Dietary risks,1,Number,2019,6878.688882521763,8116.580542134189,5753.6391831374
+1,Deaths,1,Global,1,Male,11,30-34 years,493,Ischemic heart disease,110,Dietary risks,1,Number,2019,33602.86349558946,38285.980407322044,28827.266223279516
+1,Deaths,1,Global,2,Female,11,30-34 years,493,Ischemic heart disease,110,Dietary risks,1,Number,2019,12455.03553501537,14616.366050018098,10479.821392217968
+1,Deaths,1,Global,1,Male,12,35-39 years,493,Ischemic heart disease,110,Dietary risks,1,Number,2019,54635.925691753684,62515.815729397815,46569.68975643927
+1,Deaths,1,Global,2,Female,12,35-39 years,493,Ischemic heart disease,110,Dietary risks,1,Number,2019,19077.09530664884,22142.53035221949,16095.185194276544
+1,Deaths,1,Global,1,Male,13,40-44 years,493,Ischemic heart disease,110,Dietary risks,1,Number,2019,81305.91299434149,93767.62060196756,67790.26632461458
+1,Deaths,1,Global,2,Female,13,40-44 years,493,Ischemic heart disease,110,Dietary risks,1,Number,2019,30268.98407312336,35297.906391967634,25068.794572534225
+1,Deaths,1,Global,1,Male,14,45-49 years,493,Ischemic heart disease,110,Dietary risks,1,Number,2019,130501.74417002416,150737.49109753265,109886.00469280411
+1,Deaths,1,Global,2,Female,14,45-49 years,493,Ischemic heart disease,110,Dietary risks,1,Number,2019,47508.866553807035,54957.46242014867,39523.851439359765
+1,Deaths,1,Global,1,Male,15,50-54 years,493,Ischemic heart disease,110,Dietary risks,1,Number,2019,190054.95629639438,220770.9058363599,157073.47976622512
+1,Deaths,1,Global,2,Female,15,50-54 years,493,Ischemic heart disease,110,Dietary risks,1,Number,2019,75065.45679886949,89050.96926956593,61907.44434209398
+1,Deaths,1,Global,1,Male,16,55-59 years,493,Ischemic heart disease,110,Dietary risks,1,Number,2019,243500.725497507,284626.7902756307,200115.2346733454
+1,Deaths,1,Global,2,Female,16,55-59 years,493,Ischemic heart disease,110,Dietary risks,1,Number,2019,100521.37257558096,118407.1100921091,82574.17425905011
+1,Deaths,1,Global,1,Male,17,60-64 years,493,Ischemic heart disease,110,Dietary risks,1,Number,2019,289971.2783521831,339794.98030483176,236680.68952088233
+1,Deaths,1,Global,2,Female,17,60-64 years,493,Ischemic heart disease,110,Dietary risks,1,Number,2019,141729.32907450027,167800.52962941676,115862.55649077565
+1,Deaths,1,Global,1,Male,18,65-69 years,493,Ischemic heart disease,110,Dietary risks,1,Number,2019,322328.62004308484,382384.9682089775,261732.77344986555
+1,Deaths,1,Global,2,Female,18,65-69 years,493,Ischemic heart disease,110,Dietary risks,1,Number,2019,187260.8478978945,224379.9028034946,151993.16756534067
+1,Deaths,1,Global,1,Male,19,70-74 years,493,Ischemic heart disease,110,Dietary risks,1,Number,2019,325477.2713942545,386552.25505106675,265654.25047424744
+1,Deaths,1,Global,2,Female,19,70-74 years,493,Ischemic heart disease,110,Dietary risks,1,Number,2019,220747.86863293964,265439.5043480355,179230.80200154736
+1,Deaths,1,Global,1,Male,20,75-79 years,493,Ischemic heart disease,110,Dietary risks,1,Number,2019,314263.50727428676,374336.38117283053,255449.65898864868
+1,Deaths,1,Global,2,Female,20,75-79 years,493,Ischemic heart disease,110,Dietary risks,1,Number,2019,261482.0334476017,314388.4026561268,211711.47472274044
+1,Deaths,1,Global,1,Male,30,80-84,493,Ischemic heart disease,110,Dietary risks,1,Number,2019,334502.70289789553,402664.2242577523,268021.031261664
+1,Deaths,1,Global,2,Female,30,80-84,493,Ischemic heart disease,110,Dietary risks,1,Number,2019,354504.9833895677,431888.53210349206,277821.04441564967
+1,Deaths,1,Global,1,Male,31,85-89,493,Ischemic heart disease,110,Dietary risks,1,Number,2019,257600.81668093312,307739.8992464922,204724.26834882997
+1,Deaths,1,Global,2,Female,31,85-89,493,Ischemic heart disease,110,Dietary risks,1,Number,2019,321536.59146920167,393311.2391286765,247356.2664908151
+1,Deaths,1,Global,1,Male,32,90-94,493,Ischemic heart disease,110,Dietary risks,1,Number,2019,122689.72791046934,148388.88859931807,96071.59342848186
+1,Deaths,1,Global,2,Female,32,90-94,493,Ischemic heart disease,110,Dietary risks,1,Number,2019,227097.62520567968,280795.0805181784,168832.90639625382
+1,Deaths,1,Global,1,Male,235,95+ years,493,Ischemic heart disease,110,Dietary risks,1,Number,2019,42421.883682926455,51901.37574670677,32242.6743803821
+1,Deaths,1,Global,2,Female,235,95+ years,493,Ischemic heart disease,110,Dietary risks,1,Number,2019,112280.46014468618,139917.33471906104,81729.93923468128
+1,Deaths,1,Global,1,Male,1,<5 years,493,Ischemic heart disease,125,Low physical activity,1,Number,2019,0.0,0.0,0.0
+1,Deaths,1,Global,2,Female,1,<5 years,493,Ischemic heart disease,125,Low physical activity,1,Number,2019,0.0,0.0,0.0
+1,Deaths,1,Global,1,Male,10,25-29 years,493,Ischemic heart disease,125,Low physical activity,1,Number,2019,441.6774602695593,1602.4536239718145,78.09605540220986
+1,Deaths,1,Global,2,Female,10,25-29 years,493,Ischemic heart disease,125,Low physical activity,1,Number,2019,290.12389961289136,859.1616842233948,61.78586105207966
+1,Deaths,1,Global,1,Male,11,30-34 years,493,Ischemic heart disease,125,Low physical activity,1,Number,2019,873.9522325825093,3187.9335682019773,158.74315593907596
+1,Deaths,1,Global,2,Female,11,30-34 years,493,Ischemic heart disease,125,Low physical activity,1,Number,2019,515.0326034816999,1477.7406350426581,116.79375747476578
+1,Deaths,1,Global,1,Male,12,35-39 years,493,Ischemic heart disease,125,Low physical activity,1,Number,2019,1519.1699958307497,5002.340757484149,291.68653794984135
+1,Deaths,1,Global,2,Female,12,35-39 years,493,Ischemic heart disease,125,Low physical activity,1,Number,2019,798.3800676587475,2251.735120368283,179.18702014337174
+1,Deaths,1,Global,1,Male,13,40-44 years,493,Ischemic heart disease,125,Low physical activity,1,Number,2019,2443.280177311792,7584.402168407687,529.6313533776419
+1,Deaths,1,Global,2,Female,13,40-44 years,493,Ischemic heart disease,125,Low physical activity,1,Number,2019,1234.4644647850278,3478.889507078024,306.18375787045574
+1,Deaths,1,Global,1,Male,14,45-49 years,493,Ischemic heart disease,125,Low physical activity,1,Number,2019,4381.3028262710895,12648.674030549986,927.5903151308844
+1,Deaths,1,Global,2,Female,14,45-49 years,493,Ischemic heart disease,125,Low physical activity,1,Number,2019,2255.325756906452,5986.121265083062,576.6001070199236
+1,Deaths,1,Global,1,Male,15,50-54 years,493,Ischemic heart disease,125,Low physical activity,1,Number,2019,7106.923155924443,20159.177837339863,1722.5949152753199
+1,Deaths,1,Global,2,Female,15,50-54 years,493,Ischemic heart disease,125,Low physical activity,1,Number,2019,3833.4036525868487,9852.87852391147,1043.0721223491305
+1,Deaths,1,Global,1,Male,16,55-59 years,493,Ischemic heart disease,125,Low physical activity,1,Number,2019,10196.181123642971,28621.16369301137,2553.1942305830457
+1,Deaths,1,Global,2,Female,16,55-59 years,493,Ischemic heart disease,125,Low physical activity,1,Number,2019,5735.8462469819,13881.47341001087,1666.7057454526587
+1,Deaths,1,Global,1,Male,17,60-64 years,493,Ischemic heart disease,125,Low physical activity,1,Number,2019,14215.72994146129,36601.632793094446,3627.299225159708
+1,Deaths,1,Global,2,Female,17,60-64 years,493,Ischemic heart disease,125,Low physical activity,1,Number,2019,9409.778516270684,21591.642337425004,2900.1979039633516
+1,Deaths,1,Global,1,Male,18,65-69 years,493,Ischemic heart disease,125,Low physical activity,1,Number,2019,18701.15732860537,45236.98582788946,5218.351769656904
+1,Deaths,1,Global,2,Female,18,65-69 years,493,Ischemic heart disease,125,Low physical activity,1,Number,2019,14565.460513237707,32243.072225857024,4681.955526695675
+1,Deaths,1,Global,1,Male,19,70-74 years,493,Ischemic heart disease,125,Low physical activity,1,Number,2019,23016.456566896682,54254.629882978166,7049.813641441525
+1,Deaths,1,Global,2,Female,19,70-74 years,493,Ischemic heart disease,125,Low physical activity,1,Number,2019,20426.249495795215,43681.4410582593,7412.827922083031
+1,Deaths,1,Global,1,Male,20,75-79 years,493,Ischemic heart disease,125,Low physical activity,1,Number,2019,26238.620239387143,59255.72980386938,8382.850259765242
+1,Deaths,1,Global,2,Female,20,75-79 years,493,Ischemic heart disease,125,Low physical activity,1,Number,2019,27882.954950559866,57893.01457345113,10715.173923827617
+1,Deaths,1,Global,1,Male,30,80-84,493,Ischemic heart disease,125,Low physical activity,1,Number,2019,47110.41352700445,97718.18747491029,14812.283905391934
+1,Deaths,1,Global,2,Female,30,80-84,493,Ischemic heart disease,125,Low physical activity,1,Number,2019,62475.306441669454,117804.9733368959,24363.65902837959
+1,Deaths,1,Global,1,Male,31,85-89,493,Ischemic heart disease,125,Low physical activity,1,Number,2019,36475.187849870694,75795.794343524,11606.836482377365
+1,Deaths,1,Global,2,Female,31,85-89,493,Ischemic heart disease,125,Low physical activity,1,Number,2019,58108.22948325735,107306.28304296666,23211.064059408454
+1,Deaths,1,Global,1,Male,32,90-94,493,Ischemic heart disease,125,Low physical activity,1,Number,2019,17821.261939891425,36056.82504079706,5844.65283704051
+1,Deaths,1,Global,2,Female,32,90-94,493,Ischemic heart disease,125,Low physical activity,1,Number,2019,41440.26361211734,76692.43144350086,16753.155355976545
+1,Deaths,1,Global,1,Male,235,95+ years,493,Ischemic heart disease,125,Low physical activity,1,Number,2019,6155.961414507206,12208.565995666577,2065.140400084474
+1,Deaths,1,Global,2,Female,235,95+ years,493,Ischemic heart disease,125,Low physical activity,1,Number,2019,21112.27865839145,39030.84833164182,8475.546470723006
+1,Deaths,1,Global,1,Male,1,<5 years,493,Ischemic heart disease,169,All risk factors,1,Number,2019,0.0,0.0,0.0
+1,Deaths,1,Global,2,Female,1,<5 years,493,Ischemic heart disease,169,All risk factors,1,Number,2019,0.0,0.0,0.0
+1,Deaths,1,Global,1,Male,8,15-19 years,493,Ischemic heart disease,169,All risk factors,1,Number,2019,224.6851677685579,333.0567059201909,96.49824179638307
+1,Deaths,1,Global,2,Female,8,15-19 years,493,Ischemic heart disease,169,All risk factors,1,Number,2019,191.02586713959764,270.30932181472474,87.92302828406876
+1,Deaths,1,Global,1,Male,9,20-24 years,493,Ischemic heart disease,169,All risk factors,1,Number,2019,4044.9796380080143,7503.9499325879015,1130.0963848267925
+1,Deaths,1,Global,2,Female,9,20-24 years,493,Ischemic heart disease,169,All risk factors,1,Number,2019,2289.3249190534625,4191.796392231136,713.3034874183257
+1,Deaths,1,Global,1,Male,10,25-29 years,493,Ischemic heart disease,169,All risk factors,1,Number,2019,20179.480955544357,23129.894849405926,18133.44869948052
+1,Deaths,1,Global,2,Female,10,25-29 years,493,Ischemic heart disease,169,All risk factors,1,Number,2019,8834.743374859047,10139.535924902473,7625.650318455302
+1,Deaths,1,Global,1,Male,11,30-34 years,493,Ischemic heart disease,169,All risk factors,1,Number,2019,42949.96762101886,48018.34698869688,38946.02272253361
+1,Deaths,1,Global,2,Female,11,30-34 years,493,Ischemic heart disease,169,All risk factors,1,Number,2019,16029.72231303912,18066.09127669116,14049.492668497913
+1,Deaths,1,Global,1,Male,12,35-39 years,493,Ischemic heart disease,169,All risk factors,1,Number,2019,69981.68537712433,77901.64986706141,63686.200017084215
+1,Deaths,1,Global,2,Female,12,35-39 years,493,Ischemic heart disease,169,All risk factors,1,Number,2019,24647.04709528175,27602.731747333255,21599.392281935856
+1,Deaths,1,Global,1,Male,13,40-44 years,493,Ischemic heart disease,169,All risk factors,1,Number,2019,112674.8505032699,124603.963842138,101924.17759700459
+1,Deaths,1,Global,2,Female,13,40-44 years,493,Ischemic heart disease,169,All risk factors,1,Number,2019,42327.19169418139,47366.25332714787,37224.315106457194
+1,Deaths,1,Global,1,Male,14,45-49 years,493,Ischemic heart disease,169,All risk factors,1,Number,2019,183649.68013158112,203595.5795057059,165480.75378556486
+1,Deaths,1,Global,2,Female,14,45-49 years,493,Ischemic heart disease,169,All risk factors,1,Number,2019,68057.68097641465,75512.12194659105,60602.61023227743
+1,Deaths,1,Global,1,Male,15,50-54 years,493,Ischemic heart disease,169,All risk factors,1,Number,2019,277639.8264879256,305095.0675733046,251042.2764588129
+1,Deaths,1,Global,2,Female,15,50-54 years,493,Ischemic heart disease,169,All risk factors,1,Number,2019,112313.53485409451,125030.0255623461,99173.41855476957
+1,Deaths,1,Global,1,Male,16,55-59 years,493,Ischemic heart disease,169,All risk factors,1,Number,2019,378984.1628974096,414514.5416830976,345126.06562335463
+1,Deaths,1,Global,2,Female,16,55-59 years,493,Ischemic heart disease,169,All risk factors,1,Number,2019,161157.64882268166,177167.63596756058,144510.06843867336
+1,Deaths,1,Global,1,Male,17,60-64 years,493,Ischemic heart disease,169,All risk factors,1,Number,2019,477769.334747438,518522.5336234595,438876.58499792166
+1,Deaths,1,Global,2,Female,17,60-64 years,493,Ischemic heart disease,169,All risk factors,1,Number,2019,242447.6867349785,265142.05691928574,219799.97332963062
+1,Deaths,1,Global,1,Male,18,65-69 years,493,Ischemic heart disease,169,All risk factors,1,Number,2019,547136.2427664746,591906.24596693,504453.17194307654
+1,Deaths,1,Global,2,Female,18,65-69 years,493,Ischemic heart disease,169,All risk factors,1,Number,2019,332868.566853325,362264.27351754485,301761.03121613764
+1,Deaths,1,Global,1,Male,19,70-74 years,493,Ischemic heart disease,169,All risk factors,1,Number,2019,579987.7527116283,628418.109486395,533748.6003105436
+1,Deaths,1,Global,2,Female,19,70-74 years,493,Ischemic heart disease,169,All risk factors,1,Number,2019,411688.93099901907,449364.4806922092,373438.7632973868
+1,Deaths,1,Global,1,Male,20,75-79 years,493,Ischemic heart disease,169,All risk factors,1,Number,2019,582580.4064447719,626669.6368139931,536081.439654
+1,Deaths,1,Global,2,Female,20,75-79 years,493,Ischemic heart disease,169,All risk factors,1,Number,2019,509487.9985249652,554083.4403677983,459421.713042639
+1,Deaths,1,Global,1,Male,30,80-84,493,Ischemic heart disease,169,All risk factors,1,Number,2019,625750.5099632575,680297.7225820774,564418.469905781
+1,Deaths,1,Global,2,Female,30,80-84,493,Ischemic heart disease,169,All risk factors,1,Number,2019,684034.4727647094,753363.6552934132,592709.3897873813
+1,Deaths,1,Global,1,Male,31,85-89,493,Ischemic heart disease,169,All risk factors,1,Number,2019,473654.301491749,515527.46019097744,416037.4202832821
+1,Deaths,1,Global,2,Female,31,85-89,493,Ischemic heart disease,169,All risk factors,1,Number,2019,611804.7630002364,687656.6867473598,509929.71353842795
+1,Deaths,1,Global,1,Male,32,90-94,493,Ischemic heart disease,169,All risk factors,1,Number,2019,222057.1662534637,247198.74245965813,185262.6158623584
+1,Deaths,1,Global,2,Female,32,90-94,493,Ischemic heart disease,169,All risk factors,1,Number,2019,427882.21882273915,486805.1451084048,338036.5433991861
+1,Deaths,1,Global,1,Male,235,95+ years,493,Ischemic heart disease,169,All risk factors,1,Number,2019,76389.3728597491,87028.14760189802,60316.920323043065
+1,Deaths,1,Global,2,Female,235,95+ years,493,Ischemic heart disease,169,All risk factors,1,Number,2019,210650.43815400777,243974.2969303338,157453.68279977757
+1,Deaths,1,Global,1,Male,1,<5 years,493,Ischemic heart disease,331,Non-optimal temperature,1,Number,2019,0.0,0.0,0.0
+1,Deaths,1,Global,2,Female,1,<5 years,493,Ischemic heart disease,331,Non-optimal temperature,1,Number,2019,0.0,0.0,0.0
+1,Deaths,1,Global,1,Male,8,15-19 years,493,Ischemic heart disease,331,Non-optimal temperature,1,Number,2019,283.9980196146243,386.5227008943316,160.11659751686028
+1,Deaths,1,Global,2,Female,8,15-19 years,493,Ischemic heart disease,331,Non-optimal temperature,1,Number,2019,209.56869283795245,288.48384945439227,108.35335022828637
+1,Deaths,1,Global,1,Male,9,20-24 years,493,Ischemic heart disease,331,Non-optimal temperature,1,Number,2019,689.4470615905917,945.3687475713681,373.126103238203
+1,Deaths,1,Global,2,Female,9,20-24 years,493,Ischemic heart disease,331,Non-optimal temperature,1,Number,2019,364.32436906862426,495.7908145102579,201.69625708485387
+1,Deaths,1,Global,1,Male,10,25-29 years,493,Ischemic heart disease,331,Non-optimal temperature,1,Number,2019,1172.5438185551736,1567.1370870244855,627.6110123236878
+1,Deaths,1,Global,2,Female,10,25-29 years,493,Ischemic heart disease,331,Non-optimal temperature,1,Number,2019,506.64917312041365,689.743147136442,276.69498782283637
+1,Deaths,1,Global,1,Male,11,30-34 years,493,Ischemic heart disease,331,Non-optimal temperature,1,Number,2019,2553.976892218045,3382.089531680901,1478.9216856532223
+1,Deaths,1,Global,2,Female,11,30-34 years,493,Ischemic heart disease,331,Non-optimal temperature,1,Number,2019,930.3017223226406,1245.0456716242445,524.2044701768499
+1,Deaths,1,Global,1,Male,12,35-39 years,493,Ischemic heart disease,331,Non-optimal temperature,1,Number,2019,4119.879210755906,5388.4456425380595,2318.5196190984143
+1,Deaths,1,Global,2,Female,12,35-39 years,493,Ischemic heart disease,331,Non-optimal temperature,1,Number,2019,1418.1062579538075,1911.8178248682361,792.0754030467308
+1,Deaths,1,Global,1,Male,13,40-44 years,493,Ischemic heart disease,331,Non-optimal temperature,1,Number,2019,6772.283600095179,8829.081686983542,4005.259658042994
+1,Deaths,1,Global,2,Female,13,40-44 years,493,Ischemic heart disease,331,Non-optimal temperature,1,Number,2019,2440.792675745042,3278.143531467609,1355.8944704487076
+1,Deaths,1,Global,1,Male,14,45-49 years,493,Ischemic heart disease,331,Non-optimal temperature,1,Number,2019,11154.958216055089,14500.904807407747,6931.510698231463
+1,Deaths,1,Global,2,Female,14,45-49 years,493,Ischemic heart disease,331,Non-optimal temperature,1,Number,2019,3980.7773537734533,5199.407223556559,2387.5621487234125
+1,Deaths,1,Global,1,Male,15,50-54 years,493,Ischemic heart disease,331,Non-optimal temperature,1,Number,2019,17165.49776333518,22073.11840868927,11132.149008301656
+1,Deaths,1,Global,2,Female,15,50-54 years,493,Ischemic heart disease,331,Non-optimal temperature,1,Number,2019,6644.973192822537,8695.219318254392,4111.235275538792
+1,Deaths,1,Global,1,Male,16,55-59 years,493,Ischemic heart disease,331,Non-optimal temperature,1,Number,2019,23666.52695135618,30400.45653716508,15385.952300163704
+1,Deaths,1,Global,2,Female,16,55-59 years,493,Ischemic heart disease,331,Non-optimal temperature,1,Number,2019,9798.45658976361,12655.967915543339,6378.311629007754
+1,Deaths,1,Global,1,Male,17,60-64 years,493,Ischemic heart disease,331,Non-optimal temperature,1,Number,2019,30661.79893469207,39490.48329441241,20795.09433513428
+1,Deaths,1,Global,2,Female,17,60-64 years,493,Ischemic heart disease,331,Non-optimal temperature,1,Number,2019,15231.259297170622,19752.035921745668,10334.43697687741
+1,Deaths,1,Global,1,Male,18,65-69 years,493,Ischemic heart disease,331,Non-optimal temperature,1,Number,2019,36344.04593583248,46871.08316520347,24877.11510556849
+1,Deaths,1,Global,2,Female,18,65-69 years,493,Ischemic heart disease,331,Non-optimal temperature,1,Number,2019,21791.009903245307,28181.19023166167,14853.188627269845
+1,Deaths,1,Global,1,Male,19,70-74 years,493,Ischemic heart disease,331,Non-optimal temperature,1,Number,2019,39719.64787996968,51068.502847029245,27295.07576583535
+1,Deaths,1,Global,2,Female,19,70-74 years,493,Ischemic heart disease,331,Non-optimal temperature,1,Number,2019,27992.263834050413,35907.30922947332,19286.552719651492
+1,Deaths,1,Global,1,Male,20,75-79 years,493,Ischemic heart disease,331,Non-optimal temperature,1,Number,2019,41274.56764412046,52729.35443088252,28250.33376431387
+1,Deaths,1,Global,2,Female,20,75-79 years,493,Ischemic heart disease,331,Non-optimal temperature,1,Number,2019,35646.504681324135,45796.90439935816,24360.538497015783
+1,Deaths,1,Global,1,Male,30,80-84,493,Ischemic heart disease,331,Non-optimal temperature,1,Number,2019,46354.0669927741,59534.79422700623,31506.795764716673
+1,Deaths,1,Global,2,Female,30,80-84,493,Ischemic heart disease,331,Non-optimal temperature,1,Number,2019,50671.29536723419,66223.80680204913,34474.02293165829
+1,Deaths,1,Global,1,Male,31,85-89,493,Ischemic heart disease,331,Non-optimal temperature,1,Number,2019,36662.906823117664,46686.93291898069,25703.198101002894
+1,Deaths,1,Global,2,Female,31,85-89,493,Ischemic heart disease,331,Non-optimal temperature,1,Number,2019,47169.577521417836,62018.63749228088,32295.97669528684
+1,Deaths,1,Global,1,Male,32,90-94,493,Ischemic heart disease,331,Non-optimal temperature,1,Number,2019,16906.941571427888,22025.86362917862,11258.611653007956
+1,Deaths,1,Global,2,Female,32,90-94,493,Ischemic heart disease,331,Non-optimal temperature,1,Number,2019,33815.671012565654,45432.099911414174,22217.194261280256
+1,Deaths,1,Global,1,Male,235,95+ years,493,Ischemic heart disease,331,Non-optimal temperature,1,Number,2019,5777.507206223933,7628.914522928082,3747.6248399618903
+1,Deaths,1,Global,2,Female,235,95+ years,493,Ischemic heart disease,331,Non-optimal temperature,1,Number,2019,16888.03607391246,22824.31737866254,10677.04955615488
+1,Deaths,1,Global,1,Male,1,<5 years,493,Ischemic heart disease,341,Kidney dysfunction,1,Number,2019,0.0,0.0,0.0
+1,Deaths,1,Global,2,Female,1,<5 years,493,Ischemic heart disease,341,Kidney dysfunction,1,Number,2019,0.0,0.0,0.0
+1,Deaths,1,Global,1,Male,10,25-29 years,493,Ischemic heart disease,341,Kidney dysfunction,1,Number,2019,1784.566599212027,2446.2949204549673,1229.6779535371336
+1,Deaths,1,Global,2,Female,10,25-29 years,493,Ischemic heart disease,341,Kidney dysfunction,1,Number,2019,886.6854737954706,1230.5210939111166,614.220559996069
+1,Deaths,1,Global,1,Male,11,30-34 years,493,Ischemic heart disease,341,Kidney dysfunction,1,Number,2019,4170.428165352967,5710.023271297839,2799.9384417146202
+1,Deaths,1,Global,2,Female,11,30-34 years,493,Ischemic heart disease,341,Kidney dysfunction,1,Number,2019,1800.0543732160243,2493.946035273595,1201.5113692665582
+1,Deaths,1,Global,1,Male,12,35-39 years,493,Ischemic heart disease,341,Kidney dysfunction,1,Number,2019,7080.256564582405,9953.770846470334,4847.723675088595
+1,Deaths,1,Global,2,Female,12,35-39 years,493,Ischemic heart disease,341,Kidney dysfunction,1,Number,2019,2898.4864788806635,4081.06497376439,1972.106915615584
+1,Deaths,1,Global,1,Male,13,40-44 years,493,Ischemic heart disease,341,Kidney dysfunction,1,Number,2019,11645.433490733652,16282.074212602443,7740.788859783391
+1,Deaths,1,Global,2,Female,13,40-44 years,493,Ischemic heart disease,341,Kidney dysfunction,1,Number,2019,4997.383061134206,6895.021117076523,3377.5187945094567
+1,Deaths,1,Global,1,Male,14,45-49 years,493,Ischemic heart disease,341,Kidney dysfunction,1,Number,2019,18982.033828348183,26181.827583866572,12824.50404633415
+1,Deaths,1,Global,2,Female,14,45-49 years,493,Ischemic heart disease,341,Kidney dysfunction,1,Number,2019,7772.253324970284,10658.64236728961,5404.121827798174
+1,Deaths,1,Global,1,Male,15,50-54 years,493,Ischemic heart disease,341,Kidney dysfunction,1,Number,2019,29427.584097069364,40422.06838008093,20173.107909370065
+1,Deaths,1,Global,2,Female,15,50-54 years,493,Ischemic heart disease,341,Kidney dysfunction,1,Number,2019,12652.531472666433,17394.112071467902,8642.515022180816
+1,Deaths,1,Global,1,Male,16,55-59 years,493,Ischemic heart disease,341,Kidney dysfunction,1,Number,2019,42582.95647170852,59185.91147233197,28213.74958134327
+1,Deaths,1,Global,2,Female,16,55-59 years,493,Ischemic heart disease,341,Kidney dysfunction,1,Number,2019,18925.01076698691,25992.474494047066,12739.093293252385
+1,Deaths,1,Global,1,Male,17,60-64 years,493,Ischemic heart disease,341,Kidney dysfunction,1,Number,2019,55783.51822986895,76749.49968972868,37767.18375745608
+1,Deaths,1,Global,2,Female,17,60-64 years,493,Ischemic heart disease,341,Kidney dysfunction,1,Number,2019,30149.18610265691,41047.31451297305,20725.53742430329
+1,Deaths,1,Global,1,Male,18,65-69 years,493,Ischemic heart disease,341,Kidney dysfunction,1,Number,2019,68923.18737694336,93626.8000977453,47594.73535057003
+1,Deaths,1,Global,2,Female,18,65-69 years,493,Ischemic heart disease,341,Kidney dysfunction,1,Number,2019,45294.414846387815,60304.90314918841,31419.512661729612
+1,Deaths,1,Global,1,Male,19,70-74 years,493,Ischemic heart disease,341,Kidney dysfunction,1,Number,2019,82101.79978279227,110593.63993609032,57271.379393379255
+1,Deaths,1,Global,2,Female,19,70-74 years,493,Ischemic heart disease,341,Kidney dysfunction,1,Number,2019,63662.49115536579,84564.5621332176,44772.8981649259
+1,Deaths,1,Global,1,Male,20,75-79 years,493,Ischemic heart disease,341,Kidney dysfunction,1,Number,2019,89900.85672865118,121441.5320817577,60804.97752752214
+1,Deaths,1,Global,2,Female,20,75-79 years,493,Ischemic heart disease,341,Kidney dysfunction,1,Number,2019,84758.7256954218,113936.98191198171,57517.37462677799
+1,Deaths,1,Global,1,Male,30,80-84,493,Ischemic heart disease,341,Kidney dysfunction,1,Number,2019,97200.88691234254,133052.10653065314,63221.933977809065
+1,Deaths,1,Global,2,Female,30,80-84,493,Ischemic heart disease,341,Kidney dysfunction,1,Number,2019,112600.47778013886,156037.13803551893,71007.72279970508
+1,Deaths,1,Global,1,Male,31,85-89,493,Ischemic heart disease,341,Kidney dysfunction,1,Number,2019,69020.95984624948,99446.98752211958,39675.39756727559
+1,Deaths,1,Global,2,Female,31,85-89,493,Ischemic heart disease,341,Kidney dysfunction,1,Number,2019,93130.28880269882,137307.99826418172,52032.17100081197
+1,Deaths,1,Global,1,Male,32,90-94,493,Ischemic heart disease,341,Kidney dysfunction,1,Number,2019,36654.1299273972,52497.83017886279,21048.022939992945
+1,Deaths,1,Global,2,Female,32,90-94,493,Ischemic heart disease,341,Kidney dysfunction,1,Number,2019,70936.13082949429,102694.90731416228,39061.296538451585
+1,Deaths,1,Global,1,Male,235,95+ years,493,Ischemic heart disease,341,Kidney dysfunction,1,Number,2019,14590.576763795967,20979.02017014076,8277.75705521053
+1,Deaths,1,Global,2,Female,235,95+ years,493,Ischemic heart disease,341,Kidney dysfunction,1,Number,2019,40469.68494015745,58861.49394447292,22194.922461098402
+1,Deaths,1,Global,1,Male,1,<5 years,493,Ischemic heart disease,367,High LDL cholesterol,1,Number,2019,0.0,0.0,0.0
+1,Deaths,1,Global,2,Female,1,<5 years,493,Ischemic heart disease,367,High LDL cholesterol,1,Number,2019,0.0,0.0,0.0
+1,Deaths,1,Global,1,Male,10,25-29 years,493,Ischemic heart disease,367,High LDL cholesterol,1,Number,2019,14718.937248498887,17726.004395273463,11700.423368628188
+1,Deaths,1,Global,2,Female,10,25-29 years,493,Ischemic heart disease,367,High LDL cholesterol,1,Number,2019,6495.170395106693,8116.478719230223,5095.371239821594
+1,Deaths,1,Global,1,Male,11,30-34 years,493,Ischemic heart disease,367,High LDL cholesterol,1,Number,2019,31723.43842853189,37102.55573005168,26504.61093055437
+1,Deaths,1,Global,2,Female,11,30-34 years,493,Ischemic heart disease,367,High LDL cholesterol,1,Number,2019,11972.624824741308,14494.5333294192,9835.150836827735
+1,Deaths,1,Global,1,Male,12,35-39 years,493,Ischemic heart disease,367,High LDL cholesterol,1,Number,2019,52792.94335163946,60940.236272667025,45342.54938518841
+1,Deaths,1,Global,2,Female,12,35-39 years,493,Ischemic heart disease,367,High LDL cholesterol,1,Number,2019,18750.742750707483,22037.75801130874,15740.748082285516
+1,Deaths,1,Global,1,Male,13,40-44 years,493,Ischemic heart disease,367,High LDL cholesterol,1,Number,2019,83675.81755923845,96466.42021966985,70861.6059543878
+1,Deaths,1,Global,2,Female,13,40-44 years,493,Ischemic heart disease,367,High LDL cholesterol,1,Number,2019,31718.52480379131,36897.20894025807,26379.36174500342
+1,Deaths,1,Global,1,Male,14,45-49 years,493,Ischemic heart disease,367,High LDL cholesterol,1,Number,2019,129345.6625692107,149376.01453598612,109204.52677422467
+1,Deaths,1,Global,2,Female,14,45-49 years,493,Ischemic heart disease,367,High LDL cholesterol,1,Number,2019,48936.672290809,56978.735042542845,40932.66246837451
+1,Deaths,1,Global,1,Male,15,50-54 years,493,Ischemic heart disease,367,High LDL cholesterol,1,Number,2019,181461.73048186523,210990.3420092603,152676.83251620573
+1,Deaths,1,Global,2,Female,15,50-54 years,493,Ischemic heart disease,367,High LDL cholesterol,1,Number,2019,75482.65752009283,89164.12120648137,62593.73517435485
+1,Deaths,1,Global,1,Male,16,55-59 years,493,Ischemic heart disease,367,High LDL cholesterol,1,Number,2019,221427.23670166603,258281.87007307282,184319.12758645628
+1,Deaths,1,Global,2,Female,16,55-59 years,493,Ischemic heart disease,367,High LDL cholesterol,1,Number,2019,98196.82990434021,115513.24514083541,81161.43129155721
+1,Deaths,1,Global,1,Male,17,60-64 years,493,Ischemic heart disease,367,High LDL cholesterol,1,Number,2019,236835.57762343864,285466.8689523365,188482.67409381559
+1,Deaths,1,Global,2,Female,17,60-64 years,493,Ischemic heart disease,367,High LDL cholesterol,1,Number,2019,126801.71134453076,151885.82102236233,100062.31134823326
+1,Deaths,1,Global,1,Male,18,65-69 years,493,Ischemic heart disease,367,High LDL cholesterol,1,Number,2019,201192.68855122087,274258.58708428434,123249.41707672393
+1,Deaths,1,Global,2,Female,18,65-69 years,493,Ischemic heart disease,367,High LDL cholesterol,1,Number,2019,131267.4658954742,176255.71771407477,81441.86514354277
+1,Deaths,1,Global,1,Male,19,70-74 years,493,Ischemic heart disease,367,High LDL cholesterol,1,Number,2019,173558.95681645823,257729.63508292421,88894.93085719734
+1,Deaths,1,Global,2,Female,19,70-74 years,493,Ischemic heart disease,367,High LDL cholesterol,1,Number,2019,134824.28794256446,197430.63126054715,69481.4328067302
+1,Deaths,1,Global,1,Male,20,75-79 years,493,Ischemic heart disease,367,High LDL cholesterol,1,Number,2019,192769.93348372405,266462.0402485666,123621.10314578719
+1,Deaths,1,Global,2,Female,20,75-79 years,493,Ischemic heart disease,367,High LDL cholesterol,1,Number,2019,183740.76928093165,252427.99142769168,117239.22386885504
+1,Deaths,1,Global,1,Male,30,80-84,493,Ischemic heart disease,367,High LDL cholesterol,1,Number,2019,243239.57518313013,372976.0534700865,119289.98930539041
+1,Deaths,1,Global,2,Female,30,80-84,493,Ischemic heart disease,367,High LDL cholesterol,1,Number,2019,290840.32774032943,445721.9041277391,143569.70321845225
+1,Deaths,1,Global,1,Male,31,85-89,493,Ischemic heart disease,367,High LDL cholesterol,1,Number,2019,189769.3191349357,289979.7259959558,93917.42691638014
+1,Deaths,1,Global,2,Female,31,85-89,493,Ischemic heart disease,367,High LDL cholesterol,1,Number,2019,266658.8683761853,409737.0621663615,130930.85487908236
+1,Deaths,1,Global,1,Male,32,90-94,493,Ischemic heart disease,367,High LDL cholesterol,1,Number,2019,90829.37156263665,140997.46428329934,44867.28093001907
+1,Deaths,1,Global,2,Female,32,90-94,493,Ischemic heart disease,367,High LDL cholesterol,1,Number,2019,189091.91736333797,291573.2557999563,93204.44782167544
+1,Deaths,1,Global,1,Male,235,95+ years,493,Ischemic heart disease,367,High LDL cholesterol,1,Number,2019,32059.972171581616,51086.49007118389,15577.019092363322
+1,Deaths,1,Global,2,Female,235,95+ years,493,Ischemic heart disease,367,High LDL cholesterol,1,Number,2019,94153.49825706138,146619.989013179,46364.690060592344
+2,DALYs (Disability-Adjusted Life Years),1,Global,1,Male,1,<5 years,493,Ischemic heart disease,85,Air pollution,1,Number,2019,0.0,0.0,0.0
+2,DALYs (Disability-Adjusted Life Years),1,Global,2,Female,1,<5 years,493,Ischemic heart disease,85,Air pollution,1,Number,2019,0.0,0.0,0.0
+2,DALYs (Disability-Adjusted Life Years),1,Global,1,Male,10,25-29 years,493,Ischemic heart disease,85,Air pollution,1,Number,2019,588064.497673179,722515.6588121183,471647.9589152072
+2,DALYs (Disability-Adjusted Life Years),1,Global,2,Female,10,25-29 years,493,Ischemic heart disease,85,Air pollution,1,Number,2019,272970.063881993,336977.1957366941,216936.31620452116
+2,DALYs (Disability-Adjusted Life Years),1,Global,1,Male,11,30-34 years,493,Ischemic heart disease,85,Air pollution,1,Number,2019,1090935.5378024501,1318162.9234780986,873430.3323566709
+2,DALYs (Disability-Adjusted Life Years),1,Global,2,Female,11,30-34 years,493,Ischemic heart disease,85,Air pollution,1,Number,2019,429710.12019271345,529191.0708606757,338000.27083241113
+2,DALYs (Disability-Adjusted Life Years),1,Global,1,Male,12,35-39 years,493,Ischemic heart disease,85,Air pollution,1,Number,2019,1510685.117348732,1856930.8776719484,1200668.3938192076
+2,DALYs (Disability-Adjusted Life Years),1,Global,2,Female,12,35-39 years,493,Ischemic heart disease,85,Air pollution,1,Number,2019,564984.3508461197,703406.1677138266,443609.9023601422
+2,DALYs (Disability-Adjusted Life Years),1,Global,1,Male,13,40-44 years,493,Ischemic heart disease,85,Air pollution,1,Number,2019,2058687.3079672488,2544867.3270124607,1638642.3932619775
+2,DALYs (Disability-Adjusted Life Years),1,Global,2,Female,13,40-44 years,493,Ischemic heart disease,85,Air pollution,1,Number,2019,835339.5403190464,1013246.5232706756,656950.0030161587
+2,DALYs (Disability-Adjusted Life Years),1,Global,1,Male,14,45-49 years,493,Ischemic heart disease,85,Air pollution,1,Number,2019,2806360.902627536,3440502.001025213,2207408.735658879
+2,DALYs (Disability-Adjusted Life Years),1,Global,2,Female,14,45-49 years,493,Ischemic heart disease,85,Air pollution,1,Number,2019,1122108.3335769393,1362472.2792639628,896270.2585582188
+2,DALYs (Disability-Adjusted Life Years),1,Global,1,Male,15,50-54 years,493,Ischemic heart disease,85,Air pollution,1,Number,2019,3457629.320387571,4273850.738509878,2715412.2123143226
+2,DALYs (Disability-Adjusted Life Years),1,Global,2,Female,15,50-54 years,493,Ischemic heart disease,85,Air pollution,1,Number,2019,1536026.1876489283,1896795.2879952835,1168923.0678570687
+2,DALYs (Disability-Adjusted Life Years),1,Global,1,Male,16,55-59 years,493,Ischemic heart disease,85,Air pollution,1,Number,2019,3747120.498340173,4627130.738957032,2947817.9094793214
+2,DALYs (Disability-Adjusted Life Years),1,Global,2,Female,16,55-59 years,493,Ischemic heart disease,85,Air pollution,1,Number,2019,1746628.5425857736,2164198.068976301,1379229.3855071107
+2,DALYs (Disability-Adjusted Life Years),1,Global,1,Male,17,60-64 years,493,Ischemic heart disease,85,Air pollution,1,Number,2019,3627411.5744623616,4493151.213688317,2819137.7186969775
+2,DALYs (Disability-Adjusted Life Years),1,Global,2,Female,17,60-64 years,493,Ischemic heart disease,85,Air pollution,1,Number,2019,2024773.5444991735,2474602.144479832,1565641.3816054529
+2,DALYs (Disability-Adjusted Life Years),1,Global,1,Male,18,65-69 years,493,Ischemic heart disease,85,Air pollution,1,Number,2019,3280322.4381598015,4028926.745223571,2565082.9619102464
+2,DALYs (Disability-Adjusted Life Years),1,Global,2,Female,18,65-69 years,493,Ischemic heart disease,85,Air pollution,1,Number,2019,2155815.851470299,2635558.4602986244,1705400.6948824471
+2,DALYs (Disability-Adjusted Life Years),1,Global,1,Male,19,70-74 years,493,Ischemic heart disease,85,Air pollution,1,Number,2019,2614311.68165472,3281497.096221993,2000925.3931940137
+2,DALYs (Disability-Adjusted Life Years),1,Global,2,Female,19,70-74 years,493,Ischemic heart disease,85,Air pollution,1,Number,2019,1954175.4013962087,2429771.47722046,1444802.7946098568
+2,DALYs (Disability-Adjusted Life Years),1,Global,1,Male,20,75-79 years,493,Ischemic heart disease,85,Air pollution,1,Number,2019,1832582.443714102,2280459.8073296435,1426834.4472756428
+2,DALYs (Disability-Adjusted Life Years),1,Global,2,Female,20,75-79 years,493,Ischemic heart disease,85,Air pollution,1,Number,2019,1626442.3200838475,2031782.4464952308,1263545.3135418615
+2,DALYs (Disability-Adjusted Life Years),1,Global,1,Male,30,80-84,493,Ischemic heart disease,85,Air pollution,1,Number,2019,1276380.1817445618,1608529.9562120407,970872.8199116107
+2,DALYs (Disability-Adjusted Life Years),1,Global,2,Female,30,80-84,493,Ischemic heart disease,85,Air pollution,1,Number,2019,1352690.450571156,1718980.648993919,1005350.7609924908
+2,DALYs (Disability-Adjusted Life Years),1,Global,1,Male,31,85-89,493,Ischemic heart disease,85,Air pollution,1,Number,2019,601086.3838974081,752814.6455378053,449327.522293008
+2,DALYs (Disability-Adjusted Life Years),1,Global,2,Female,31,85-89,493,Ischemic heart disease,85,Air pollution,1,Number,2019,725326.381042758,952261.1095209983,524933.5666102618
+2,DALYs (Disability-Adjusted Life Years),1,Global,1,Male,32,90-94,493,Ischemic heart disease,85,Air pollution,1,Number,2019,149001.85993858782,197815.54589559874,105348.72120647682
+2,DALYs (Disability-Adjusted Life Years),1,Global,2,Female,32,90-94,493,Ischemic heart disease,85,Air pollution,1,Number,2019,276637.6869301095,373895.0255565829,191139.88747085433
+2,DALYs (Disability-Adjusted Life Years),1,Global,1,Male,235,95+ years,493,Ischemic heart disease,85,Air pollution,1,Number,2019,24048.602676705264,33310.837096978954,16065.739590068819
+2,DALYs (Disability-Adjusted Life Years),1,Global,2,Female,235,95+ years,493,Ischemic heart disease,85,Air pollution,1,Number,2019,66162.48143796454,91575.85626300632,43255.16439774544
+2,DALYs (Disability-Adjusted Life Years),1,Global,1,Male,1,<5 years,493,Ischemic heart disease,89,Other environmental risks,1,Number,2019,0.0,0.0,0.0
+2,DALYs (Disability-Adjusted Life Years),1,Global,2,Female,1,<5 years,493,Ischemic heart disease,89,Other environmental risks,1,Number,2019,0.0,0.0,0.0
+2,DALYs (Disability-Adjusted Life Years),1,Global,1,Male,10,25-29 years,493,Ischemic heart disease,89,Other environmental risks,1,Number,2019,21678.212497248936,67059.62755769685,1344.7131089649586
+2,DALYs (Disability-Adjusted Life Years),1,Global,2,Female,10,25-29 years,493,Ischemic heart disease,89,Other environmental risks,1,Number,2019,8229.89092890107,27699.844908991785,306.4328267508764
+2,DALYs (Disability-Adjusted Life Years),1,Global,1,Male,11,30-34 years,493,Ischemic heart disease,89,Other environmental risks,1,Number,2019,59783.549809731514,147799.34297716123,9146.630430836696
+2,DALYs (Disability-Adjusted Life Years),1,Global,2,Female,11,30-34 years,493,Ischemic heart disease,89,Other environmental risks,1,Number,2019,18166.185763488356,49464.07048234142,2105.09327070762
+2,DALYs (Disability-Adjusted Life Years),1,Global,1,Male,12,35-39 years,493,Ischemic heart disease,89,Other environmental risks,1,Number,2019,112819.3216046109,221713.73318386407,33263.648123643296
+2,DALYs (Disability-Adjusted Life Years),1,Global,2,Female,12,35-39 years,493,Ischemic heart disease,89,Other environmental risks,1,Number,2019,31492.32567095753,69088.60374657942,6986.425178954962
+2,DALYs (Disability-Adjusted Life Years),1,Global,1,Male,13,40-44 years,493,Ischemic heart disease,89,Other environmental risks,1,Number,2019,196910.87644493234,351190.7430762327,77401.25796411003
+2,DALYs (Disability-Adjusted Life Years),1,Global,2,Female,13,40-44 years,493,Ischemic heart disease,89,Other environmental risks,1,Number,2019,61341.44781449937,119643.99131878238,19755.63212618128
+2,DALYs (Disability-Adjusted Life Years),1,Global,1,Male,14,45-49 years,493,Ischemic heart disease,89,Other environmental risks,1,Number,2019,361341.0167479516,587870.7241449013,175325.19388183331
+2,DALYs (Disability-Adjusted Life Years),1,Global,2,Female,14,45-49 years,493,Ischemic heart disease,89,Other environmental risks,1,Number,2019,107341.73093670627,190490.34137913364,44345.11798009229
+2,DALYs (Disability-Adjusted Life Years),1,Global,1,Male,15,50-54 years,493,Ischemic heart disease,89,Other environmental risks,1,Number,2019,563399.0342521598,854366.3354453046,309740.0264469793
+2,DALYs (Disability-Adjusted Life Years),1,Global,2,Female,15,50-54 years,493,Ischemic heart disease,89,Other environmental risks,1,Number,2019,189440.75551790616,308300.34737150336,92510.42271934543
+2,DALYs (Disability-Adjusted Life Years),1,Global,1,Male,16,55-59 years,493,Ischemic heart disease,89,Other environmental risks,1,Number,2019,717390.1758226102,1044552.0945264972,427355.3891404325
+2,DALYs (Disability-Adjusted Life Years),1,Global,2,Female,16,55-59 years,493,Ischemic heart disease,89,Other environmental risks,1,Number,2019,247165.82007303464,380328.6543435866,130166.55924822627
+2,DALYs (Disability-Adjusted Life Years),1,Global,1,Male,17,60-64 years,493,Ischemic heart disease,89,Other environmental risks,1,Number,2019,791605.2789816796,1118874.4676283954,488560.3373004797
+2,DALYs (Disability-Adjusted Life Years),1,Global,2,Female,17,60-64 years,493,Ischemic heart disease,89,Other environmental risks,1,Number,2019,322816.5099819431,484086.4717416231,180241.139836512
+2,DALYs (Disability-Adjusted Life Years),1,Global,1,Male,18,65-69 years,493,Ischemic heart disease,89,Other environmental risks,1,Number,2019,802974.7540337393,1149542.4985216984,495919.3995384037
+2,DALYs (Disability-Adjusted Life Years),1,Global,2,Female,18,65-69 years,493,Ischemic heart disease,89,Other environmental risks,1,Number,2019,376723.2031738783,572410.986568392,210068.6299183544
+2,DALYs (Disability-Adjusted Life Years),1,Global,1,Male,19,70-74 years,493,Ischemic heart disease,89,Other environmental risks,1,Number,2019,717977.0374537276,1016829.1887387469,446417.34786244744
+2,DALYs (Disability-Adjusted Life Years),1,Global,2,Female,19,70-74 years,493,Ischemic heart disease,89,Other environmental risks,1,Number,2019,371875.37036892085,567668.2106624361,208497.2968811582
+2,DALYs (Disability-Adjusted Life Years),1,Global,1,Male,20,75-79 years,493,Ischemic heart disease,89,Other environmental risks,1,Number,2019,569221.7348567033,819908.9663967874,368103.823988671
+2,DALYs (Disability-Adjusted Life Years),1,Global,2,Female,20,75-79 years,493,Ischemic heart disease,89,Other environmental risks,1,Number,2019,338489.09327917185,526645.7536096512,193542.8305063226
+2,DALYs (Disability-Adjusted Life Years),1,Global,1,Male,30,80-84,493,Ischemic heart disease,89,Other environmental risks,1,Number,2019,423743.4926115534,698579.4874786168,215283.7994047825
+2,DALYs (Disability-Adjusted Life Years),1,Global,2,Female,30,80-84,493,Ischemic heart disease,89,Other environmental risks,1,Number,2019,289969.80792134727,514402.1221797382,135082.4173026223
+2,DALYs (Disability-Adjusted Life Years),1,Global,1,Male,31,85-89,493,Ischemic heart disease,89,Other environmental risks,1,Number,2019,248533.46985145315,401071.4535377803,128351.33740456516
+2,DALYs (Disability-Adjusted Life Years),1,Global,2,Female,31,85-89,493,Ischemic heart disease,89,Other environmental risks,1,Number,2019,187486.94591736107,337425.97502973396,85559.10849570026
+2,DALYs (Disability-Adjusted Life Years),1,Global,1,Male,32,90-94,493,Ischemic heart disease,89,Other environmental risks,1,Number,2019,83200.80457989554,138890.3956252907,42591.748344891465
+2,DALYs (Disability-Adjusted Life Years),1,Global,2,Female,32,90-94,493,Ischemic heart disease,89,Other environmental risks,1,Number,2019,93646.49535280274,170980.23806980913,41115.76082642574
+2,DALYs (Disability-Adjusted Life Years),1,Global,1,Male,235,95+ years,493,Ischemic heart disease,89,Other environmental risks,1,Number,2019,20352.40799466845,34630.40762587794,9982.621349543368
+2,DALYs (Disability-Adjusted Life Years),1,Global,2,Female,235,95+ years,493,Ischemic heart disease,89,Other environmental risks,1,Number,2019,33579.09700579273,62099.829275593205,13417.816774650317
+2,DALYs (Disability-Adjusted Life Years),1,Global,1,Male,1,<5 years,493,Ischemic heart disease,98,Tobacco,1,Number,2019,0.0,0.0,0.0
+2,DALYs (Disability-Adjusted Life Years),1,Global,2,Female,1,<5 years,493,Ischemic heart disease,98,Tobacco,1,Number,2019,0.0,0.0,0.0
+2,DALYs (Disability-Adjusted Life Years),1,Global,1,Male,10,25-29 years,493,Ischemic heart disease,98,Tobacco,1,Number,2019,125626.23329451038,201347.85656731826,67365.78311165808
+2,DALYs (Disability-Adjusted Life Years),1,Global,2,Female,10,25-29 years,493,Ischemic heart disease,98,Tobacco,1,Number,2019,90556.47300699994,139954.39239397834,52244.698321385775
+2,DALYs (Disability-Adjusted Life Years),1,Global,1,Male,11,30-34 years,493,Ischemic heart disease,98,Tobacco,1,Number,2019,932324.0319714618,1069329.8454568903,806716.5434059564
+2,DALYs (Disability-Adjusted Life Years),1,Global,2,Female,11,30-34 years,493,Ischemic heart disease,98,Tobacco,1,Number,2019,211011.90238467028,281415.66045712546,150857.76250476224
+2,DALYs (Disability-Adjusted Life Years),1,Global,1,Male,12,35-39 years,493,Ischemic heart disease,98,Tobacco,1,Number,2019,1553259.4606171474,1756423.5436730639,1376491.7776357753
+2,DALYs (Disability-Adjusted Life Years),1,Global,2,Female,12,35-39 years,493,Ischemic heart disease,98,Tobacco,1,Number,2019,314171.0498690695,407567.4140167698,238530.90027903634
+2,DALYs (Disability-Adjusted Life Years),1,Global,1,Male,13,40-44 years,493,Ischemic heart disease,98,Tobacco,1,Number,2019,2469846.09593551,2761865.4640675993,2206507.2080415245
+2,DALYs (Disability-Adjusted Life Years),1,Global,2,Female,13,40-44 years,493,Ischemic heart disease,98,Tobacco,1,Number,2019,491564.52319121844,631482.2992325511,364050.97996605164
+2,DALYs (Disability-Adjusted Life Years),1,Global,1,Male,14,45-49 years,493,Ischemic heart disease,98,Tobacco,1,Number,2019,3739486.558465414,4206119.24953298,3323810.9410642865
+2,DALYs (Disability-Adjusted Life Years),1,Global,2,Female,14,45-49 years,493,Ischemic heart disease,98,Tobacco,1,Number,2019,726799.5562644296,918620.8214012784,578460.0360556202
+2,DALYs (Disability-Adjusted Life Years),1,Global,1,Male,15,50-54 years,493,Ischemic heart disease,98,Tobacco,1,Number,2019,5324230.436369725,5919498.4509277195,4780855.365983492
+2,DALYs (Disability-Adjusted Life Years),1,Global,2,Female,15,50-54 years,493,Ischemic heart disease,98,Tobacco,1,Number,2019,1106348.8484672024,1342436.7737354953,895443.538554572
+2,DALYs (Disability-Adjusted Life Years),1,Global,1,Male,16,55-59 years,493,Ischemic heart disease,98,Tobacco,1,Number,2019,5577801.26117034,6169407.718359794,5036474.868417039
+2,DALYs (Disability-Adjusted Life Years),1,Global,2,Female,16,55-59 years,493,Ischemic heart disease,98,Tobacco,1,Number,2019,1262196.0312187918,1530973.5618511783,1030491.3817860556
+2,DALYs (Disability-Adjusted Life Years),1,Global,1,Male,17,60-64 years,493,Ischemic heart disease,98,Tobacco,1,Number,2019,6171680.869469459,6813431.387532858,5574035.665782902
+2,DALYs (Disability-Adjusted Life Years),1,Global,2,Female,17,60-64 years,493,Ischemic heart disease,98,Tobacco,1,Number,2019,1663080.1414725112,1965468.2828832406,1388338.2218197293
+2,DALYs (Disability-Adjusted Life Years),1,Global,1,Male,18,65-69 years,493,Ischemic heart disease,98,Tobacco,1,Number,2019,4835189.997485125,5355277.085048122,4309611.999898823
+2,DALYs (Disability-Adjusted Life Years),1,Global,2,Female,18,65-69 years,493,Ischemic heart disease,98,Tobacco,1,Number,2019,1543072.45797463,1836792.5457084714,1287054.763367399
+2,DALYs (Disability-Adjusted Life Years),1,Global,1,Male,19,70-74 years,493,Ischemic heart disease,98,Tobacco,1,Number,2019,3992746.123442355,4472703.742237957,3545265.23537656
+2,DALYs (Disability-Adjusted Life Years),1,Global,2,Female,19,70-74 years,493,Ischemic heart disease,98,Tobacco,1,Number,2019,1431941.1658847644,1716996.3147097167,1193709.0711029684
+2,DALYs (Disability-Adjusted Life Years),1,Global,1,Male,20,75-79 years,493,Ischemic heart disease,98,Tobacco,1,Number,2019,2269081.858848458,2556038.234267817,2010564.5210065378
+2,DALYs (Disability-Adjusted Life Years),1,Global,2,Female,20,75-79 years,493,Ischemic heart disease,98,Tobacco,1,Number,2019,995320.0115597551,1198504.7450821765,825759.3488830813
+2,DALYs (Disability-Adjusted Life Years),1,Global,1,Male,30,80-84,493,Ischemic heart disease,98,Tobacco,1,Number,2019,1689595.7187804587,1898939.3271269042,1475075.902376679
+2,DALYs (Disability-Adjusted Life Years),1,Global,2,Female,30,80-84,493,Ischemic heart disease,98,Tobacco,1,Number,2019,879165.7953238795,1070584.4017337218,694087.691312595
+2,DALYs (Disability-Adjusted Life Years),1,Global,1,Male,31,85-89,493,Ischemic heart disease,98,Tobacco,1,Number,2019,581203.7076691649,671197.7007001619,488825.8929392367
+2,DALYs (Disability-Adjusted Life Years),1,Global,2,Female,31,85-89,493,Ischemic heart disease,98,Tobacco,1,Number,2019,382036.1263691015,480279.7817061242,287261.0254241771
+2,DALYs (Disability-Adjusted Life Years),1,Global,1,Male,32,90-94,493,Ischemic heart disease,98,Tobacco,1,Number,2019,151181.1928013079,179539.95135536123,123081.08708700846
+2,DALYs (Disability-Adjusted Life Years),1,Global,2,Female,32,90-94,493,Ischemic heart disease,98,Tobacco,1,Number,2019,166635.3298422137,211848.01764926917,122551.44157121485
+2,DALYs (Disability-Adjusted Life Years),1,Global,1,Male,235,95+ years,493,Ischemic heart disease,98,Tobacco,1,Number,2019,15900.593150450204,20504.522546961318,11554.561753906923
+2,DALYs (Disability-Adjusted Life Years),1,Global,2,Female,235,95+ years,493,Ischemic heart disease,98,Tobacco,1,Number,2019,32009.2665498373,42550.66915528614,21827.41092383107
+2,DALYs (Disability-Adjusted Life Years),1,Global,1,Male,1,<5 years,493,Ischemic heart disease,102,Alcohol use,1,Number,2019,0.0,0.0,0.0
+2,DALYs (Disability-Adjusted Life Years),1,Global,2,Female,1,<5 years,493,Ischemic heart disease,102,Alcohol use,1,Number,2019,0.0,0.0,0.0
+2,DALYs (Disability-Adjusted Life Years),1,Global,1,Male,8,15-19 years,493,Ischemic heart disease,102,Alcohol use,1,Number,2019,-4467.417839138694,-912.6326495528123,-8041.179607523457
+2,DALYs (Disability-Adjusted Life Years),1,Global,2,Female,8,15-19 years,493,Ischemic heart disease,102,Alcohol use,1,Number,2019,-1388.0310581961658,-282.0433554046178,-2457.6748100144387
+2,DALYs (Disability-Adjusted Life Years),1,Global,1,Male,9,20-24 years,493,Ischemic heart disease,102,Alcohol use,1,Number,2019,-11803.6803653516,4486.280498412965,-28001.412029835996
+2,DALYs (Disability-Adjusted Life Years),1,Global,2,Female,9,20-24 years,493,Ischemic heart disease,102,Alcohol use,1,Number,2019,-2575.6907578863334,24.619702760452185,-5127.98472515597
+2,DALYs (Disability-Adjusted Life Years),1,Global,1,Male,10,25-29 years,493,Ischemic heart disease,102,Alcohol use,1,Number,2019,-17981.602734342978,15164.469666651925,-51377.030121459866
+2,DALYs (Disability-Adjusted Life Years),1,Global,2,Female,10,25-29 years,493,Ischemic heart disease,102,Alcohol use,1,Number,2019,-3642.9294002766887,225.4185931215165,-7311.336690158004
+2,DALYs (Disability-Adjusted Life Years),1,Global,1,Male,11,30-34 years,493,Ischemic heart disease,102,Alcohol use,1,Number,2019,-33159.836034892534,38963.529469425615,-104038.69086359441
+2,DALYs (Disability-Adjusted Life Years),1,Global,2,Female,11,30-34 years,493,Ischemic heart disease,102,Alcohol use,1,Number,2019,-6838.952067879344,735.575901968848,-13803.93674329099
+2,DALYs (Disability-Adjusted Life Years),1,Global,1,Male,12,35-39 years,493,Ischemic heart disease,102,Alcohol use,1,Number,2019,-44699.51445529829,69131.33161185503,-157411.71273185182
+2,DALYs (Disability-Adjusted Life Years),1,Global,2,Female,12,35-39 years,493,Ischemic heart disease,102,Alcohol use,1,Number,2019,-10712.184403870793,928.172173291422,-21932.479528546843
+2,DALYs (Disability-Adjusted Life Years),1,Global,1,Male,13,40-44 years,493,Ischemic heart disease,102,Alcohol use,1,Number,2019,-59983.59982804697,105028.68069262391,-228951.71104693954
+2,DALYs (Disability-Adjusted Life Years),1,Global,2,Female,13,40-44 years,493,Ischemic heart disease,102,Alcohol use,1,Number,2019,-16609.45833202265,3775.4757395027805,-36094.3219340866
+2,DALYs (Disability-Adjusted Life Years),1,Global,1,Male,14,45-49 years,493,Ischemic heart disease,102,Alcohol use,1,Number,2019,-81463.53327383145,165656.74686942654,-336398.2984716
+2,DALYs (Disability-Adjusted Life Years),1,Global,2,Female,14,45-49 years,493,Ischemic heart disease,102,Alcohol use,1,Number,2019,-25734.4362351879,6509.758022352177,-54696.315568768216
+2,DALYs (Disability-Adjusted Life Years),1,Global,1,Male,15,50-54 years,493,Ischemic heart disease,102,Alcohol use,1,Number,2019,-103223.49950330389,228512.83633671384,-440892.09962122847
+2,DALYs (Disability-Adjusted Life Years),1,Global,2,Female,15,50-54 years,493,Ischemic heart disease,102,Alcohol use,1,Number,2019,-38830.65564904961,9714.519021101112,-83260.53867100827
+2,DALYs (Disability-Adjusted Life Years),1,Global,1,Male,16,55-59 years,493,Ischemic heart disease,102,Alcohol use,1,Number,2019,-124047.02932824967,274238.3298850988,-521262.08198002627
+2,DALYs (Disability-Adjusted Life Years),1,Global,2,Female,16,55-59 years,493,Ischemic heart disease,102,Alcohol use,1,Number,2019,-51476.008498969124,15783.234959040201,-113069.31521043729
+2,DALYs (Disability-Adjusted Life Years),1,Global,1,Male,17,60-64 years,493,Ischemic heart disease,102,Alcohol use,1,Number,2019,-140447.34652384286,297983.47453531466,-570134.4386620657
+2,DALYs (Disability-Adjusted Life Years),1,Global,2,Female,17,60-64 years,493,Ischemic heart disease,102,Alcohol use,1,Number,2019,-68806.58211515589,22648.0119150945,-151925.24505291358
+2,DALYs (Disability-Adjusted Life Years),1,Global,1,Male,18,65-69 years,493,Ischemic heart disease,102,Alcohol use,1,Number,2019,-149258.7844062736,252830.6811147241,-536971.7732097429
+2,DALYs (Disability-Adjusted Life Years),1,Global,2,Female,18,65-69 years,493,Ischemic heart disease,102,Alcohol use,1,Number,2019,-85700.76316400926,14887.875684120281,-175815.35670676277
+2,DALYs (Disability-Adjusted Life Years),1,Global,1,Male,19,70-74 years,493,Ischemic heart disease,102,Alcohol use,1,Number,2019,-141816.7503990217,188022.70535787227,-479627.7064779234
+2,DALYs (Disability-Adjusted Life Years),1,Global,2,Female,19,70-74 years,493,Ischemic heart disease,102,Alcohol use,1,Number,2019,-84808.87182629418,17770.223161700615,-176790.76733814806
+2,DALYs (Disability-Adjusted Life Years),1,Global,1,Male,20,75-79 years,493,Ischemic heart disease,102,Alcohol use,1,Number,2019,-144457.45757954684,103875.63302267726,-395141.64604716183
+2,DALYs (Disability-Adjusted Life Years),1,Global,2,Female,20,75-79 years,493,Ischemic heart disease,102,Alcohol use,1,Number,2019,-93560.95550546166,-1267.810250789064,-180473.93091429316
+2,DALYs (Disability-Adjusted Life Years),1,Global,1,Male,30,80-84,493,Ischemic heart disease,102,Alcohol use,1,Number,2019,-126143.45836268587,63306.6457675432,-312803.49179446185
+2,DALYs (Disability-Adjusted Life Years),1,Global,2,Female,30,80-84,493,Ischemic heart disease,102,Alcohol use,1,Number,2019,-85813.03485910188,8207.42553782171,-171429.45094294232
+2,DALYs (Disability-Adjusted Life Years),1,Global,1,Male,31,85-89,493,Ischemic heart disease,102,Alcohol use,1,Number,2019,-75774.56520338467,40369.842111249265,-192921.1711654405
+2,DALYs (Disability-Adjusted Life Years),1,Global,2,Female,31,85-89,493,Ischemic heart disease,102,Alcohol use,1,Number,2019,-66964.65289021951,11298.67742715517,-138813.51496970237
+2,DALYs (Disability-Adjusted Life Years),1,Global,1,Male,32,90-94,493,Ischemic heart disease,102,Alcohol use,1,Number,2019,-31099.551481937127,14102.01180088735,-75814.80018862349
+2,DALYs (Disability-Adjusted Life Years),1,Global,2,Female,32,90-94,493,Ischemic heart disease,102,Alcohol use,1,Number,2019,-42585.12329962903,9472.346232693077,-89989.93583189775
+2,DALYs (Disability-Adjusted Life Years),1,Global,1,Male,235,95+ years,493,Ischemic heart disease,102,Alcohol use,1,Number,2019,-8946.23662370871,3502.5640786753765,-21385.686031858324
+2,DALYs (Disability-Adjusted Life Years),1,Global,2,Female,235,95+ years,493,Ischemic heart disease,102,Alcohol use,1,Number,2019,-18098.627969925965,5995.59637752629,-40475.1268812207
+2,DALYs (Disability-Adjusted Life Years),1,Global,1,Male,1,<5 years,493,Ischemic heart disease,105,High fasting plasma glucose,1,Number,2019,0.0,0.0,0.0
+2,DALYs (Disability-Adjusted Life Years),1,Global,2,Female,1,<5 years,493,Ischemic heart disease,105,High fasting plasma glucose,1,Number,2019,0.0,0.0,0.0
+2,DALYs (Disability-Adjusted Life Years),1,Global,1,Male,10,25-29 years,493,Ischemic heart disease,105,High fasting plasma glucose,1,Number,2019,154615.19591462697,347062.2266124829,45099.17724254413
+2,DALYs (Disability-Adjusted Life Years),1,Global,2,Female,10,25-29 years,493,Ischemic heart disease,105,High fasting plasma glucose,1,Number,2019,65571.23535296357,145123.48088319844,17384.87615146361
+2,DALYs (Disability-Adjusted Life Years),1,Global,1,Male,11,30-34 years,493,Ischemic heart disease,105,High fasting plasma glucose,1,Number,2019,311559.26138464716,625319.443446493,116913.20760218849
+2,DALYs (Disability-Adjusted Life Years),1,Global,2,Female,11,30-34 years,493,Ischemic heart disease,105,High fasting plasma glucose,1,Number,2019,109459.04921640144,215369.6811907813,39934.593212015934
+2,DALYs (Disability-Adjusted Life Years),1,Global,1,Male,12,35-39 years,493,Ischemic heart disease,105,High fasting plasma glucose,1,Number,2019,446823.13488365343,768882.6044554543,198917.31071027144
+2,DALYs (Disability-Adjusted Life Years),1,Global,2,Female,12,35-39 years,493,Ischemic heart disease,105,High fasting plasma glucose,1,Number,2019,148493.83602297137,258296.68473366232,67016.5161928333
+2,DALYs (Disability-Adjusted Life Years),1,Global,1,Male,13,40-44 years,493,Ischemic heart disease,105,High fasting plasma glucose,1,Number,2019,668577.8935664047,1185655.025199066,259156.54677542817
+2,DALYs (Disability-Adjusted Life Years),1,Global,2,Female,13,40-44 years,493,Ischemic heart disease,105,High fasting plasma glucose,1,Number,2019,230563.5999942615,410690.1566983437,89088.91519774424
+2,DALYs (Disability-Adjusted Life Years),1,Global,1,Male,14,45-49 years,493,Ischemic heart disease,105,High fasting plasma glucose,1,Number,2019,1237268.8843689254,2056065.7126469386,589587.3559466233
+2,DALYs (Disability-Adjusted Life Years),1,Global,2,Female,14,45-49 years,493,Ischemic heart disease,105,High fasting plasma glucose,1,Number,2019,416782.41607941524,682979.3352063901,198654.66222887608
+2,DALYs (Disability-Adjusted Life Years),1,Global,1,Male,15,50-54 years,493,Ischemic heart disease,105,High fasting plasma glucose,1,Number,2019,2047426.3510186311,3164879.392188121,1129154.6602440253
+2,DALYs (Disability-Adjusted Life Years),1,Global,2,Female,15,50-54 years,493,Ischemic heart disease,105,High fasting plasma glucose,1,Number,2019,759214.3186132911,1147495.5217913273,421309.7534676553
+2,DALYs (Disability-Adjusted Life Years),1,Global,1,Male,16,55-59 years,493,Ischemic heart disease,105,High fasting plasma glucose,1,Number,2019,3094584.0272536767,4675996.787424553,1802416.8715925016
+2,DALYs (Disability-Adjusted Life Years),1,Global,2,Female,16,55-59 years,493,Ischemic heart disease,105,High fasting plasma glucose,1,Number,2019,1225638.45639069,1837374.67120885,707407.9252680531
+2,DALYs (Disability-Adjusted Life Years),1,Global,1,Male,17,60-64 years,493,Ischemic heart disease,105,High fasting plasma glucose,1,Number,2019,3774493.971217477,5783926.58331356,2039945.4622508818
+2,DALYs (Disability-Adjusted Life Years),1,Global,2,Female,17,60-64 years,493,Ischemic heart disease,105,High fasting plasma glucose,1,Number,2019,1832291.5717143607,2823552.815455506,981448.2195635841
+2,DALYs (Disability-Adjusted Life Years),1,Global,1,Male,18,65-69 years,493,Ischemic heart disease,105,High fasting plasma glucose,1,Number,2019,3847839.1272068955,6770253.480187081,1639755.7498425988
+2,DALYs (Disability-Adjusted Life Years),1,Global,2,Female,18,65-69 years,493,Ischemic heart disease,105,High fasting plasma glucose,1,Number,2019,2244548.824745382,3846627.160419774,950145.055481705
+2,DALYs (Disability-Adjusted Life Years),1,Global,1,Male,19,70-74 years,493,Ischemic heart disease,105,High fasting plasma glucose,1,Number,2019,3543883.4010544955,6416225.644651549,1489408.3231938654
+2,DALYs (Disability-Adjusted Life Years),1,Global,2,Female,19,70-74 years,493,Ischemic heart disease,105,High fasting plasma glucose,1,Number,2019,2368252.073816176,4104635.6108263847,1008032.0564858716
+2,DALYs (Disability-Adjusted Life Years),1,Global,1,Male,20,75-79 years,493,Ischemic heart disease,105,High fasting plasma glucose,1,Number,2019,2920649.8628282733,4951201.712275927,1521688.3782529472
+2,DALYs (Disability-Adjusted Life Years),1,Global,2,Female,20,75-79 years,493,Ischemic heart disease,105,High fasting plasma glucose,1,Number,2019,2373915.83357114,3981473.183906081,1198645.8358546454
+2,DALYs (Disability-Adjusted Life Years),1,Global,1,Male,30,80-84,493,Ischemic heart disease,105,High fasting plasma glucose,1,Number,2019,2368508.4705632096,4731340.432838268,868635.1260927811
+2,DALYs (Disability-Adjusted Life Years),1,Global,2,Female,30,80-84,493,Ischemic heart disease,105,High fasting plasma glucose,1,Number,2019,2373495.3669019165,4716582.173038167,884931.2170751509
+2,DALYs (Disability-Adjusted Life Years),1,Global,1,Male,31,85-89,493,Ischemic heart disease,105,High fasting plasma glucose,1,Number,2019,1345314.9139372322,2677969.924471207,507349.0287909265
+2,DALYs (Disability-Adjusted Life Years),1,Global,2,Female,31,85-89,493,Ischemic heart disease,105,High fasting plasma glucose,1,Number,2019,1603845.0378964772,3210253.7700614654,608719.3515781823
+2,DALYs (Disability-Adjusted Life Years),1,Global,1,Male,32,90-94,493,Ischemic heart disease,105,High fasting plasma glucose,1,Number,2019,498728.00502960064,991060.6322254078,187212.8776932424
+2,DALYs (Disability-Adjusted Life Years),1,Global,2,Female,32,90-94,493,Ischemic heart disease,105,High fasting plasma glucose,1,Number,2019,824905.1453483026,1647296.8649652551,317207.21719205164
+2,DALYs (Disability-Adjusted Life Years),1,Global,1,Male,235,95+ years,493,Ischemic heart disease,105,High fasting plasma glucose,1,Number,2019,128608.66278727406,258090.3698508765,47350.29691913766
+2,DALYs (Disability-Adjusted Life Years),1,Global,2,Female,235,95+ years,493,Ischemic heart disease,105,High fasting plasma glucose,1,Number,2019,287407.44947489665,575970.7750460741,110297.44806645141
+2,DALYs (Disability-Adjusted Life Years),1,Global,1,Male,1,<5 years,493,Ischemic heart disease,107,High systolic blood pressure,1,Number,2019,0.0,0.0,0.0
+2,DALYs (Disability-Adjusted Life Years),1,Global,2,Female,1,<5 years,493,Ischemic heart disease,107,High systolic blood pressure,1,Number,2019,0.0,0.0,0.0
+2,DALYs (Disability-Adjusted Life Years),1,Global,1,Male,10,25-29 years,493,Ischemic heart disease,107,High systolic blood pressure,1,Number,2019,718791.414871616,987128.230780662,431105.19342984544
+2,DALYs (Disability-Adjusted Life Years),1,Global,2,Female,10,25-29 years,493,Ischemic heart disease,107,High systolic blood pressure,1,Number,2019,218820.5022201822,333036.00151885615,118994.6288917194
+2,DALYs (Disability-Adjusted Life Years),1,Global,1,Male,11,30-34 years,493,Ischemic heart disease,107,High systolic blood pressure,1,Number,2019,1397534.8654353195,1841817.9707044298,951035.2944556836
+2,DALYs (Disability-Adjusted Life Years),1,Global,2,Female,11,30-34 years,493,Ischemic heart disease,107,High systolic blood pressure,1,Number,2019,391889.2824953841,561994.9424974552,244629.0769288536
+2,DALYs (Disability-Adjusted Life Years),1,Global,1,Male,12,35-39 years,493,Ischemic heart disease,107,High systolic blood pressure,1,Number,2019,2006165.5954716003,2564416.5516028577,1498391.435958038
+2,DALYs (Disability-Adjusted Life Years),1,Global,2,Female,12,35-39 years,493,Ischemic heart disease,107,High systolic blood pressure,1,Number,2019,589607.3738930334,778836.8827205338,427942.2144717219
+2,DALYs (Disability-Adjusted Life Years),1,Global,1,Male,13,40-44 years,493,Ischemic heart disease,107,High systolic blood pressure,1,Number,2019,2896688.9989195224,3666040.816322678,2162551.4409892424
+2,DALYs (Disability-Adjusted Life Years),1,Global,2,Female,13,40-44 years,493,Ischemic heart disease,107,High systolic blood pressure,1,Number,2019,978803.2548202155,1268702.4401817205,698135.1338642348
+2,DALYs (Disability-Adjusted Life Years),1,Global,1,Male,14,45-49 years,493,Ischemic heart disease,107,High systolic blood pressure,1,Number,2019,4508086.50711582,5523336.856683683,3566014.9446203494
+2,DALYs (Disability-Adjusted Life Years),1,Global,2,Female,14,45-49 years,493,Ischemic heart disease,107,High systolic blood pressure,1,Number,2019,1614438.8619099187,1996230.3040793065,1216602.4747830776
+2,DALYs (Disability-Adjusted Life Years),1,Global,1,Male,15,50-54 years,493,Ischemic heart disease,107,High systolic blood pressure,1,Number,2019,6183466.040397532,7360055.190963311,5076537.325142125
+2,DALYs (Disability-Adjusted Life Years),1,Global,2,Female,15,50-54 years,493,Ischemic heart disease,107,High systolic blood pressure,1,Number,2019,2538879.879318108,3045826.8491221247,2038499.550858515
+2,DALYs (Disability-Adjusted Life Years),1,Global,1,Male,16,55-59 years,493,Ischemic heart disease,107,High systolic blood pressure,1,Number,2019,7633072.4918922335,8887795.622973721,6444231.583593046
+2,DALYs (Disability-Adjusted Life Years),1,Global,2,Female,16,55-59 years,493,Ischemic heart disease,107,High systolic blood pressure,1,Number,2019,3348915.45243483,3951789.673742332,2799689.3910805094
+2,DALYs (Disability-Adjusted Life Years),1,Global,1,Male,17,60-64 years,493,Ischemic heart disease,107,High systolic blood pressure,1,Number,2019,8373357.917184783,9649248.707076935,7118329.439643774
+2,DALYs (Disability-Adjusted Life Years),1,Global,2,Female,17,60-64 years,493,Ischemic heart disease,107,High systolic blood pressure,1,Number,2019,4414293.406023511,5133779.7463506255,3709218.375301646
+2,DALYs (Disability-Adjusted Life Years),1,Global,1,Male,18,65-69 years,493,Ischemic heart disease,107,High systolic blood pressure,1,Number,2019,7953236.126409784,9460548.875423908,6242291.077173233
+2,DALYs (Disability-Adjusted Life Years),1,Global,2,Female,18,65-69 years,493,Ischemic heart disease,107,High systolic blood pressure,1,Number,2019,5101218.990614461,6041989.190966854,4010497.7824550085
+2,DALYs (Disability-Adjusted Life Years),1,Global,1,Male,19,70-74 years,493,Ischemic heart disease,107,High systolic blood pressure,1,Number,2019,6610603.2380808545,7981843.409956174,5066960.392511524
+2,DALYs (Disability-Adjusted Life Years),1,Global,2,Female,19,70-74 years,493,Ischemic heart disease,107,High systolic blood pressure,1,Number,2019,4995214.217284976,6056847.570925013,3744824.767148772
+2,DALYs (Disability-Adjusted Life Years),1,Global,1,Male,20,75-79 years,493,Ischemic heart disease,107,High systolic blood pressure,1,Number,2019,5191139.379624512,6291443.710363368,4122414.538283772
+2,DALYs (Disability-Adjusted Life Years),1,Global,2,Female,20,75-79 years,493,Ischemic heart disease,107,High systolic blood pressure,1,Number,2019,4830378.9058738835,5853776.984004689,3840717.076053797
+2,DALYs (Disability-Adjusted Life Years),1,Global,1,Male,30,80-84,493,Ischemic heart disease,107,High systolic blood pressure,1,Number,2019,3870736.0268367548,5251408.293423575,2390831.284730628
+2,DALYs (Disability-Adjusted Life Years),1,Global,2,Female,30,80-84,493,Ischemic heart disease,107,High systolic blood pressure,1,Number,2019,4504034.193905868,6198299.101538867,2815973.1606390234
+2,DALYs (Disability-Adjusted Life Years),1,Global,1,Male,31,85-89,493,Ischemic heart disease,107,High systolic blood pressure,1,Number,2019,2246907.252478236,3064128.9961697683,1351427.215628751
+2,DALYs (Disability-Adjusted Life Years),1,Global,2,Female,31,85-89,493,Ischemic heart disease,107,High systolic blood pressure,1,Number,2019,3067952.6378038074,4137532.625486072,1920895.1424615819
+2,DALYs (Disability-Adjusted Life Years),1,Global,1,Male,32,90-94,493,Ischemic heart disease,107,High systolic blood pressure,1,Number,2019,793888.1299064541,1102981.3136870302,489546.44776158634
+2,DALYs (Disability-Adjusted Life Years),1,Global,2,Female,32,90-94,493,Ischemic heart disease,107,High systolic blood pressure,1,Number,2019,1628563.794667455,2229002.5020611193,1006984.7783553136
+2,DALYs (Disability-Adjusted Life Years),1,Global,1,Male,235,95+ years,493,Ischemic heart disease,107,High systolic blood pressure,1,Number,2019,200372.41958092476,280736.8862156152,117636.2273965738
+2,DALYs (Disability-Adjusted Life Years),1,Global,2,Female,235,95+ years,493,Ischemic heart disease,107,High systolic blood pressure,1,Number,2019,590236.4515723664,825374.1241592853,343185.7909896262
+2,DALYs (Disability-Adjusted Life Years),1,Global,1,Male,1,<5 years,493,Ischemic heart disease,108,High body-mass index,1,Number,2019,0.0,0.0,0.0
+2,DALYs (Disability-Adjusted Life Years),1,Global,2,Female,1,<5 years,493,Ischemic heart disease,108,High body-mass index,1,Number,2019,0.0,0.0,0.0
+2,DALYs (Disability-Adjusted Life Years),1,Global,1,Male,9,20-24 years,493,Ischemic heart disease,108,High body-mass index,1,Number,2019,246765.61473501986,485767.3929491081,47589.075563193306
+2,DALYs (Disability-Adjusted Life Years),1,Global,2,Female,9,20-24 years,493,Ischemic heart disease,108,High body-mass index,1,Number,2019,138526.87200327934,271979.24360953504,27478.5334124162
+2,DALYs (Disability-Adjusted Life Years),1,Global,1,Male,10,25-29 years,493,Ischemic heart disease,108,High body-mass index,1,Number,2019,506121.30283539335,914178.1878193896,114183.18069050043
+2,DALYs (Disability-Adjusted Life Years),1,Global,2,Female,10,25-29 years,493,Ischemic heart disease,108,High body-mass index,1,Number,2019,230627.48860584042,412789.2338079643,51970.063789394466
+2,DALYs (Disability-Adjusted Life Years),1,Global,1,Male,11,30-34 years,493,Ischemic heart disease,108,High body-mass index,1,Number,2019,961109.3125467347,1713331.0523945077,297662.30017600645
+2,DALYs (Disability-Adjusted Life Years),1,Global,2,Female,11,30-34 years,493,Ischemic heart disease,108,High body-mass index,1,Number,2019,397594.4711771838,676797.7300860353,126454.81546558403
+2,DALYs (Disability-Adjusted Life Years),1,Global,1,Male,12,35-39 years,493,Ischemic heart disease,108,High body-mass index,1,Number,2019,1268484.6511192168,1869278.541960605,759764.7221918448
+2,DALYs (Disability-Adjusted Life Years),1,Global,2,Female,12,35-39 years,493,Ischemic heart disease,108,High body-mass index,1,Number,2019,504064.3053755953,720774.2121833109,322972.2643461417
+2,DALYs (Disability-Adjusted Life Years),1,Global,1,Male,13,40-44 years,493,Ischemic heart disease,108,High body-mass index,1,Number,2019,1669835.3561633958,2500370.280494484,962611.9152278282
+2,DALYs (Disability-Adjusted Life Years),1,Global,2,Female,13,40-44 years,493,Ischemic heart disease,108,High body-mass index,1,Number,2019,708951.6653265806,1044293.2501000776,420064.3399919924
+2,DALYs (Disability-Adjusted Life Years),1,Global,1,Male,14,45-49 years,493,Ischemic heart disease,108,High body-mass index,1,Number,2019,2444370.715940142,3515253.696508855,1466513.911622444
+2,DALYs (Disability-Adjusted Life Years),1,Global,2,Female,14,45-49 years,493,Ischemic heart disease,108,High body-mass index,1,Number,2019,1049968.8019898282,1470325.2921462788,662875.8995613693
+2,DALYs (Disability-Adjusted Life Years),1,Global,1,Male,15,50-54 years,493,Ischemic heart disease,108,High body-mass index,1,Number,2019,3187211.6915958,4585480.588218382,1916807.8093074004
+2,DALYs (Disability-Adjusted Life Years),1,Global,2,Female,15,50-54 years,493,Ischemic heart disease,108,High body-mass index,1,Number,2019,1479202.691970432,2069323.5920871045,945004.9054549498
+2,DALYs (Disability-Adjusted Life Years),1,Global,1,Male,16,55-59 years,493,Ischemic heart disease,108,High body-mass index,1,Number,2019,3562415.7892822963,5150392.257783463,2160099.2068594075
+2,DALYs (Disability-Adjusted Life Years),1,Global,2,Female,16,55-59 years,493,Ischemic heart disease,108,High body-mass index,1,Number,2019,1782809.6033103436,2501681.2737981197,1157953.2962143193
+2,DALYs (Disability-Adjusted Life Years),1,Global,1,Male,17,60-64 years,493,Ischemic heart disease,108,High body-mass index,1,Number,2019,3509779.310963126,5189207.6534086075,2068296.8158492292
+2,DALYs (Disability-Adjusted Life Years),1,Global,2,Female,17,60-64 years,493,Ischemic heart disease,108,High body-mass index,1,Number,2019,2117072.1807949618,3035898.6537949694,1344831.6222627142
+2,DALYs (Disability-Adjusted Life Years),1,Global,1,Male,18,65-69 years,493,Ischemic heart disease,108,High body-mass index,1,Number,2019,2956777.9243681496,4486544.854944387,1669384.6003050406
+2,DALYs (Disability-Adjusted Life Years),1,Global,2,Female,18,65-69 years,493,Ischemic heart disease,108,High body-mass index,1,Number,2019,2194380.0494673215,3225674.7029728973,1347654.7873790744
+2,DALYs (Disability-Adjusted Life Years),1,Global,1,Male,19,70-74 years,493,Ischemic heart disease,108,High body-mass index,1,Number,2019,2127332.6966917817,3312376.163485292,1165515.0183065436
+2,DALYs (Disability-Adjusted Life Years),1,Global,2,Female,19,70-74 years,493,Ischemic heart disease,108,High body-mass index,1,Number,2019,1898229.6503315049,2814997.258871636,1127383.7830166058
+2,DALYs (Disability-Adjusted Life Years),1,Global,1,Male,20,75-79 years,493,Ischemic heart disease,108,High body-mass index,1,Number,2019,1400334.1315898574,2339817.8215123457,688597.7184649128
+2,DALYs (Disability-Adjusted Life Years),1,Global,2,Female,20,75-79 years,493,Ischemic heart disease,108,High body-mass index,1,Number,2019,1576978.2754100037,2472266.3373481943,869833.3655469554
+2,DALYs (Disability-Adjusted Life Years),1,Global,1,Male,30,80-84,493,Ischemic heart disease,108,High body-mass index,1,Number,2019,661080.9312352579,1309184.5689277225,254692.70533477762
+2,DALYs (Disability-Adjusted Life Years),1,Global,2,Female,30,80-84,493,Ischemic heart disease,108,High body-mass index,1,Number,2019,956275.6025233247,1734018.4629302192,413752.7753282662
+2,DALYs (Disability-Adjusted Life Years),1,Global,1,Male,31,85-89,493,Ischemic heart disease,108,High body-mass index,1,Number,2019,400267.04289545375,790029.4302527983,158394.77423894528
+2,DALYs (Disability-Adjusted Life Years),1,Global,2,Female,31,85-89,493,Ischemic heart disease,108,High body-mass index,1,Number,2019,680310.691187625,1252520.9966840686,297478.63429594674
+2,DALYs (Disability-Adjusted Life Years),1,Global,1,Male,32,90-94,493,Ischemic heart disease,108,High body-mass index,1,Number,2019,165698.45996742102,323851.35334755754,66514.34742770657
+2,DALYs (Disability-Adjusted Life Years),1,Global,2,Female,32,90-94,493,Ischemic heart disease,108,High body-mass index,1,Number,2019,389570.1971387157,707076.7281782915,166234.8936719408
+2,DALYs (Disability-Adjusted Life Years),1,Global,1,Male,235,95+ years,493,Ischemic heart disease,108,High body-mass index,1,Number,2019,47579.798835563066,90775.44105707922,18447.96248740771
+2,DALYs (Disability-Adjusted Life Years),1,Global,2,Female,235,95+ years,493,Ischemic heart disease,108,High body-mass index,1,Number,2019,150045.46277593935,271793.531199771,63180.71544260809
+2,DALYs (Disability-Adjusted Life Years),1,Global,1,Male,1,<5 years,493,Ischemic heart disease,110,Dietary risks,1,Number,2019,0.0,0.0,0.0
+2,DALYs (Disability-Adjusted Life Years),1,Global,2,Female,1,<5 years,493,Ischemic heart disease,110,Dietary risks,1,Number,2019,0.0,0.0,0.0
+2,DALYs (Disability-Adjusted Life Years),1,Global,1,Male,10,25-29 years,493,Ischemic heart disease,110,Dietary risks,1,Number,2019,982710.186972413,1148487.4442049433,833910.591970374
+2,DALYs (Disability-Adjusted Life Years),1,Global,2,Female,10,25-29 years,493,Ischemic heart disease,110,Dietary risks,1,Number,2019,430428.9555925397,505902.3500820346,360335.2576498564
+2,DALYs (Disability-Adjusted Life Years),1,Global,1,Male,11,30-34 years,493,Ischemic heart disease,110,Dietary risks,1,Number,2019,1922841.7764196058,2189108.8498801095,1648839.9638435608
+2,DALYs (Disability-Adjusted Life Years),1,Global,2,Female,11,30-34 years,493,Ischemic heart disease,110,Dietary risks,1,Number,2019,719284.4676724867,843370.6697857314,606847.4691794222
+2,DALYs (Disability-Adjusted Life Years),1,Global,1,Male,12,35-39 years,493,Ischemic heart disease,110,Dietary risks,1,Number,2019,2858054.6972132046,3277291.667174038,2431979.2571522747
+2,DALYs (Disability-Adjusted Life Years),1,Global,2,Female,12,35-39 years,493,Ischemic heart disease,110,Dietary risks,1,Number,2019,1007886.8072949878,1166281.4979253125,852331.3278650595
+2,DALYs (Disability-Adjusted Life Years),1,Global,1,Male,13,40-44 years,493,Ischemic heart disease,110,Dietary risks,1,Number,2019,3859970.294481181,4457238.90757951,3217419.5809644535
+2,DALYs (Disability-Adjusted Life Years),1,Global,2,Female,13,40-44 years,493,Ischemic heart disease,110,Dietary risks,1,Number,2019,1453080.2320462826,1690127.273348116,1203221.130319501
+2,DALYs (Disability-Adjusted Life Years),1,Global,1,Male,14,45-49 years,493,Ischemic heart disease,110,Dietary risks,1,Number,2019,5571755.855719506,6412438.265236941,4682187.471372777
+2,DALYs (Disability-Adjusted Life Years),1,Global,2,Female,14,45-49 years,493,Ischemic heart disease,110,Dietary risks,1,Number,2019,2055316.334355261,2378674.743364217,1709321.4538038252
+2,DALYs (Disability-Adjusted Life Years),1,Global,1,Male,15,50-54 years,493,Ischemic heart disease,110,Dietary risks,1,Number,2019,7208007.545372005,8347594.82625434,5962453.550872702
+2,DALYs (Disability-Adjusted Life Years),1,Global,2,Female,15,50-54 years,493,Ischemic heart disease,110,Dietary risks,1,Number,2019,2886429.8857812267,3401044.7682481813,2373125.048388409
+2,DALYs (Disability-Adjusted Life Years),1,Global,1,Male,16,55-59 years,493,Ischemic heart disease,110,Dietary risks,1,Number,2019,8081286.17081915,9433353.582814816,6636983.720695669
+2,DALYs (Disability-Adjusted Life Years),1,Global,2,Female,16,55-59 years,493,Ischemic heart disease,110,Dietary risks,1,Number,2019,3381639.0803544414,3969711.3728056047,2791887.117946063
+2,DALYs (Disability-Adjusted Life Years),1,Global,1,Male,17,60-64 years,493,Ischemic heart disease,110,Dietary risks,1,Number,2019,8290924.898670472,9700654.725768274,6758395.208651474
+2,DALYs (Disability-Adjusted Life Years),1,Global,2,Female,17,60-64 years,493,Ischemic heart disease,110,Dietary risks,1,Number,2019,4092461.897451884,4847133.565361479,3347153.980560525
+2,DALYs (Disability-Adjusted Life Years),1,Global,1,Male,18,65-69 years,493,Ischemic heart disease,110,Dietary risks,1,Number,2019,7791247.558555482,9232560.685993979,6304830.817549928
+2,DALYs (Disability-Adjusted Life Years),1,Global,2,Female,18,65-69 years,493,Ischemic heart disease,110,Dietary risks,1,Number,2019,4560332.797989751,5461931.440636985,3699261.9016790125
+2,DALYs (Disability-Adjusted Life Years),1,Global,1,Male,19,70-74 years,493,Ischemic heart disease,110,Dietary risks,1,Number,2019,6455610.397743473,7667519.802835038,5231047.344332435
+2,DALYs (Disability-Adjusted Life Years),1,Global,2,Female,19,70-74 years,493,Ischemic heart disease,110,Dietary risks,1,Number,2019,4395087.491274761,5284032.978333839,3559247.222601576
+2,DALYs (Disability-Adjusted Life Years),1,Global,1,Male,20,75-79 years,493,Ischemic heart disease,110,Dietary risks,1,Number,2019,4934377.225943338,5877993.319549664,4001917.939007464
+2,DALYs (Disability-Adjusted Life Years),1,Global,2,Female,20,75-79 years,493,Ischemic heart disease,110,Dietary risks,1,Number,2019,4099419.1591696404,4913962.106208882,3309148.773238927
+2,DALYs (Disability-Adjusted Life Years),1,Global,1,Male,30,80-84,493,Ischemic heart disease,110,Dietary risks,1,Number,2019,4016293.425243251,4815209.964068281,3213118.8701638565
+2,DALYs (Disability-Adjusted Life Years),1,Global,2,Female,30,80-84,493,Ischemic heart disease,110,Dietary risks,1,Number,2019,4243866.932990088,5176683.90163914,3315659.3890607734
+2,DALYs (Disability-Adjusted Life Years),1,Global,1,Male,31,85-89,493,Ischemic heart disease,110,Dietary risks,1,Number,2019,2353723.0619223635,2808368.3068401073,1877136.947408964
+2,DALYs (Disability-Adjusted Life Years),1,Global,2,Female,31,85-89,493,Ischemic heart disease,110,Dietary risks,1,Number,2019,2928944.4909091364,3568402.355334557,2264112.291446357
+2,DALYs (Disability-Adjusted Life Years),1,Global,1,Male,32,90-94,493,Ischemic heart disease,110,Dietary risks,1,Number,2019,868189.7604883717,1056598.3413033914,688304.9137767485
+2,DALYs (Disability-Adjusted Life Years),1,Global,2,Female,32,90-94,493,Ischemic heart disease,110,Dietary risks,1,Number,2019,1595777.4567818898,1968695.139342374,1191483.6282277051
+2,DALYs (Disability-Adjusted Life Years),1,Global,1,Male,235,95+ years,493,Ischemic heart disease,110,Dietary risks,1,Number,2019,226165.95442649818,277047.8194291495,172069.12249098322
+2,DALYs (Disability-Adjusted Life Years),1,Global,2,Female,235,95+ years,493,Ischemic heart disease,110,Dietary risks,1,Number,2019,592919.0498649796,740393.1631190609,433621.0459693437
+2,DALYs (Disability-Adjusted Life Years),1,Global,1,Male,1,<5 years,493,Ischemic heart disease,125,Low physical activity,1,Number,2019,0.0,0.0,0.0
+2,DALYs (Disability-Adjusted Life Years),1,Global,2,Female,1,<5 years,493,Ischemic heart disease,125,Low physical activity,1,Number,2019,0.0,0.0,0.0
+2,DALYs (Disability-Adjusted Life Years),1,Global,1,Male,10,25-29 years,493,Ischemic heart disease,125,Low physical activity,1,Number,2019,27499.130043253575,99883.54330571933,4867.875650743437
+2,DALYs (Disability-Adjusted Life Years),1,Global,2,Female,10,25-29 years,493,Ischemic heart disease,125,Low physical activity,1,Number,2019,18157.60447793916,53757.54074403961,3853.124932344356
+2,DALYs (Disability-Adjusted Life Years),1,Global,1,Male,11,30-34 years,493,Ischemic heart disease,125,Low physical activity,1,Number,2019,50111.56844220613,182667.3957529366,9098.751415451572
+2,DALYs (Disability-Adjusted Life Years),1,Global,2,Female,11,30-34 years,493,Ischemic heart disease,125,Low physical activity,1,Number,2019,29739.952548538895,85242.71877310677,6678.05750285034
+2,DALYs (Disability-Adjusted Life Years),1,Global,1,Male,12,35-39 years,493,Ischemic heart disease,125,Low physical activity,1,Number,2019,79643.16683119728,260973.43830766,15261.571800784039
+2,DALYs (Disability-Adjusted Life Years),1,Global,2,Female,12,35-39 years,493,Ischemic heart disease,125,Low physical activity,1,Number,2019,42177.33557953762,119677.5378544735,9489.537338144355
+2,DALYs (Disability-Adjusted Life Years),1,Global,1,Male,13,40-44 years,493,Ischemic heart disease,125,Low physical activity,1,Number,2019,116133.39472748115,358374.56492965145,25148.262679575048
+2,DALYs (Disability-Adjusted Life Years),1,Global,2,Female,13,40-44 years,493,Ischemic heart disease,125,Low physical activity,1,Number,2019,59159.65948529187,167039.92621178913,14570.506362268949
+2,DALYs (Disability-Adjusted Life Years),1,Global,1,Male,14,45-49 years,493,Ischemic heart disease,125,Low physical activity,1,Number,2019,187021.28395354268,540545.6478310858,39580.32774656753
+2,DALYs (Disability-Adjusted Life Years),1,Global,2,Female,14,45-49 years,493,Ischemic heart disease,125,Low physical activity,1,Number,2019,97090.3308708327,256477.80749373956,24639.76798985424
+2,DALYs (Disability-Adjusted Life Years),1,Global,1,Male,15,50-54 years,493,Ischemic heart disease,125,Low physical activity,1,Number,2019,269359.28331593703,764604.5029423548,65174.61053853117
+2,DALYs (Disability-Adjusted Life Years),1,Global,2,Female,15,50-54 years,493,Ischemic heart disease,125,Low physical activity,1,Number,2019,146680.9399019893,376771.1483748036,39659.449769045
+2,DALYs (Disability-Adjusted Life Years),1,Global,1,Male,16,55-59 years,493,Ischemic heart disease,125,Low physical activity,1,Number,2019,338316.8949837042,951325.4409942534,84750.11371828835
+2,DALYs (Disability-Adjusted Life Years),1,Global,2,Female,16,55-59 years,493,Ischemic heart disease,125,Low physical activity,1,Number,2019,192127.64343395794,465894.4290382195,55870.537882460376
+2,DALYs (Disability-Adjusted Life Years),1,Global,1,Male,17,60-64 years,493,Ischemic heart disease,125,Low physical activity,1,Number,2019,406355.0806015103,1044109.858489429,103769.1138237258
+2,DALYs (Disability-Adjusted Life Years),1,Global,2,Female,17,60-64 years,493,Ischemic heart disease,125,Low physical activity,1,Number,2019,270676.62033671496,621734.8398762109,82451.48616602283
+2,DALYs (Disability-Adjusted Life Years),1,Global,1,Male,18,65-69 years,493,Ischemic heart disease,125,Low physical activity,1,Number,2019,451958.59532732755,1096994.6230600548,126988.02066956603
+2,DALYs (Disability-Adjusted Life Years),1,Global,2,Female,18,65-69 years,493,Ischemic heart disease,125,Low physical activity,1,Number,2019,353581.8851562484,782182.8318431634,113927.31880715149
+2,DALYs (Disability-Adjusted Life Years),1,Global,1,Male,19,70-74 years,493,Ischemic heart disease,125,Low physical activity,1,Number,2019,456688.60706177104,1079429.5907534764,140289.9320168008
+2,DALYs (Disability-Adjusted Life Years),1,Global,2,Female,19,70-74 years,493,Ischemic heart disease,125,Low physical activity,1,Number,2019,405978.92048965266,880683.8442541803,146985.97952120827
+2,DALYs (Disability-Adjusted Life Years),1,Global,1,Male,20,75-79 years,493,Ischemic heart disease,125,Low physical activity,1,Number,2019,412155.61388795765,934808.1928853956,131558.70719036928
+2,DALYs (Disability-Adjusted Life Years),1,Global,2,Female,20,75-79 years,493,Ischemic heart disease,125,Low physical activity,1,Number,2019,436830.9026295957,910440.6201762074,167220.00363460332
+2,DALYs (Disability-Adjusted Life Years),1,Global,1,Male,30,80-84,493,Ischemic heart disease,125,Low physical activity,1,Number,2019,566080.1654248004,1174612.6680218978,177694.39972046376
+2,DALYs (Disability-Adjusted Life Years),1,Global,2,Female,30,80-84,493,Ischemic heart disease,125,Low physical activity,1,Number,2019,748338.8004255107,1422794.3747346543,290636.1517036943
+2,DALYs (Disability-Adjusted Life Years),1,Global,1,Male,31,85-89,493,Ischemic heart disease,125,Low physical activity,1,Number,2019,333473.31113005226,693094.8436049045,105901.28450263041
+2,DALYs (Disability-Adjusted Life Years),1,Global,2,Female,31,85-89,493,Ischemic heart disease,125,Low physical activity,1,Number,2019,529606.4459688335,988668.6715985659,210987.91639894087
+2,DALYs (Disability-Adjusted Life Years),1,Global,1,Male,32,90-94,493,Ischemic heart disease,125,Low physical activity,1,Number,2019,126101.8461322429,255066.53553093006,41419.17354312262
+2,DALYs (Disability-Adjusted Life Years),1,Global,2,Female,32,90-94,493,Ischemic heart disease,125,Low physical activity,1,Number,2019,291319.0310063644,538452.9176060258,117478.68047377208
+2,DALYs (Disability-Adjusted Life Years),1,Global,1,Male,235,95+ years,493,Ischemic heart disease,125,Low physical activity,1,Number,2019,32852.67209016526,64913.24310775821,10996.856429863923
+2,DALYs (Disability-Adjusted Life Years),1,Global,2,Female,235,95+ years,493,Ischemic heart disease,125,Low physical activity,1,Number,2019,111449.16665988324,204752.53916422746,44781.98011453417
+2,DALYs (Disability-Adjusted Life Years),1,Global,1,Male,1,<5 years,493,Ischemic heart disease,169,All risk factors,1,Number,2019,0.0,0.0,0.0
+2,DALYs (Disability-Adjusted Life Years),1,Global,2,Female,1,<5 years,493,Ischemic heart disease,169,All risk factors,1,Number,2019,0.0,0.0,0.0
+2,DALYs (Disability-Adjusted Life Years),1,Global,1,Male,8,15-19 years,493,Ischemic heart disease,169,All risk factors,1,Number,2019,16028.34844138737,23764.382524485176,6881.215533040373
+2,DALYs (Disability-Adjusted Life Years),1,Global,2,Female,8,15-19 years,493,Ischemic heart disease,169,All risk factors,1,Number,2019,13643.836291883601,19306.67262135188,6279.785641737065
+2,DALYs (Disability-Adjusted Life Years),1,Global,1,Male,9,20-24 years,493,Ischemic heart disease,169,All risk factors,1,Number,2019,270184.031715216,500940.99532181304,75340.85301787808
+2,DALYs (Disability-Adjusted Life Years),1,Global,2,Female,9,20-24 years,493,Ischemic heart disease,169,All risk factors,1,Number,2019,153211.09664862466,280491.6696690848,47696.767870810545
+2,DALYs (Disability-Adjusted Life Years),1,Global,1,Male,10,25-29 years,493,Ischemic heart disease,169,All risk factors,1,Number,2019,1255096.650850991,1438044.9223955474,1128335.3575851964
+2,DALYs (Disability-Adjusted Life Years),1,Global,2,Female,10,25-29 years,493,Ischemic heart disease,169,All risk factors,1,Number,2019,552855.0399788984,632506.8161994083,479249.9587645265
+2,DALYs (Disability-Adjusted Life Years),1,Global,1,Male,11,30-34 years,493,Ischemic heart disease,169,All risk factors,1,Number,2019,2457878.7248145086,2748382.1029715342,2227481.8512345976
+2,DALYs (Disability-Adjusted Life Years),1,Global,2,Female,11,30-34 years,493,Ischemic heart disease,169,All risk factors,1,Number,2019,925764.5756360588,1043091.7208657353,814215.7244652241
+2,DALYs (Disability-Adjusted Life Years),1,Global,1,Male,12,35-39 years,493,Ischemic heart disease,169,All risk factors,1,Number,2019,3661174.4924782924,4067196.5506329453,3335901.6447919635
+2,DALYs (Disability-Adjusted Life Years),1,Global,2,Female,12,35-39 years,493,Ischemic heart disease,169,All risk factors,1,Number,2019,1302254.7738563083,1460325.1750806014,1147829.3749033888
+2,DALYs (Disability-Adjusted Life Years),1,Global,1,Male,13,40-44 years,493,Ischemic heart disease,169,All risk factors,1,Number,2019,5349632.8477869155,5916794.0334323635,4836436.94150324
+2,DALYs (Disability-Adjusted Life Years),1,Global,2,Female,13,40-44 years,493,Ischemic heart disease,169,All risk factors,1,Number,2019,2031923.9720439655,2265630.5209260215,1798344.4432679825
+2,DALYs (Disability-Adjusted Life Years),1,Global,1,Male,14,45-49 years,493,Ischemic heart disease,169,All risk factors,1,Number,2019,7840675.6382013075,8685902.980582502,7069423.361185842
+2,DALYs (Disability-Adjusted Life Years),1,Global,2,Female,14,45-49 years,493,Ischemic heart disease,169,All risk factors,1,Number,2019,2943358.0657675597,3254787.3003707062,2629654.1104000164
+2,DALYs (Disability-Adjusted Life Years),1,Global,1,Male,15,50-54 years,493,Ischemic heart disease,169,All risk factors,1,Number,2019,10529441.568772143,11578004.752826624,9557557.688268023
+2,DALYs (Disability-Adjusted Life Years),1,Global,2,Female,15,50-54 years,493,Ischemic heart disease,169,All risk factors,1,Number,2019,4317071.325724124,4804220.839951823,3810360.7653673957
+2,DALYs (Disability-Adjusted Life Years),1,Global,1,Male,16,55-59 years,493,Ischemic heart disease,169,All risk factors,1,Number,2019,12575452.673090892,13731333.435499657,11475188.161204705
+2,DALYs (Disability-Adjusted Life Years),1,Global,2,Female,16,55-59 years,493,Ischemic heart disease,169,All risk factors,1,Number,2019,5418075.887463664,5928518.442691239,4864977.781510867
+2,DALYs (Disability-Adjusted Life Years),1,Global,1,Male,17,60-64 years,493,Ischemic heart disease,169,All risk factors,1,Number,2019,13656141.359112417,14795087.274260225,12562177.919712598
+2,DALYs (Disability-Adjusted Life Years),1,Global,2,Female,17,60-64 years,493,Ischemic heart disease,169,All risk factors,1,Number,2019,6995580.981812921,7630901.556448171,6324813.954757796
+2,DALYs (Disability-Adjusted Life Years),1,Global,1,Male,18,65-69 years,493,Ischemic heart disease,169,All risk factors,1,Number,2019,13218161.906288052,14227243.99544893,12247941.949071117
+2,DALYs (Disability-Adjusted Life Years),1,Global,2,Female,18,65-69 years,493,Ischemic heart disease,169,All risk factors,1,Number,2019,8098888.190922267,8813025.133011095,7356923.480141832
+2,DALYs (Disability-Adjusted Life Years),1,Global,1,Male,19,70-74 years,493,Ischemic heart disease,169,All risk factors,1,Number,2019,11499682.597291943,12405265.750848047,10618887.609509734
+2,DALYs (Disability-Adjusted Life Years),1,Global,2,Female,19,70-74 years,493,Ischemic heart disease,169,All risk factors,1,Number,2019,8190674.731021451,8902394.178545363,7438713.9645555215
+2,DALYs (Disability-Adjusted Life Years),1,Global,1,Male,20,75-79 years,493,Ischemic heart disease,169,All risk factors,1,Number,2019,9145760.287955167,9838283.15224845,8425783.025614906
+2,DALYs (Disability-Adjusted Life Years),1,Global,2,Female,20,75-79 years,493,Ischemic heart disease,169,All risk factors,1,Number,2019,7984202.186044415,8671177.765281184,7210995.399906624
+2,DALYs (Disability-Adjusted Life Years),1,Global,1,Male,30,80-84,493,Ischemic heart disease,169,All risk factors,1,Number,2019,7512797.409519043,8143769.7028784845,6791123.854739426
+2,DALYs (Disability-Adjusted Life Years),1,Global,2,Female,30,80-84,493,Ischemic heart disease,169,All risk factors,1,Number,2019,8187539.122261267,9022056.37540983,7141896.031525873
+2,DALYs (Disability-Adjusted Life Years),1,Global,1,Male,31,85-89,493,Ischemic heart disease,169,All risk factors,1,Number,2019,4327544.942650282,4702135.925698602,3809129.7294777622
+2,DALYs (Disability-Adjusted Life Years),1,Global,2,Female,31,85-89,493,Ischemic heart disease,169,All risk factors,1,Number,2019,5572565.701435946,6233958.9187936345,4657956.932602106
+2,DALYs (Disability-Adjusted Life Years),1,Global,1,Male,32,90-94,493,Ischemic heart disease,169,All risk factors,1,Number,2019,1571343.3699829092,1741304.2439959047,1304580.5216198997
+2,DALYs (Disability-Adjusted Life Years),1,Global,2,Female,32,90-94,493,Ischemic heart disease,169,All risk factors,1,Number,2019,3006480.39964562,3412318.4823579076,2380459.7417884767
+2,DALYs (Disability-Adjusted Life Years),1,Global,1,Male,235,95+ years,493,Ischemic heart disease,169,All risk factors,1,Number,2019,407045.9330430727,461617.6995203241,323172.0045931491
+2,DALYs (Disability-Adjusted Life Years),1,Global,2,Female,235,95+ years,493,Ischemic heart disease,169,All risk factors,1,Number,2019,1111871.576126887,1288893.8104519027,844700.8717021951
+2,DALYs (Disability-Adjusted Life Years),1,Global,2,Female,8,15-19 years,493,Ischemic heart disease,331,Non-optimal temperature,1,Number,2019,14972.538915528294,20610.49173869019,7741.815169001246
+2,DALYs (Disability-Adjusted Life Years),1,Global,1,Male,9,20-24 years,493,Ischemic heart disease,331,Non-optimal temperature,1,Number,2019,45866.57497574254,62887.6598872961,24822.620796768155
+2,DALYs (Disability-Adjusted Life Years),1,Global,2,Female,9,20-24 years,493,Ischemic heart disease,331,Non-optimal temperature,1,Number,2019,24248.952043864345,32999.47890784514,13422.924173374366
+2,DALYs (Disability-Adjusted Life Years),1,Global,1,Male,10,25-29 years,493,Ischemic heart disease,331,Non-optimal temperature,1,Number,2019,72230.65282886717,96540.9438589126,38663.82740563107
+2,DALYs (Disability-Adjusted Life Years),1,Global,2,Female,10,25-29 years,493,Ischemic heart disease,331,Non-optimal temperature,1,Number,2019,31214.841596895672,42498.10718752925,17048.163260032477
+2,DALYs (Disability-Adjusted Life Years),1,Global,1,Male,11,30-34 years,493,Ischemic heart disease,331,Non-optimal temperature,1,Number,2019,144580.49381796445,191461.1584777923,83723.99963017621
+2,DALYs (Disability-Adjusted Life Years),1,Global,2,Female,11,30-34 years,493,Ischemic heart disease,331,Non-optimal temperature,1,Number,2019,52673.51225772395,70493.87831075615,29674.87803526921
+2,DALYs (Disability-Adjusted Life Years),1,Global,1,Male,12,35-39 years,493,Ischemic heart disease,331,Non-optimal temperature,1,Number,2019,212878.2833850332,278428.63980329916,119790.12509866293
+2,DALYs (Disability-Adjusted Life Years),1,Global,2,Female,12,35-39 years,493,Ischemic heart disease,331,Non-optimal temperature,1,Number,2019,73230.95589987586,98726.44798125827,40902.08026646285
+2,DALYs (Disability-Adjusted Life Years),1,Global,1,Male,13,40-44 years,493,Ischemic heart disease,331,Non-optimal temperature,1,Number,2019,316628.8053194118,412779.35837468406,187256.63237055723
+2,DALYs (Disability-Adjusted Life Years),1,Global,2,Female,13,40-44 years,493,Ischemic heart disease,331,Non-optimal temperature,1,Number,2019,114125.16398454295,153302.38729282797,63384.24071256054
+2,DALYs (Disability-Adjusted Life Years),1,Global,1,Male,14,45-49 years,493,Ischemic heart disease,331,Non-optimal temperature,1,Number,2019,467294.4252132783,607494.7867582169,290330.839869762
+2,DALYs (Disability-Adjusted Life Years),1,Global,2,Female,14,45-49 years,493,Ischemic heart disease,331,Non-optimal temperature,1,Number,2019,166601.227772213,217621.51166989686,99940.19572621743
+2,DALYs (Disability-Adjusted Life Years),1,Global,1,Male,15,50-54 years,493,Ischemic heart disease,331,Non-optimal temperature,1,Number,2019,637294.7202311794,819439.307210966,413234.327398476
+2,DALYs (Disability-Adjusted Life Years),1,Global,2,Female,15,50-54 years,493,Ischemic heart disease,331,Non-optimal temperature,1,Number,2019,246665.00700767,322781.6040787547,152599.12973964837
+2,DALYs (Disability-Adjusted Life Years),1,Global,1,Male,16,55-59 years,493,Ischemic heart disease,331,Non-optimal temperature,1,Number,2019,767913.9935541069,986469.6981276241,499247.7366271269
+2,DALYs (Disability-Adjusted Life Years),1,Global,2,Female,16,55-59 years,493,Ischemic heart disease,331,Non-optimal temperature,1,Number,2019,317750.39125682635,410426.78019350895,206795.84533522782
+2,DALYs (Disability-Adjusted Life Years),1,Global,1,Male,17,60-64 years,493,Ischemic heart disease,331,Non-optimal temperature,1,Number,2019,854229.9291027822,1100219.497969679,579277.9426672352
+2,DALYs (Disability-Adjusted Life Years),1,Global,2,Female,17,60-64 years,493,Ischemic heart disease,331,Non-optimal temperature,1,Number,2019,423824.3835006102,549636.2320659901,287522.4301033828
+2,DALYs (Disability-Adjusted Life Years),1,Global,1,Male,18,65-69 years,493,Ischemic heart disease,331,Non-optimal temperature,1,Number,2019,849773.3712777236,1095910.2850192394,581726.676346767
+2,DALYs (Disability-Adjusted Life Years),1,Global,2,Female,18,65-69 years,493,Ischemic heart disease,331,Non-optimal temperature,1,Number,2019,508503.23327699525,657651.0166559843,346655.59446571016
+2,DALYs (Disability-Adjusted Life Years),1,Global,1,Male,19,70-74 years,493,Ischemic heart disease,331,Non-optimal temperature,1,Number,2019,759199.5783366552,975997.0042580563,521762.66595697147
+2,DALYs (Disability-Adjusted Life Years),1,Global,2,Female,19,70-74 years,493,Ischemic heart disease,331,Non-optimal temperature,1,Number,2019,533957.9788522663,685015.887154086,367772.4989457651
+2,DALYs (Disability-Adjusted Life Years),1,Global,1,Male,20,75-79 years,493,Ischemic heart disease,331,Non-optimal temperature,1,Number,2019,624171.0994574316,797532.4572954276,427269.54505654227
+2,DALYs (Disability-Adjusted Life Years),1,Global,2,Female,20,75-79 years,493,Ischemic heart disease,331,Non-optimal temperature,1,Number,2019,536986.3530882885,689908.8546184135,366836.0475367413
+2,DALYs (Disability-Adjusted Life Years),1,Global,1,Male,30,80-84,493,Ischemic heart disease,331,Non-optimal temperature,1,Number,2019,538111.1784366235,691214.4066188415,365402.60580308543
+2,DALYs (Disability-Adjusted Life Years),1,Global,2,Female,30,80-84,493,Ischemic heart disease,331,Non-optimal temperature,1,Number,2019,586277.2916961059,766310.680202173,398805.5480621791
+2,DALYs (Disability-Adjusted Life Years),1,Global,1,Male,31,85-89,493,Ischemic heart disease,331,Non-optimal temperature,1,Number,2019,325139.54543412,414007.40497309936,227902.8071879705
+2,DALYs (Disability-Adjusted Life Years),1,Global,2,Female,31,85-89,493,Ischemic heart disease,331,Non-optimal temperature,1,Number,2019,416278.85878664156,547117.1328120586,285053.46087060607
+2,DALYs (Disability-Adjusted Life Years),1,Global,1,Male,32,90-94,493,Ischemic heart disease,331,Non-optimal temperature,1,Number,2019,116303.79125130363,151478.58566700816,77518.89868759231
+2,DALYs (Disability-Adjusted Life Years),1,Global,2,Female,32,90-94,493,Ischemic heart disease,331,Non-optimal temperature,1,Number,2019,231047.99123645003,310367.07211842877,151835.6176509229
+2,DALYs (Disability-Adjusted Life Years),1,Global,1,Male,235,95+ years,493,Ischemic heart disease,331,Non-optimal temperature,1,Number,2019,29941.279480348774,39528.48396351445,19422.34691515024
+2,DALYs (Disability-Adjusted Life Years),1,Global,2,Female,235,95+ years,493,Ischemic heart disease,331,Non-optimal temperature,1,Number,2019,86998.81323323958,117641.55149726928,55076.156376329134
+2,DALYs (Disability-Adjusted Life Years),1,Global,1,Male,1,<5 years,493,Ischemic heart disease,331,Non-optimal temperature,1,Number,2019,0.0,0.0,0.0
+2,DALYs (Disability-Adjusted Life Years),1,Global,2,Female,1,<5 years,493,Ischemic heart disease,331,Non-optimal temperature,1,Number,2019,0.0,0.0,0.0
+2,DALYs (Disability-Adjusted Life Years),1,Global,1,Male,8,15-19 years,493,Ischemic heart disease,331,Non-optimal temperature,1,Number,2019,20268.519656929562,27586.913477119906,11426.496001694599
+2,DALYs (Disability-Adjusted Life Years),1,Global,1,Male,1,<5 years,493,Ischemic heart disease,341,Kidney dysfunction,1,Number,2019,0.0,0.0,0.0
+2,DALYs (Disability-Adjusted Life Years),1,Global,2,Female,1,<5 years,493,Ischemic heart disease,341,Kidney dysfunction,1,Number,2019,0.0,0.0,0.0
+2,DALYs (Disability-Adjusted Life Years),1,Global,1,Male,10,25-29 years,493,Ischemic heart disease,341,Kidney dysfunction,1,Number,2019,110884.75661180256,151911.63099493747,76591.83286882313
+2,DALYs (Disability-Adjusted Life Years),1,Global,2,Female,10,25-29 years,493,Ischemic heart disease,341,Kidney dysfunction,1,Number,2019,55435.789792858755,76772.82402058963,38359.70437720578
+2,DALYs (Disability-Adjusted Life Years),1,Global,1,Male,11,30-34 years,493,Ischemic heart disease,341,Kidney dysfunction,1,Number,2019,238436.56832593467,326170.33738283254,159960.72234625765
+2,DALYs (Disability-Adjusted Life Years),1,Global,2,Female,11,30-34 years,493,Ischemic heart disease,341,Kidney dysfunction,1,Number,2019,103903.51081348906,144302.48693288377,69425.662170882
+2,DALYs (Disability-Adjusted Life Years),1,Global,1,Male,12,35-39 years,493,Ischemic heart disease,341,Kidney dysfunction,1,Number,2019,370117.37073800375,518394.89358375303,253189.30806142138
+2,DALYs (Disability-Adjusted Life Years),1,Global,2,Female,12,35-39 years,493,Ischemic heart disease,341,Kidney dysfunction,1,Number,2019,153104.72245420644,215599.66280444796,104242.25684379476
+2,DALYs (Disability-Adjusted Life Years),1,Global,1,Male,13,40-44 years,493,Ischemic heart disease,341,Kidney dysfunction,1,Number,2019,552400.6157913078,771838.8840714027,366367.09725396574
+2,DALYs (Disability-Adjusted Life Years),1,Global,2,Female,13,40-44 years,493,Ischemic heart disease,341,Kidney dysfunction,1,Number,2019,239847.07681242668,330349.9766729077,161688.95074959245
+2,DALYs (Disability-Adjusted Life Years),1,Global,1,Male,14,45-49 years,493,Ischemic heart disease,341,Kidney dysfunction,1,Number,2019,809359.8242240429,1115325.0197241963,545881.1334023236
+2,DALYs (Disability-Adjusted Life Years),1,Global,2,Female,14,45-49 years,493,Ischemic heart disease,341,Kidney dysfunction,1,Number,2019,336001.52873505536,461614.61546280084,231760.68445369173
+2,DALYs (Disability-Adjusted Life Years),1,Global,1,Male,15,50-54 years,493,Ischemic heart disease,341,Kidney dysfunction,1,Number,2019,1114288.2396960075,1529556.066721572,765998.8549822351
+2,DALYs (Disability-Adjusted Life Years),1,Global,2,Female,15,50-54 years,493,Ischemic heart disease,341,Kidney dysfunction,1,Number,2019,486117.2275087519,667442.572011372,334085.01536510617
+2,DALYs (Disability-Adjusted Life Years),1,Global,1,Male,16,55-59 years,493,Ischemic heart disease,341,Kidney dysfunction,1,Number,2019,1410616.8660778475,1962199.0534053694,936678.7137387354
+2,DALYs (Disability-Adjusted Life Years),1,Global,2,Female,16,55-59 years,493,Ischemic heart disease,341,Kidney dysfunction,1,Number,2019,635714.9525893235,869709.9051640815,428643.22080313385
+2,DALYs (Disability-Adjusted Life Years),1,Global,1,Male,17,60-64 years,493,Ischemic heart disease,341,Kidney dysfunction,1,Number,2019,1591777.6203980243,2181108.09449834,1078959.817089116
+2,DALYs (Disability-Adjusted Life Years),1,Global,2,Female,17,60-64 years,493,Ischemic heart disease,341,Kidney dysfunction,1,Number,2019,868778.7147312461,1184667.4344188937,597487.6814354358
+2,DALYs (Disability-Adjusted Life Years),1,Global,1,Male,18,65-69 years,493,Ischemic heart disease,341,Kidney dysfunction,1,Number,2019,1662420.4784406133,2258509.8767945524,1148197.7713340574
+2,DALYs (Disability-Adjusted Life Years),1,Global,2,Female,18,65-69 years,493,Ischemic heart disease,341,Kidney dysfunction,1,Number,2019,1100216.6402457138,1460844.6090448627,765012.0697303949
+2,DALYs (Disability-Adjusted Life Years),1,Global,1,Male,19,70-74 years,493,Ischemic heart disease,341,Kidney dysfunction,1,Number,2019,1626734.4652060173,2202200.7331171082,1127003.5651614952
+2,DALYs (Disability-Adjusted Life Years),1,Global,2,Female,19,70-74 years,493,Ischemic heart disease,341,Kidney dysfunction,1,Number,2019,1265309.0406025017,1683857.3898373798,887278.5275630079
+2,DALYs (Disability-Adjusted Life Years),1,Global,1,Male,20,75-79 years,493,Ischemic heart disease,341,Kidney dysfunction,1,Number,2019,1411532.8133126597,1905312.230702866,950961.318809289
+2,DALYs (Disability-Adjusted Life Years),1,Global,2,Female,20,75-79 years,493,Ischemic heart disease,341,Kidney dysfunction,1,Number,2019,1328278.1187335243,1794869.0085575162,899731.9059650968
+2,DALYs (Disability-Adjusted Life Years),1,Global,1,Male,30,80-84,493,Ischemic heart disease,341,Kidney dysfunction,1,Number,2019,1168046.4162402311,1597719.4008918887,758504.2267086345
+2,DALYs (Disability-Adjusted Life Years),1,Global,2,Female,30,80-84,493,Ischemic heart disease,341,Kidney dysfunction,1,Number,2019,1348576.217681682,1867659.9022839416,851087.2812609026
+2,DALYs (Disability-Adjusted Life Years),1,Global,1,Male,31,85-89,493,Ischemic heart disease,341,Kidney dysfunction,1,Number,2019,631155.8552387013,908193.4061470268,363824.4590665533
+2,DALYs (Disability-Adjusted Life Years),1,Global,2,Female,31,85-89,493,Ischemic heart disease,341,Kidney dysfunction,1,Number,2019,848676.4291083524,1244025.2177104854,472545.9397715392
+2,DALYs (Disability-Adjusted Life Years),1,Global,1,Male,32,90-94,493,Ischemic heart disease,341,Kidney dysfunction,1,Number,2019,259522.96487432902,370350.76833110984,149628.01266708787
+2,DALYs (Disability-Adjusted Life Years),1,Global,2,Female,32,90-94,493,Ischemic heart disease,341,Kidney dysfunction,1,Number,2019,498694.6471029102,722239.013220817,275571.5934587087
+2,DALYs (Disability-Adjusted Life Years),1,Global,1,Male,235,95+ years,493,Ischemic heart disease,341,Kidney dysfunction,1,Number,2019,77682.20989222616,111932.77189329157,44532.63192156875
+2,DALYs (Disability-Adjusted Life Years),1,Global,2,Female,235,95+ years,493,Ischemic heart disease,341,Kidney dysfunction,1,Number,2019,213224.13552267072,310866.32001254935,116507.88004211403
+2,DALYs (Disability-Adjusted Life Years),1,Global,1,Male,1,<5 years,493,Ischemic heart disease,367,High LDL cholesterol,1,Number,2019,0.0,0.0,0.0
+2,DALYs (Disability-Adjusted Life Years),1,Global,2,Female,1,<5 years,493,Ischemic heart disease,367,High LDL cholesterol,1,Number,2019,0.0,0.0,0.0
+2,DALYs (Disability-Adjusted Life Years),1,Global,1,Male,10,25-29 years,493,Ischemic heart disease,367,High LDL cholesterol,1,Number,2019,915649.3890599816,1100801.2100799957,728551.4045263852
+2,DALYs (Disability-Adjusted Life Years),1,Global,2,Female,10,25-29 years,493,Ischemic heart disease,367,High LDL cholesterol,1,Number,2019,406666.92024025193,506087.25438372063,320047.53226282605
+2,DALYs (Disability-Adjusted Life Years),1,Global,1,Male,11,30-34 years,493,Ischemic heart disease,367,High LDL cholesterol,1,Number,2019,1815912.3453448494,2119812.316202585,1518306.6146835773
+2,DALYs (Disability-Adjusted Life Years),1,Global,2,Female,11,30-34 years,493,Ischemic heart disease,367,High LDL cholesterol,1,Number,2019,691877.2511628654,835305.0268149371,570729.865720532
+2,DALYs (Disability-Adjusted Life Years),1,Global,1,Male,12,35-39 years,493,Ischemic heart disease,367,High LDL cholesterol,1,Number,2019,2762550.789922192,3188301.2946710438,2378885.6320086033
+2,DALYs (Disability-Adjusted Life Years),1,Global,2,Female,12,35-39 years,493,Ischemic heart disease,367,High LDL cholesterol,1,Number,2019,991364.8067365079,1161462.1247469056,835010.1327341314
+2,DALYs (Disability-Adjusted Life Years),1,Global,1,Male,13,40-44 years,493,Ischemic heart disease,367,High LDL cholesterol,1,Number,2019,3973787.9703342873,4581073.803397828,3368073.500379115
+2,DALYs (Disability-Adjusted Life Years),1,Global,2,Female,13,40-44 years,493,Ischemic heart disease,367,High LDL cholesterol,1,Number,2019,1523818.4359214902,1764241.337009936,1273775.7260352678
+2,DALYs (Disability-Adjusted Life Years),1,Global,1,Male,14,45-49 years,493,Ischemic heart disease,367,High LDL cholesterol,1,Number,2019,5524143.66511535,6368187.824583618,4656536.481251022
+2,DALYs (Disability-Adjusted Life Years),1,Global,2,Female,14,45-49 years,493,Ischemic heart disease,367,High LDL cholesterol,1,Number,2019,2118429.4260593634,2467235.069875652,1782075.755292541
+2,DALYs (Disability-Adjusted Life Years),1,Global,1,Male,15,50-54 years,493,Ischemic heart disease,367,High LDL cholesterol,1,Number,2019,6884950.117943319,8000581.793976114,5809427.067285644
+2,DALYs (Disability-Adjusted Life Years),1,Global,2,Female,15,50-54 years,493,Ischemic heart disease,367,High LDL cholesterol,1,Number,2019,2904838.6501174765,3425413.9029507325,2410383.5123342024
+2,DALYs (Disability-Adjusted Life Years),1,Global,1,Male,16,55-59 years,493,Ischemic heart disease,367,High LDL cholesterol,1,Number,2019,7350721.18295952,8561269.93116215,6125902.716115644
+2,DALYs (Disability-Adjusted Life Years),1,Global,2,Female,16,55-59 years,493,Ischemic heart disease,367,High LDL cholesterol,1,Number,2019,3305369.3776535876,3896156.035823662,2735837.402435419
+2,DALYs (Disability-Adjusted Life Years),1,Global,1,Male,17,60-64 years,493,Ischemic heart disease,367,High LDL cholesterol,1,Number,2019,6772238.82790783,8184039.9080974925,5365890.753037729
+2,DALYs (Disability-Adjusted Life Years),1,Global,2,Female,17,60-64 years,493,Ischemic heart disease,367,High LDL cholesterol,1,Number,2019,3663136.753660154,4382788.4565567095,2917360.5059346487
+2,DALYs (Disability-Adjusted Life Years),1,Global,1,Male,18,65-69 years,493,Ischemic heart disease,367,High LDL cholesterol,1,Number,2019,4863935.623655461,6605432.233181621,2984378.0264243814
+2,DALYs (Disability-Adjusted Life Years),1,Global,2,Female,18,65-69 years,493,Ischemic heart disease,367,High LDL cholesterol,1,Number,2019,3198552.2491077804,4298713.827854919,2004026.6661194074
+2,DALYs (Disability-Adjusted Life Years),1,Global,1,Male,19,70-74 years,493,Ischemic heart disease,367,High LDL cholesterol,1,Number,2019,3444268.6598711875,5144817.104837378,1777997.7419362725
+2,DALYs (Disability-Adjusted Life Years),1,Global,2,Female,19,70-74 years,493,Ischemic heart disease,367,High LDL cholesterol,1,Number,2019,2686160.6250507217,3886859.9395523006,1390268.9896181559
+2,DALYs (Disability-Adjusted Life Years),1,Global,1,Male,20,75-79 years,493,Ischemic heart disease,367,High LDL cholesterol,1,Number,2019,3028692.256370626,4191049.665928738,1932389.4242740553
+2,DALYs (Disability-Adjusted Life Years),1,Global,2,Female,20,75-79 years,493,Ischemic heart disease,367,High LDL cholesterol,1,Number,2019,2882320.044130582,3955937.6101237196,1846684.0366729235
+2,DALYs (Disability-Adjusted Life Years),1,Global,1,Male,30,80-84,493,Ischemic heart disease,367,High LDL cholesterol,1,Number,2019,2921815.669916087,4475949.185897617,1435880.956601611
+2,DALYs (Disability-Adjusted Life Years),1,Global,2,Female,30,80-84,493,Ischemic heart disease,367,High LDL cholesterol,1,Number,2019,3482647.2217884315,5309259.694181497,1721205.6322420393
+2,DALYs (Disability-Adjusted Life Years),1,Global,1,Male,31,85-89,493,Ischemic heart disease,367,High LDL cholesterol,1,Number,2019,1734255.1486411286,2645808.1490920456,857130.353535017
+2,DALYs (Disability-Adjusted Life Years),1,Global,2,Female,31,85-89,493,Ischemic heart disease,367,High LDL cholesterol,1,Number,2019,2429049.195215185,3699085.6826591427,1194881.4683709429
+2,DALYs (Disability-Adjusted Life Years),1,Global,1,Male,32,90-94,493,Ischemic heart disease,367,High LDL cholesterol,1,Number,2019,642782.5639582854,991653.6480266238,315336.9094693637
+2,DALYs (Disability-Adjusted Life Years),1,Global,2,Female,32,90-94,493,Ischemic heart disease,367,High LDL cholesterol,1,Number,2019,1328605.0617424306,2034930.5065942686,657882.0789436938
+2,DALYs (Disability-Adjusted Life Years),1,Global,1,Male,235,95+ years,493,Ischemic heart disease,367,High LDL cholesterol,1,Number,2019,170841.26489553007,270356.4398305082,83317.81515946062
+2,DALYs (Disability-Adjusted Life Years),1,Global,2,Female,235,95+ years,493,Ischemic heart disease,367,High LDL cholesterol,1,Number,2019,497012.18678919895,769306.8592099448,247503.0181180865

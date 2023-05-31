@@ -1,0 +1,73 @@
+measure_id,measure_name,location_id,location_name,sex_id,sex_name,age_id,age_name,cause_id,cause_name,rei_id,rei_name,metric_id,metric_name,year,val,upper,lower
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All ages,493,Ischemic heart disease,85,Air pollution,1,Number,1990,31477742.41821974,35546059.825244494,27514283.649677005
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All ages,493,Ischemic heart disease,89,Other environmental risks,1,Number,1990,5408631.29980766,7950628.874652604,3178311.0485988986
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All ages,493,Ischemic heart disease,98,Tobacco,1,Number,1990,40817000.26006844,42767997.407734096,38864232.698148645
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All ages,493,Ischemic heart disease,102,Alcohol use,1,Number,1990,-1852955.13610106,652840.2110382193,-4339347.152449661
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All ages,493,Ischemic heart disease,105,High fasting plasma glucose,1,Number,1990,19820671.88783699,29360121.18665736,12680030.402145527
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All ages,493,Ischemic heart disease,107,High systolic blood pressure,1,Number,1990,65676104.35912894,74931904.58107173,56592874.08850756
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All ages,493,Ischemic heart disease,108,High body-mass index,1,Number,1990,21132749.77627443,32587503.76349212,11787710.015253754
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All ages,493,Ischemic heart disease,110,Dietary risks,1,Number,1990,73486222.2636579,82986192.33116204,62445745.99938083
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All ages,493,Ischemic heart disease,125,Low physical activity,1,Number,1990,4843157.973725911,11108880.525063522,1512329.5649938884
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All ages,493,Ischemic heart disease,331,Non-optimal temperature,1,Number,1990,7551317.055231122,10185770.248731153,4593555.4922918305
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All ages,493,Ischemic heart disease,341,Kidney dysfunction,1,Number,1990,12753571.836623017,16911178.833924554,8879898.328116665
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All ages,493,Ischemic heart disease,367,High LDL cholesterol,1,Number,1990,60433790.218862884,70729727.46321647,50462005.363289
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All ages,493,Ischemic heart disease,85,Air pollution,2,Percent,1990,0.2599647172994401,0.29081750368303383,0.22852899206424743
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All ages,493,Ischemic heart disease,89,Other environmental risks,2,Percent,1990,0.04466501184510012,0.06494088675357955,0.026217266984651707
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All ages,493,Ischemic heart disease,98,Tobacco,2,Percent,1990,0.3371636608215414,0.34955932836724835,0.3255107944358716
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All ages,493,Ischemic heart disease,102,Alcohol use,2,Percent,1990,-0.015303592644368508,0.005416414152899491,-0.036216920788987285
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All ages,493,Ischemic heart disease,105,High fasting plasma glucose,2,Percent,1990,0.16368497358193934,0.24545691446085,0.10656779002506636
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All ages,493,Ischemic heart disease,107,High systolic blood pressure,2,Percent,1990,0.5424795894015012,0.6132377204867913,0.46837241156373477
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All ages,493,Ischemic heart disease,108,High body-mass index,2,Percent,1990,0.17456931183137833,0.26803537598478067,0.09760740608795453
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All ages,493,Ischemic heart disease,110,Dietary risks,2,Percent,1990,0.6069741085997178,0.6784131141611279,0.5163543894264515
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All ages,493,Ischemic heart disease,125,Low physical activity,2,Percent,1990,0.039981508456593574,0.0913022656876189,0.012740440363526439
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All ages,493,Ischemic heart disease,331,Non-optimal temperature,2,Percent,1990,0.06237983835048882,0.08501433695675766,0.03769932282817418
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All ages,493,Ischemic heart disease,341,Kidney dysfunction,2,Percent,1990,0.10535384219510971,0.14045548437822478,0.07307935602850833
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All ages,493,Ischemic heart disease,367,High LDL cholesterol,2,Percent,1990,0.49917315140674484,0.5829038692087064,0.41770682688341343
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All ages,493,Ischemic heart disease,85,Air pollution,3,Rate,1990,588.385768327603,664.4312493385685,514.300317669172
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All ages,493,Ischemic heart disease,89,Other environmental risks,3,Rate,1990,101.09879039787995,148.6141165064106,59.40937451828013
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All ages,493,Ischemic heart disease,98,Tobacco,3,Rate,1990,762.9563054352797,799.4245800809783,726.4549379922204
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All ages,493,Ischemic heart disease,102,Alcohol use,3,Rate,1990,-34.63566150793422,12.20296818187767,-81.11160179188879
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All ages,493,Ischemic heart disease,105,High fasting plasma glucose,3,Rate,1990,370.49039612015,548.8029361535106,237.01666185137117
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All ages,493,Ischemic heart disease,107,High systolic blood pressure,3,Rate,1990,1227.6256858161091,1400.6362229988017,1057.84084703483
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All ages,493,Ischemic heart disease,108,High body-mass index,3,Rate,1990,395.01591469885955,609.1295616124856,220.33730125873203
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All ages,493,Ischemic heart disease,110,Dietary risks,3,Rate,1990,1373.6133542750024,1551.1879437418197,1167.2434366630148
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All ages,493,Ischemic heart disease,125,Low physical activity,3,Rate,1990,90.5288945961149,207.64853832769575,28.268647136156428
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All ages,493,Ischemic heart disease,331,Non-optimal temperature,3,Rate,1990,141.1501316833879,190.39364939777852,85.86329482520951
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All ages,493,Ischemic heart disease,341,Kidney dysfunction,3,Rate,1990,238.39130723902483,316.10580007049094,165.98413352018935
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All ages,493,Ischemic heart disease,367,High LDL cholesterol,3,Rate,1990,1129.635715879456,1322.0886200834534,943.2419073308369
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All ages,493,Ischemic heart disease,85,Air pollution,1,Number,2019,45354419.60487816,51231553.78747896,39644689.76643679
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All ages,493,Ischemic heart disease,89,Other environmental risks,1,Number,2019,8368695.847249382,12449232.129996652,4896397.710652758
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All ages,493,Ischemic heart disease,98,Tobacco,1,Number,2019,50725062.81884996,54647320.19562761,46709844.438805014
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All ages,493,Ischemic heart disease,102,Alcohol use,1,Number,2019,-2002920.8219759953,1210754.4127229466,-5192153.890181099
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All ages,493,Ischemic heart disease,105,High fasting plasma glucose,1,Number,2019,43253265.378153674,64164591.73407265,27821408.80879465
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All ages,493,Ischemic heart disease,107,High systolic blood pressure,1,Number,2019,99397293.6090439,114599328.25694746,84593992.83111084
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All ages,493,Ischemic heart disease,108,High body-mass index,1,Number,2019,41369772.7401531,58657878.31999384,26027703.450551957
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All ages,493,Ischemic heart disease,110,Dietary risks,1,Number,2019,103864033.84951977,120418948.61955279,86829032.4516508
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All ages,493,Ischemic heart disease,125,Low physical activity,1,Number,2019,7586665.852924038,16747204.70213353,2613511.448607067
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All ages,493,Ischemic heart disease,331,Non-optimal temperature,1,Number,2019,11147183.73616523,14343153.344449349,7627123.2705670195
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All ages,493,Ischemic heart disease,341,Kidney dysfunction,1,Number,2019,22516855.81750246,29665067.444120206,15811006.348381966
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All ages,493,Ischemic heart disease,367,High LDL cholesterol,1,Number,2019,84916393.6812716,101382483.1297946,69572553.36989829
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All ages,493,Ischemic heart disease,85,Air pollution,2,Percent,2019,0.24910780990789097,0.2748717675644383,0.22356995889918066
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All ages,493,Ischemic heart disease,89,Other environmental risks,2,Percent,2019,0.04595393648893577,0.06690532371506235,0.02749023869465161
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All ages,493,Ischemic heart disease,98,Tobacco,2,Percent,2019,0.2786710433730273,0.29119996735573334,0.26621779051730815
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All ages,493,Ischemic heart disease,102,Alcohol use,2,Percent,2019,-0.01100731518648875,0.006586843122688845,-0.028840029177051297
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All ages,493,Ischemic heart disease,105,High fasting plasma glucose,2,Percent,2019,0.23762692253280654,0.35791091612873976,0.15281093038713203
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All ages,493,Ischemic heart disease,107,High systolic blood pressure,2,Percent,2019,0.5460222834051284,0.6192924613521847,0.4681096100808538
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All ages,493,Ischemic heart disease,108,High body-mass index,2,Percent,2019,0.22721529869599305,0.31961032636509923,0.145760331447957
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All ages,493,Ischemic heart disease,110,Dietary risks,2,Percent,2019,0.5705855006854443,0.6476928567523496,0.4793530382505241
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All ages,493,Ischemic heart disease,125,Low physical activity,2,Percent,2019,0.041632057673602736,0.09113940635207918,0.014459381014916712
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All ages,493,Ischemic heart disease,331,Non-optimal temperature,2,Percent,2019,0.061224838435952694,0.07791913648820988,0.04227104708785214
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All ages,493,Ischemic heart disease,341,Kidney dysfunction,2,Percent,2019,0.12371134418673316,0.16128324809347203,0.08806128407368462
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All ages,493,Ischemic heart disease,367,High LDL cholesterol,2,Percent,2019,0.46643120250027453,0.550044925618727,0.38511954088467526
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All ages,493,Ischemic heart disease,85,Air pollution,3,Rate,2019,586.1664229285741,662.1232701531342,512.3731312395812
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All ages,493,Ischemic heart disease,89,Other environmental risks,3,Rate,2019,108.15811451441785,160.89549661137605,63.28168139495461
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All ages,493,Ischemic heart disease,98,Tobacco,3,Rate,2019,655.5773149427415,706.2690798551885,603.6841099229849
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All ages,493,Ischemic heart disease,102,Alcohol use,3,Rate,2019,-25.88600943094309,15.647947638480241,-67.1040727588715
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All ages,493,Ischemic heart disease,105,High fasting plasma glucose,3,Rate,2019,559.0108321872486,829.2715361170303,359.5675090621297
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All ages,493,Ischemic heart disease,107,High systolic blood pressure,3,Rate,2019,1284.6235615222777,1481.0966362177246,1093.3037752670152
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All ages,493,Ischemic heart disease,108,High body-mass index,3,Rate,2019,534.66832815242,758.1020551239104,336.38542751883847
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All ages,493,Ischemic heart disease,110,Dietary risks,3,Rate,2019,1342.3522938425401,1556.310167345874,1122.1897182663747
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All ages,493,Ischemic heart disease,125,Low physical activity,3,Rate,2019,98.05105706797598,216.44305361690382,33.77736217239802
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All ages,493,Ischemic heart disease,331,Non-optimal temperature,3,Rate,2019,144.0676536769696,185.3727809257998,98.57393400008786
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All ages,493,Ischemic heart disease,341,Kidney dysfunction,3,Rate,2019,291.0107756890857,383.39519326104556,204.34350422456293
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All ages,493,Ischemic heart disease,367,High LDL cholesterol,3,Rate,2019,1097.4705258226222,1310.2804093080354,899.1647362731167

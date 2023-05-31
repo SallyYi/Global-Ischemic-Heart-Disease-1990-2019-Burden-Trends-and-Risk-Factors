@@ -1,0 +1,91 @@
+measure_id,measure_name,location_id,location_name,sex_id,sex_name,age_id,age_name,cause_id,cause_name,rei_id,rei_name,metric_id,metric_name,year,val,upper,lower
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All ages,493,Ischemic heart disease,99,Smoking,1,Number,1990,35940987.53934146,37597809.511796065,34339178.41513031
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All ages,493,Ischemic heart disease,100,Secondhand smoke,1,Number,1990,6971308.016057572,8351451.345382087,5666954.655118218
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All ages,493,Ischemic heart disease,111,Diet low in fruits,1,Number,1990,7717573.359679303,11288846.006031614,3342884.521090067
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All ages,493,Ischemic heart disease,112,Diet low in vegetables,1,Number,1990,6858372.388361428,9645677.193521857,3827103.8261179384
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All ages,493,Ischemic heart disease,113,Diet low in whole grains,1,Number,1990,22501592.403914817,28872257.539760392,8523754.675400592
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All ages,493,Ischemic heart disease,114,Diet low in nuts and seeds,1,Number,1990,9914961.855252625,13302749.24516013,5298850.80381094
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All ages,493,Ischemic heart disease,116,Diet high in red meat,1,Number,1990,5698588.75401913,10253695.002492199,996859.9341589055
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All ages,493,Ischemic heart disease,117,Diet high in processed meat,1,Number,1990,3792646.130728986,6961719.026495302,676429.2215017896
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All ages,493,Ischemic heart disease,118,Diet high in sugar-sweetened beverages,1,Number,1990,2834436.480652953,3542394.404015014,1936708.1107543854
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All ages,493,Ischemic heart disease,119,Diet low in fiber,1,Number,1990,7040398.567740865,11109212.95546947,3056288.9567163885
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All ages,493,Ischemic heart disease,121,Diet low in seafood omega-3 fatty acids,1,Number,1990,5041777.366791306,6543505.191467868,2240307.232402495
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All ages,493,Ischemic heart disease,122,Diet low in polyunsaturated fatty acids,1,Number,1990,5604459.067763436,11357975.914329536,754732.6925639522
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All ages,493,Ischemic heart disease,123,Diet high in trans fatty acids,1,Number,1990,10747489.870374737,14358478.022488307,1156414.8540780202
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All ages,493,Ischemic heart disease,124,Diet high in sodium,1,Number,1990,11340076.883624837,24105388.514080815,3448623.9389276607
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All ages,493,Ischemic heart disease,333,Diet low in legumes,1,Number,1990,18645613.734192066,29986768.53638769,4851739.334338206
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All ages,493,Ischemic heart disease,99,Smoking,1,Number,2019,43452750.83754185,46783925.228420556,40296865.59566305
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All ages,493,Ischemic heart disease,100,Secondhand smoke,1,Number,2019,9566130.39156044,11527142.201142706,7720281.532448067
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All ages,493,Ischemic heart disease,111,Diet low in fruits,1,Number,2019,10233389.331569811,15123422.177452266,4241418.153448017
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All ages,493,Ischemic heart disease,112,Diet low in vegetables,1,Number,2019,8383029.755921478,11970192.57648127,4666246.969370731
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All ages,493,Ischemic heart disease,113,Diet low in whole grains,1,Number,2019,32206518.532476712,41835001.89960033,12173283.67607493
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All ages,493,Ischemic heart disease,114,Diet low in nuts and seeds,1,Number,2019,12278975.199084654,16919105.12822977,6364300.919105551
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All ages,493,Ischemic heart disease,116,Diet high in red meat,1,Number,2019,7742346.290197506,14077673.403078575,1340006.4830406057
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All ages,493,Ischemic heart disease,117,Diet high in processed meat,1,Number,2019,4141887.3332622927,8024125.283767576,998642.5523070461
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All ages,493,Ischemic heart disease,118,Diet high in sugar-sweetened beverages,1,Number,2019,3973223.576220941,5218831.013160769,2470163.2923400565
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All ages,493,Ischemic heart disease,119,Diet low in fiber,1,Number,2019,7942964.9953904655,12978287.551154394,3373577.6096716174
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All ages,493,Ischemic heart disease,121,Diet low in seafood omega-3 fatty acids,1,Number,2019,7409654.912597366,9686982.236660795,3373472.422945698
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All ages,493,Ischemic heart disease,122,Diet low in polyunsaturated fatty acids,1,Number,2019,8012899.225591448,16249212.865123792,969247.9078172422
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All ages,493,Ischemic heart disease,123,Diet high in trans fatty acids,1,Number,2019,14234236.951457942,19410190.786660146,1580401.8849901222
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All ages,493,Ischemic heart disease,124,Diet high in sodium,1,Number,2019,17353889.501315255,36861538.716678284,4712349.055725863
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All ages,493,Ischemic heart disease,333,Diet low in legumes,1,Number,2019,24309038.53964054,39575296.59053583,5263142.143200427
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All ages,493,Ischemic heart disease,99,Smoking,2,Percent,1990,0.29689063950828404,0.3071582675209321,0.2860565535565592
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All ages,493,Ischemic heart disease,100,Secondhand smoke,2,Percent,1990,0.057581705574075125,0.0683141818852179,0.04703380441905798
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All ages,493,Ischemic heart disease,111,Diet low in fruits,2,Percent,1990,0.06374836639930614,0.09273540376901841,0.027607272971133964
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All ages,493,Ischemic heart disease,112,Diet low in vegetables,2,Percent,1990,0.056658119104370845,0.07979687843978231,0.031589003174863475
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All ages,493,Ischemic heart disease,113,Diet low in whole grains,2,Percent,1990,0.1858284952244304,0.2393182003853696,0.07003407328543085
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All ages,493,Ischemic heart disease,114,Diet low in nuts and seeds,2,Percent,1990,0.08190843577441546,0.11098621836109122,0.04395129124281216
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All ages,493,Ischemic heart disease,116,Diet high in red meat,2,Percent,1990,0.04708921100317364,0.08493813031463768,0.00821740397322682
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All ages,493,Ischemic heart disease,117,Diet high in processed meat,2,Percent,1990,0.03133398524601981,0.05744519564821044,0.005574995077502787
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All ages,493,Ischemic heart disease,118,Diet high in sugar-sweetened beverages,2,Percent,1990,0.02341278258511211,0.029224233895448593,0.015977792604267103
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All ages,493,Ischemic heart disease,119,Diet low in fiber,2,Percent,1990,0.05814935513776352,0.09207657380807682,0.02466264087623402
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All ages,493,Ischemic heart disease,121,Diet low in seafood omega-3 fatty acids,2,Percent,1990,0.041645783518667344,0.05332737729753661,0.01868758669342558
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All ages,493,Ischemic heart disease,122,Diet low in polyunsaturated fatty acids,2,Percent,1990,0.0462626725180489,0.0933731092776044,0.006358443674449253
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All ages,493,Ischemic heart disease,123,Diet high in trans fatty acids,2,Percent,1990,0.0887531060428838,0.11675739959132288,0.00937395394677516
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All ages,493,Ischemic heart disease,124,Diet high in sodium,2,Percent,1990,0.09364906400989657,0.19792524326882704,0.028644647560299066
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All ages,493,Ischemic heart disease,333,Diet low in legumes,2,Percent,1990,0.15403955181715925,0.24766585270871844,0.03949415726079791
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All ages,493,Ischemic heart disease,99,Smoking,3,Rate,1990,671.8132859346324,702.7828026265453,641.872076055566
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All ages,493,Ischemic heart disease,100,Secondhand smoke,3,Rate,1990,130.30853257450346,156.1063386063865,105.92740179802234
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All ages,493,Ischemic heart disease,111,Diet low in fruits,3,Rate,1990,144.2578146338471,211.01247486370877,62.4856017702704
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All ages,493,Ischemic heart disease,112,Diet low in vegetables,3,Rate,1990,128.1975261627128,180.29816468875487,71.53668758330421
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All ages,493,Ischemic heart disease,113,Diet low in whole grains,3,Rate,1990,420.60248664811144,539.6837298614981,159.32705329015812
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All ages,493,Ischemic heart disease,114,Diet low in nuts and seeds,3,Rate,1990,185.33166615420936,248.6565977791506,99.04676008940928
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All ages,493,Ischemic heart disease,116,Diet high in red meat,3,Rate,1990,106.51871020063483,191.66330711017608,18.633426453594538
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All ages,493,Ischemic heart disease,117,Diet high in processed meat,3,Rate,1990,70.89260017364,130.12929402187376,12.643896818413628
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All ages,493,Ischemic heart disease,118,Diet high in sugar-sweetened beverages,3,Rate,1990,52.981629504645156,66.21486463144049,36.201182239579595
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All ages,493,Ischemic heart disease,119,Diet low in fiber,3,Rate,1990,131.59998152265942,207.6547521570492,57.12852281896401
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All ages,493,Ischemic heart disease,121,Diet low in seafood omega-3 fatty acids,3,Rate,1990,94.2415123131309,122.31199043705823,41.87609373993907
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All ages,493,Ischemic heart disease,122,Diet low in polyunsaturated fatty acids,3,Rate,1990,104.7592267207162,212.304659470466,14.107554769847948
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All ages,493,Ischemic heart disease,123,Diet high in trans fatty acids,3,Rate,1990,200.8933805021965,268.3904077691025,21.61584631394381
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All ages,493,Ischemic heart disease,124,Diet high in sodium,3,Rate,1990,211.97008862375188,450.58083750896094,64.46209575704611
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All ages,493,Ischemic heart disease,333,Diet low in legumes,3,Rate,1990,348.52606699590484,560.51630420395,90.68929842654468
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All ages,493,Ischemic heart disease,99,Smoking,2,Percent,2019,0.23872539791677494,0.2501178794057758,0.22755817465848927
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All ages,493,Ischemic heart disease,100,Secondhand smoke,2,Percent,2019,0.05254626492550051,0.06282043187630035,0.04330576617979115
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All ages,493,Ischemic heart disease,111,Diet low in fruits,2,Percent,2019,0.056209568291968784,0.0824734085673955,0.023224679249346868
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All ages,493,Ischemic heart disease,112,Diet low in vegetables,2,Percent,2019,0.046054034299216944,0.06505946223411217,0.025370989341860054
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All ages,493,Ischemic heart disease,113,Diet low in whole grains,2,Percent,2019,0.1769586565206132,0.22988960104264075,0.06642116091657502
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All ages,493,Ischemic heart disease,114,Diet low in nuts and seeds,2,Percent,2019,0.0674539042334947,0.09177146962666581,0.03482958598518857
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All ages,493,Ischemic heart disease,116,Diet high in red meat,2,Percent,2019,0.04250344203577332,0.0764890955927716,0.007366476872520973
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All ages,493,Ischemic heart disease,117,Diet high in processed meat,2,Percent,2019,0.02275858968037717,0.04445951428156912,0.005520986155914875
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All ages,493,Ischemic heart disease,118,Diet high in sugar-sweetened beverages,2,Percent,2019,0.021822287901136505,0.028039807276309114,0.013669454483676409
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All ages,493,Ischemic heart disease,119,Diet low in fiber,2,Percent,2019,0.04361909158017682,0.07015296708565896,0.01809839693640322
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All ages,493,Ischemic heart disease,121,Diet low in seafood omega-3 fatty acids,2,Percent,2019,0.040710812617597604,0.05203930738946349,0.018595616225581882
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All ages,493,Ischemic heart disease,122,Diet low in polyunsaturated fatty acids,2,Percent,2019,0.04403975520906702,0.08981955827578077,0.005362373205734212
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All ages,493,Ischemic heart disease,123,Diet high in trans fatty acids,2,Percent,2019,0.07818631895831031,0.10511233507032473,0.008689131095400895
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All ages,493,Ischemic heart disease,124,Diet high in sodium,2,Percent,2019,0.0952593452680572,0.20273423526089782,0.026086168832594427
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All ages,493,Ischemic heart disease,333,Diet low in legumes,2,Percent,2019,0.13360256837385126,0.213677863445409,0.02958631304468038
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All ages,493,Ischemic heart disease,99,Smoking,3,Rate,2019,561.589008232154,604.6415396913509,520.8019365526783
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All ages,493,Ischemic heart disease,100,Secondhand smoke,3,Rate,2019,123.63391443964564,148.97828633895872,99.77792350339934
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All ages,493,Ischemic heart disease,111,Diet low in fruits,3,Rate,2019,132.25765583992882,195.45707689405376,54.81664033649181
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All ages,493,Ischemic heart disease,112,Diet low in vegetables,3,Rate,2019,108.34336781599501,154.70432706336553,60.307183255039384
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All ages,493,Ischemic heart disease,113,Diet low in whole grains,3,Rate,2019,416.2412379571972,540.6810103697428,157.32910287164515
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All ages,493,Ischemic heart disease,114,Diet low in nuts and seeds,3,Rate,2019,158.6950738732854,218.66471710069564,82.25305354347185
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All ages,493,Ischemic heart disease,116,Diet high in red meat,3,Rate,2019,100.06309130480547,181.9416836050029,17.31841822049307
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All ages,493,Ischemic heart disease,117,Diet high in processed meat,3,Rate,2019,53.5302910601108,103.70483969793487,12.906586343067687
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All ages,493,Ischemic heart disease,118,Diet high in sugar-sweetened beverages,3,Rate,2019,51.350458708513706,67.44885136892202,31.924711940635333
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All ages,493,Ischemic heart disease,119,Diet low in fiber,3,Rate,2019,102.65591356600972,167.73307774354976,43.60055617866287
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All ages,493,Ischemic heart disease,121,Diet low in seafood omega-3 fatty acids,3,Rate,2019,95.76334463301512,125.19581941746122,43.59919673172454
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All ages,493,Ischemic heart disease,122,Diet low in polyunsaturated fatty acids,3,Rate,2019,103.55975266072845,210.0069422899223,12.526686131270198
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All ages,493,Ischemic heart disease,123,Diet high in trans fatty acids,3,Rate,2019,183.96513128472344,250.85983242422517,20.425319688460892
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All ages,493,Ischemic heart disease,124,Diet high in sodium,3,Rate,2019,224.28392693596675,476.403324779278,60.90301262037482
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All ages,493,Ischemic heart disease,333,Diet low in legumes,3,Rate,2019,314.1731784851532,511.47628480106687,68.02153418170079
